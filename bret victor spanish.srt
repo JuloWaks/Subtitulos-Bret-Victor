@@ -252,80 +252,80 @@ podemos pensar maneras de cambiar el código fuera de tipear...
 
 64
 00:04:12,555 --> 00:04:16,161
-So, for example, this number here is the length of the branches
-Por ejemplo, este numero es largo
+Por ejemplo, este numero es la cantidad de ramas
 
 65
 00:04:16,161 --> 00:04:18,428
-So if I want to control that number, I just point my mouse to it,
+Si quisiera controlar ese numero, solo tengo que apuntar mi puntero a él,
 
 66
 00:04:18,428 --> 00:04:22,587
-hold down my control key, and I can dial it up and down.
+presionar mi tecla ctrl, y subir y bajar el valor del numero.
 
 67
 00:04:24,034 --> 00:04:27,218
-So I can see what it looks like for big branches or small branches
+Yo puedo ver como luce muchas ramas o pocas ramas
 
 68
 00:04:27,218 --> 00:04:31,576
-and I can converge on what feels right to me artistically.
+y puedo llenar con lo que me parece artisticamente correcto.
 
 69
 00:04:31,576 --> 00:04:32,732
-And this works for any number in the code
+Y funciona para cualquier numero en el código
 
 70
 00:04:32,732 --> 00:04:35,492
-So I just point to it and dial up and down
+Solo apunto a él y lo subo y bajo
 
 71
 00:04:35,492 --> 00:04:37,856
-And some of these numbers here, I know what they do
+Y algunos de estos numeros aquí, se lo que hacen
 
 72
 00:04:37,856 --> 00:04:42,217
-But still kind of surprising to see them do it [chuckles]
+Pero aun es algo sorprendete verlos hacerlo [risas]
 
 73
 00:04:42,217 --> 00:04:46,147
-And other ones are just completely surprising
+Y otras acciones son completamente sorprendentes
 
 74
 00:04:46,147 --> 00:04:47,725
-[chuckles]
+[risas]
 
 75
 00:04:48,771 --> 00:04:50,919
-So down here, I've got
+Estoy aquí, tengo este
 
 76
 00:04:50,919 --> 00:04:52,854
-this for loop where I'm counting to sixteen,
+bucle donde estoy contando hasta dicesiceis,
 
 77
 00:04:52,854 --> 00:04:56,266
-I'm putting sixteen little pink blossoms on every branch.
+Estoy poniendo dieciseis pequeñas flores rosas en cada rama.
 
 78
 00:04:56,266 --> 00:05:00,439
-And I can turn it down for less blossoms or turn it up for more.
+Y puedo bajar el numero para menos flores o subirlo para más.
 
 79
 00:05:00,439 --> 00:05:03,463
-But, look at what I'm doing here:
+Pero, miren a lo que estoy haciendo aquí:
 
 80
 00:05:03,463 --> 00:05:07,334
-I'm just moving that number up and down around twenty or so:
+**Solo estoy moviendo ese número hacia arriba y abajo alrededor de veinto o parecido:
 
 81
 00:05:07,334 --> 00:05:09,111
 and it has this really interesting shimmering effect;
+y tiene
 
 82
 00:05:09,111 --> 00:05:13,183
-it kind of looks as if the wind is blowing through the tree.
+parece como que el viento esta soplando entre los arboles.
 
 83
 00:05:13,183 --> 00:05:15,986

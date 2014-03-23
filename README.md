@@ -1,4 +1,4 @@
 Subtitulos-Bret-Victor
 ======================
 
-Traduccion de la charla de bret victor.
+*1 Traduccion (comunitaria) de la charla de Bret Victor.
