@@ -320,8 +320,7 @@ Pero, miren a lo que estoy haciendo aquí:
 
 81
 00:05:07,334 --> 00:05:09,111
-and it has this really interesting shimmering effect;
-y tiene
+y tiene un efecto reluciente muy interesante;
 
 82
 00:05:09,111 --> 00:05:13,183
@@ -329,99 +328,100 @@ parece como que el viento esta soplando entre los arboles.
 
 83
 00:05:13,183 --> 00:05:15,986
-And the first time I saw this I immediately started thinking about
+Y la primera vez que vi esto inmediatamente me puse a pensar sobre ello
 
 84
 00:05:15,986 --> 00:05:20,391
-how I could use this effect for an animation.
+como podría usar este efecto para una animación.
 
 85
 00:05:20,391 --> 00:05:25,463
-How would I ever have discovered that if I had to compile and run between every change?
+Cómo podría haber descubierto eso si hubiese tenido que compilar y ejecutar entre cada cambio?
 
 86
 00:05:25,463 --> 00:05:28,867
-So much of art, so much of creation is discovery,
+Mucho del arte, mucho de la invencion es descubrimiento,
 
 87
 00:05:28,867 --> 00:05:32,629
-and you can't discover anything if you can't see what you're doing.
+y no puedes descubrir nada si no logras ver lo que estas haciendo.
 
 88
 00:05:32,629 --> 00:05:36,107
-So I've shown you adjusting the code, let's add some code.
+Les he mostrado que sucede modificando el código, vamos a agregar algo de código.
 
 89
 00:05:36,107 --> 00:05:38,468
-I'd like to put a sun up here in the sky,
+Me gustaría poner un sol aquí en el cielo,
 
 90
 00:05:38,468 --> 00:05:41,010
-so I'll go to the drawSky function,
+Ire a la función dibujarCielo,
 
 91
 00:05:41,010 --> 00:05:43,213
-and I want to fill in a circle,
+y quiero rellenar en un círculo,
 
 92
 00:05:43,213 --> 00:05:46,250
-so I start typing context.fillCircle,
+empiezo a escribir contexto.llenarCirculo,
 
 93
 00:05:46,250 --> 00:05:48,826
-and as soon as I start typing I get this autocomplete list
+y apenas que empiezo a escribir, recibo la lista de autcompletado
 
 94
 00:05:48,826 --> 00:05:51,159
-of the different fill methods.
+de los diferentes metodos de llenado.
 
 95
 00:05:51,159 --> 00:05:55,876
-So these are the things I can type there: fillCircle, fillRect, fillText.
+Estos son las cosas que puedo tipear aqui: llenarCirculo, llenarRectangulo, llenarTexto.
 
 96
 00:05:55,876 --> 00:05:58,088
-And as I move up and down this autocomplete list,
+y cuando me muevo para arriba o para abajo en esta lista de autocompletado,
 
 97
 00:05:58,088 --> 00:06:02,278
-I immediately see what each of them is doing.
+Inmediatamente veo que hace cada una de ellas.
 
 98
 00:06:02,278 --> 00:06:05,669
-So, I don't have to imagine what it would do from the method name.
+Yo no tengo que imaginar que hara a partir del nombre del metodo.
 
 99
 00:06:05,669 --> 00:06:08,026
-I don't have to look at the documentation,
+No tengo que mirar la documentación,
 
 100
 00:06:08,026 --> 00:06:11,068
-I just see it, immediately.
+Yo lo veo, inmediatamente.
 
 101
 00:06:11,068 --> 00:06:12,232
-So I want a circle,
+Yo quiero un círculo,
 
 102
 00:06:12,247 --> 00:06:14,966
-and I'm going to adjust the x coordinate
+y solo voy a ajustar la coordenada X
 
 103
 00:06:14,966 --> 00:06:16,509
-and the y coordinate,
+y la coordenada Y,
 
 104
 00:06:16,509 --> 00:06:18,208
-change a radius a bit...
+cambiar el radio un poco...
 
 105
 00:06:20,300 --> 00:06:22,698
 And that looks about right.
+***y mirar
 
 106
 00:06:22,698 --> 00:06:24,125
-Probably should be yellow,
+Probablemente debería ser amarillo,
 
 107
 00:06:24,125 --> 00:06:25,988
