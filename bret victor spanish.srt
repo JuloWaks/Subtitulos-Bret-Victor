@@ -216,43 +216,44 @@ y esta parte dibuja el cielo y esta parte las montañas.
 
 55
 00:03:44,916 --> 00:03:47,343
-this draws the tree,
+esto dibuja un arbol,
 
 56
 00:03:47,343 --> 00:03:49,570
-and when I make any change to the code
+y cuando hago cualquier cambio al código
 
 57
 00:03:49,570 --> 00:03:52,820
-the picture changes immediately.
+el dibujo cambia inmediatamente.
 
 58
 00:03:52,820 --> 00:03:57,008
-So the code and the picture are always in sync; there is no compile and run.
+El código y el dibujo estan siempre sincronizados, no hay un compliar y ejecutar.
 
 59
 00:03:57,008 --> 00:04:00,684
-I just change things in the code
+Yo solo cambio cosas en el código
 
 60
 00:04:00,684 --> 00:04:04,594
-and I can see the change in the picture.
+y veo el cambio en el código.
 
 61
 00:04:05,871 --> 00:04:08,149
-And now that we have this immediate connection between
+Y ahora que tenemos esta conexión inmediata entre
 
 62
 00:04:08,149 --> 00:04:09,506
-the code and the picture,
+el código y el dibujo,
 
 63
 00:04:09,506 --> 00:04:12,555
-we can think of ways of changing the code other than typing. ...
+podemos pensar maneras de cambiar el código fuera de tipear...
 
 64
 00:04:12,555 --> 00:04:16,161
 So, for example, this number here is the length of the branches
+Por ejemplo, este numero es largo
 
 65
 00:04:16,161 --> 00:04:18,428
