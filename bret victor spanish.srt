@@ -1,0 +1,3704 @@
+﻿1
+00:00:07,311 --> 00:00:11,916
+A difirencia de la conferencia pasada, no tengo premios para dar.
+
+2
+00:00:11,916 --> 00:00:14,182
+Solo te voy a decir como vivir tu vida.
+
+3
+00:00:14,752 --> 00:00:21,188
+Esta charla es en realidad sobre una forma de vivir tu vida que la mayoria de la gente no conoce.
+
+4
+00:00:21,758 --> 00:00:28,202
+A medida que te acerques a tu carrera, vas a escuchar un monton acerca de como "seguir tu pasion",
+
+5
+00:00:28,202 --> 00:00:31,068
+o "hacer algo que amas".
+
+6
+00:00:31,068 --> 00:00:33,337
+Voy a hablarles sobre algo un poco diferente.
+
+7
+00:00:33,337 --> 00:00:36,964
+Voy a hablar sobre seguir un principio,
+
+8
+00:00:37,241 --> 00:00:41,013
+encontrar un principio guia para tu trabajo, algo que creas que es importante
+
+9
+00:00:41,013 --> 00:00:45,148
+necesario y correcto, y lo uses para guiar lo que haces.
+
+10
+00:00:45,148 --> 00:00:48,486
+Hay tres partes en esta conferencia.
+
+11
+00:00:48,486 --> 00:00:51,923
+Primero voy a hablar sobre el principio que guia mucho de mi trabajo,
+
+12
+00:00:51,923 --> 00:00:54,358
+y tratar de que echen un vistazo de lo que se obtiene de eso.
+
+13
+00:00:54,358 --> 00:00:58,496
+Y, voy a hablar sobre otras personas que han vivido su vida de éste modo.
+
+14
+00:00:58,496 --> 00:00:59,980
+cuales son sus principios, en que creen.
+
+15
+00:00:59,980 --> 00:01:06,738
+Pero esos son todos ejemplo, para ayudar a pensar en que crees tu,
+
+16
+00:01:06,738 --> 00:01:09,818
+y como quieres vivir tu vida.
+
+17
+00:01:11,342 --> 00:01:15,147
+Para empezar conmigo: Las ideas son muy importantes.
+
+18
+00:01:15,147 --> 00:01:21,140
+Yo pienso que traer ideas al mundo es una de las cosas mas importantes que la gente hace.
+
+19
+00:01:21,140 --> 00:01:29,224
+Y también pienso que las grandes ideas, en forma de arte genial, historias, invenciones, teorias cientificas,
+
+20
+00:01:29,224 --> 00:01:32,799
+esas toman vida propia,
+
+21
+00:01:32,799 --> 00:01:35,302
+que da sentido a nuestas vidas como personas.
+
+22
+00:01:35,317 --> 00:01:40,036
+Yo pienso mucho acerca de como las personas crean ideas, y en como las ideas crecen.
+
+23
+00:01:40,036 --> 00:01:46,307
+Y en particular, que conjunto de herramientas crean un ambiente saludable para que las ideas crezcan.
+
+24
+00:01:46,307 --> 00:01:51,148
+Ahora, he pasado mucho de mi tiempo a traves de los años haciendo herramientas creativas, usandolas,
+
+25
+00:01:51,148 --> 00:01:54,925
+pensando mucho sobre ellas, y aqui esta algo que he llegado a creer:
+
+26
+00:01:55,556 --> 00:02:01,306
+Los inventores necesitan una coneccion inmediata con lo que estan creando.
+
+27
+00:02:01,306 --> 00:02:02,474
+Ese es mi prinicipio.
+
+28
+00:02:02,474 --> 00:02:06,063
+Los inventores necesitan una coneccion con lo que crean.
+
+29
+00:02:06,063 --> 00:02:10,306
+Lo que trato de decir con esto es que cuando estas haciendo algo, si haces un cambio,
+
+30
+00:02:10,306 --> 00:02:14,271
+o tomas una desciscion, tu nescesitas ver un efecto inmediato sobre eso.
+
+31
+00:02:14,271 --> 00:02:18,109
+No puede haber una demora, no puede haber nada oculto.
+
+32
+00:02:18,109 --> 00:02:20,846
+Los inventores tiene que ser capaces de ver lo que estan haciendo
+
+33
+00:02:20,846 --> 00:02:25,223
+Ahora voy a mostrarles una serie de casos donde note que este principio es violado
+
+34
+00:02:25,223 --> 00:02:28,118
+Y también voy a mostrarles que hice al respecto.
+
+35
+00:02:28,118 --> 00:02:31,872
+Y luego voy a hablarles de un contexto mayor, en donde esto funciona
+
+36
+00:02:32,903 --> 00:02:36,307
+Para empezar, pensemos acerca de programar.
+
+37
+00:02:36,307 --> 00:02:39,530
+Asi es como la programación funciona : escribes un monton de codigo en un editor de texto,
+
+38
+00:02:39,530 --> 00:02:43,934
+tratas de imaginar en tu cabeza que hara cada linea de codigo.
+
+39
+00:02:43,934 --> 00:02:47,805
+Y luego los complias y ejecutas, y algo sucede.
+
+40
+00:02:47,805 --> 00:02:53,060
+En este caso, esto es solo JavaScript, Canvas, y dibuja este pequeño árbol.
+
+41
+00:02:53,060 --> 00:02:56,317
+Pero, si hay algo mal en la escena,
+
+42
+00:02:56,331 --> 00:03:00,418
+o si voy y hago cambios, o si tengo mas ideas
+
+43
+00:03:00,418 --> 00:03:02,287
+Tengo que ir devuelta al código,
+
+44
+00:03:02,287 --> 00:03:05,339
+y editar, compilarlo y ejecutarlo,
+
+45
+00:03:05,339 --> 00:03:07,786
+Mirar como luce.
+
+46
+00:03:07,786 --> 00:03:08,959
+Si algo va mal, vas devuelta al código.
+
+47
+00:03:08,959 --> 00:03:13,765
+La mayoría de mi tiempo lo paso en el código, trabajando a ciegas en un editor de texto,
+
+48
+00:03:13,765 --> 00:03:17,320
+sin una conexión inmediata a lo que hago,
+
+49
+00:03:17,320 --> 00:03:20,953
+que es lo que tratare de hacer.
+
+50
+00:03:20,968 --> 00:03:22,707
+Siento que esto va encontra del principio que tengo,
+
+51
+00:03:22,707 --> 00:03:26,383
+que un inventor necesita una conexión inmediata con lo que esta creando,
+
+52
+00:03:26,383 --> 00:03:32,991
+he probado un entorno de programacion que va a ser mucho mas acorde a mi principio.
+
+53
+00:03:33,884 --> 00:03:40,724
+Lo que tengo aquí es una foto en un lado y el código en el otro,
+
+54
+00:03:40,724 --> 00:03:44,916
+y esta parte dibuja el cielo y esta parte las montañas.
+
+55
+00:03:44,916 --> 00:03:47,343
+this draws the tree,
+
+56
+00:03:47,343 --> 00:03:49,570
+and when I make any change to the code
+
+57
+00:03:49,570 --> 00:03:52,820
+the picture changes immediately.
+
+58
+00:03:52,820 --> 00:03:57,008
+So the code and the picture are always in sync; there is no compile and run.
+
+59
+00:03:57,008 --> 00:04:00,684
+I just change things in the code
+
+60
+00:04:00,684 --> 00:04:04,594
+and I can see the change in the picture.
+
+61
+00:04:05,871 --> 00:04:08,149
+And now that we have this immediate connection between
+
+62
+00:04:08,149 --> 00:04:09,506
+the code and the picture,
+
+63
+00:04:09,506 --> 00:04:12,555
+we can think of ways of changing the code other than typing. ...
+
+64
+00:04:12,555 --> 00:04:16,161
+So, for example, this number here is the length of the branches
+
+65
+00:04:16,161 --> 00:04:18,428
+So if I want to control that number, I just point my mouse to it,
+
+66
+00:04:18,428 --> 00:04:22,587
+hold down my control key, and I can dial it up and down.
+
+67
+00:04:24,034 --> 00:04:27,218
+So I can see what it looks like for big branches or small branches
+
+68
+00:04:27,218 --> 00:04:31,576
+and I can converge on what feels right to me artistically.
+
+69
+00:04:31,576 --> 00:04:32,732
+And this works for any number in the code
+
+70
+00:04:32,732 --> 00:04:35,492
+So I just point to it and dial up and down
+
+71
+00:04:35,492 --> 00:04:37,856
+And some of these numbers here, I know what they do
+
+72
+00:04:37,856 --> 00:04:42,217
+But still kind of surprising to see them do it [chuckles]
+
+73
+00:04:42,217 --> 00:04:46,147
+And other ones are just completely surprising
+
+74
+00:04:46,147 --> 00:04:47,725
+[chuckles]
+
+75
+00:04:48,771 --> 00:04:50,919
+So down here, I've got
+
+76
+00:04:50,919 --> 00:04:52,854
+this for loop where I'm counting to sixteen,
+
+77
+00:04:52,854 --> 00:04:56,266
+I'm putting sixteen little pink blossoms on every branch.
+
+78
+00:04:56,266 --> 00:05:00,439
+And I can turn it down for less blossoms or turn it up for more.
+
+79
+00:05:00,439 --> 00:05:03,463
+But, look at what I'm doing here:
+
+80
+00:05:03,463 --> 00:05:07,334
+I'm just moving that number up and down around twenty or so:
+
+81
+00:05:07,334 --> 00:05:09,111
+and it has this really interesting shimmering effect;
+
+82
+00:05:09,111 --> 00:05:13,183
+it kind of looks as if the wind is blowing through the tree.
+
+83
+00:05:13,183 --> 00:05:15,986
+And the first time I saw this I immediately started thinking about
+
+84
+00:05:15,986 --> 00:05:20,391
+how I could use this effect for an animation.
+
+85
+00:05:20,391 --> 00:05:25,463
+How would I ever have discovered that if I had to compile and run between every change?
+
+86
+00:05:25,463 --> 00:05:28,867
+So much of art, so much of creation is discovery,
+
+87
+00:05:28,867 --> 00:05:32,629
+and you can't discover anything if you can't see what you're doing.
+
+88
+00:05:32,629 --> 00:05:36,107
+So I've shown you adjusting the code, let's add some code.
+
+89
+00:05:36,107 --> 00:05:38,468
+I'd like to put a sun up here in the sky,
+
+90
+00:05:38,468 --> 00:05:41,010
+so I'll go to the drawSky function,
+
+91
+00:05:41,010 --> 00:05:43,213
+and I want to fill in a circle,
+
+92
+00:05:43,213 --> 00:05:46,250
+so I start typing context.fillCircle,
+
+93
+00:05:46,250 --> 00:05:48,826
+and as soon as I start typing I get this autocomplete list
+
+94
+00:05:48,826 --> 00:05:51,159
+of the different fill methods.
+
+95
+00:05:51,159 --> 00:05:55,876
+So these are the things I can type there: fillCircle, fillRect, fillText.
+
+96
+00:05:55,876 --> 00:05:58,088
+And as I move up and down this autocomplete list,
+
+97
+00:05:58,088 --> 00:06:02,278
+I immediately see what each of them is doing.
+
+98
+00:06:02,278 --> 00:06:05,669
+So, I don't have to imagine what it would do from the method name.
+
+99
+00:06:05,669 --> 00:06:08,026
+I don't have to look at the documentation,
+
+100
+00:06:08,026 --> 00:06:11,068
+I just see it, immediately.
+
+101
+00:06:11,068 --> 00:06:12,232
+So I want a circle,
+
+102
+00:06:12,247 --> 00:06:14,966
+and I'm going to adjust the x coordinate
+
+103
+00:06:14,966 --> 00:06:16,509
+and the y coordinate,
+
+104
+00:06:16,509 --> 00:06:18,208
+change a radius a bit...
+
+105
+00:06:20,300 --> 00:06:22,698
+And that looks about right.
+
+106
+00:06:22,698 --> 00:06:24,125
+Probably should be yellow,
+
+107
+00:06:24,125 --> 00:06:25,988
+so I'm going to set the fill style.
+
+108
+00:06:25,988 --> 00:06:28,960
+Context.fillStyle, same autocomplete as before,
+
+109
+00:06:28,990 --> 00:06:31,143
+choose fill style
+
+110
+00:06:31,143 --> 00:06:34,157
+gives me white by default,
+
+111
+00:06:34,157 --> 00:06:37,662
+and I can change that color code the same way I change any number,
+
+112
+00:06:37,662 --> 00:06:42,806
+I hit the control key, and I get a color palette.
+
+113
+00:06:42,806 --> 00:06:46,733
+So I can choose a nice yellow for my sun.
+
+114
+00:06:48,980 --> 00:06:52,851
+Although, the white was kind of interesting, I thought.
+
+115
+00:06:52,851 --> 00:06:53,784
+I kind of didn't expect that. But,
+
+116
+00:06:53,784 --> 00:06:58,551
+with the white, it now looks like the moon instead, right ?
+
+117
+00:07:00,105 --> 00:07:05,397
+Hey, look, it's night time. [chuckles]
+
+118
+00:07:05,397 --> 00:07:08,765
+So having this immediate connection allows ideas to surface
+
+119
+00:07:08,765 --> 00:07:13,584
+and develop in ways that would be impossible before.
+
+120
+00:07:17,508 --> 00:07:19,128
+But there's still a problem here, I think.
+
+121
+00:07:19,128 --> 00:07:21,286
+Which is - I've got this picture,
+
+122
+00:07:21,286 --> 00:07:23,310
+and I've got this code over here
+
+123
+00:07:23,310 --> 00:07:26,920
+and I have to maintain a mapping between the two in my head.
+
+124
+00:07:26,920 --> 00:07:28,151
+So I've got all these lines of code,
+
+125
+00:07:28,151 --> 00:07:33,057
+and just looking at this line I don't immediately know what it does.
+
+126
+00:07:33,057 --> 00:07:34,491
+So here's what I can do.
+
+127
+00:07:34,491 --> 00:07:36,372
+I can hold down the option key,
+
+128
+00:07:36,372 --> 00:07:38,983
+my cursor changes to a magnifying glass,
+
+129
+00:07:38,983 --> 00:07:40,656
+and now as I roll over each line of code,
+
+130
+00:07:40,656 --> 00:07:42,672
+it's highlighting in the picture
+
+131
+00:07:42,672 --> 00:07:46,904
+what's being drawn in that line.
+
+132
+00:07:46,904 --> 00:07:49,807
+So, if I want to know what's going on in this function,
+
+133
+00:07:49,807 --> 00:07:54,662
+I just kinhd of roll down the function and see what highlights.
+
+134
+00:07:56,848 --> 00:08:00,018
+So here I've got two calls to drawMountain; I don't know which is which;
+
+135
+00:08:00,018 --> 00:08:03,052
+well, here's that mountain, and here's that mountain.
+
+136
+00:08:03,052 --> 00:08:04,587
+And this has to work the other way too;
+
+137
+00:08:04,587 --> 00:08:06,532
+if I see part of the picture,
+
+138
+00:08:06,532 --> 00:08:09,575
+I need to know what code was responsible for drawing it.
+
+139
+00:08:09,575 --> 00:08:12,095
+So I do the same thing; I hold down the option key,
+
+140
+00:08:12,095 --> 00:08:15,116
+and now as I move over each pixel of the picture,
+
+141
+00:08:15,116 --> 00:08:16,132
+you'll see on the right
+
+142
+00:08:16,132 --> 00:08:20,472
+it's jumping to the line of code that drew that pixel.
+
+143
+00:08:20,472 --> 00:08:23,073
+So that drew the sky, and that drew the tree
+
+144
+00:08:23,073 --> 00:08:25,849
+That drew the blossom
+
+145
+00:08:28,080 --> 00:08:29,463
+So this is really important to make that mapping
+
+146
+00:08:29,463 --> 00:08:33,749
+But it is also real useful for navigating around
+
+147
+00:08:33,749 --> 00:08:35,860
+So, I want to make sun a little bit bigger.
+
+148
+00:08:35,860 --> 00:08:38,818
+So I jump there, make it a little bit bigger
+
+149
+00:08:38,818 --> 00:08:39,915
+I want to bring up a tree a little bit,
+
+150
+00:08:39,915 --> 00:08:42,358
+so I jump there, bring up a tree a little bit
+
+151
+00:08:42,358 --> 00:08:43,833
+I want to bring up the mountains a little bit.
+
+152
+00:08:43,833 --> 00:08:46,844
+I jump there, bring up the mountains a little bit
+
+153
+00:08:46,844 --> 00:08:51,301
+And I can make these changes as quickly as I think of them
+
+154
+00:08:51,301 --> 00:08:54,137
+And that is so important to the creative process -
+
+155
+00:08:54,137 --> 00:08:57,931
+to be able to try ideas as you think of them
+
+156
+00:09:00,040 --> 00:09:01,812
+If there's any delay in that feedback loop
+
+157
+00:09:01,812 --> 00:09:06,821
+Between thinking of something and seeing it, and building on it
+
+158
+00:09:06,821 --> 00:09:09,627
+Then there is this whole world of ideas, which..
+
+159
+00:09:09,627 --> 00:09:12,708
+which will just never be...
+
+160
+00:09:14,370 --> 00:09:17,051
+These are thoughts that we can't think...
+
+161
+00:09:33,600 --> 00:09:36,654
+Ideas are very important to me.
+
+162
+00:09:36,654 --> 00:09:41,617
+And the thing about ideas, is that ideas start small.
+
+163
+00:09:41,617 --> 00:09:45,203
+Ideas start out, tiny, weak and fragile.
+
+164
+00:09:45,203 --> 00:09:46,879
+In order for ideas to develop and mature,
+
+165
+00:09:46,879 --> 00:09:49,138
+ideas need an environment
+
+166
+00:09:49,138 --> 00:09:51,228
+where the creator can nurture them.
+
+167
+00:09:51,228 --> 00:09:54,297
+Kind of take care of them, feed them, and shape their growth.
+
+168
+00:09:54,297 --> 00:09:59,839
+And to me, that's what the principle of immediate connection is all about.
+
+169
+00:09:59,839 --> 00:10:02,755
+And because ideas are so precious to me,
+
+170
+00:10:02,755 --> 00:10:05,489
+when I see this principle violated,
+
+171
+00:10:05,489 --> 00:10:10,286
+when I see ideas stillborn or stunted because their creator couldn't see what they were doing
+
+172
+00:10:10,286 --> 00:10:12,916
+I feel that's wrong.
+
+173
+00:10:12,916 --> 00:10:14,880
+And not wrong in the sense of
+
+174
+00:10:14,880 --> 00:10:18,573
+violating some UI guideline or going against a best practice, but
+
+175
+00:10:18,573 --> 00:10:21,558
+wrong in a deeper sense than that.
+
+176
+00:10:21,558 --> 00:10:25,369
+And I'll come back to this, but I want to show you another example of following this principle.
+
+177
+00:10:25,369 --> 00:10:28,632
+So, in this code here, there is no state
+
+178
+00:10:28,632 --> 00:10:32,803
+There is no time, there is no interactivity.
+
+179
+00:10:32,803 --> 00:10:37,040
+And I was thinking about how we would handle those aspects of coding
+
+180
+00:10:37,040 --> 00:10:39,370
+in a way that's inline with this principle that I have,
+
+181
+00:10:39,370 --> 00:10:42,259
+that creators need an immediate connection.
+
+182
+00:10:42,658 --> 00:10:46,516
+So, what I have here, is a little platform game.
+
+183
+00:10:46,516 --> 00:10:50,118
+Here is my little guy, he can run around, he can jump,
+
+184
+00:10:50,118 --> 00:10:53,190
+he can die [chuckles].
+
+185
+00:10:53,190 --> 00:10:54,706
+And the code for him is over here.
+
+186
+00:10:54,706 --> 00:10:56,453
+So this code makes him run around,
+
+187
+00:10:56,453 --> 00:10:58,027
+this makes him jump,
+
+188
+00:10:58,027 --> 00:11:00,464
+this makes him collide with things...
+
+189
+00:11:00,464 --> 00:11:05,070
+and down here, I've got some code for this little turtle.
+
+190
+00:11:05,070 --> 00:11:06,665
+And this turtle is not doing much right now
+
+191
+00:11:06,665 --> 00:11:08,795
+because I haven't finished writing this code,
+
+192
+00:11:08,795 --> 00:11:11,141
+so, I'm just going to do that right now.
+
+193
+00:11:11,141 --> 00:11:16,311
+So on each tick, x position plus equals his direction
+
+194
+00:11:16,311 --> 00:11:19,635
+times the time interval one sixtieth of a second
+
+195
+00:11:19,635 --> 00:11:21,951
+times some speed,
+
+196
+00:11:21,951 --> 00:11:27,591
+which, um, I dunno? Could be fast, could be slow
+
+197
+00:11:27,591 --> 00:11:33,463
+if it's negative, he walks backwards. [chuckles]
+
+198
+00:11:33,463 --> 00:11:35,999
+And these are all ideas, I can use for other enemies
+
+199
+00:11:35,999 --> 00:11:39,202
+but I think turtles are supposed to be slow,
+
+200
+00:11:39,202 --> 00:11:42,739
+so let's set a good speed for a turtle
+
+201
+00:11:42,739 --> 00:11:46,009
+And then up here, I've got some code that says:
+
+202
+00:11:46,009 --> 00:11:49,681
+"When my guy, collides with the turtle, he gets some Y velocity".
+
+203
+00:11:49,681 --> 00:11:53,582
+So it bounces into the air and the turtle gets stopped.
+
+204
+00:11:53,582 --> 00:11:55,488
+So that looks like that.
+
+205
+00:11:55,488 --> 00:11:59,085
+And the the turtle gets up after a bit.
+
+206
+00:12:00,824 --> 00:12:05,529
+The problem is, I don't want the player to be able to get up there yet.
+
+207
+00:12:05,529 --> 00:12:07,597
+I want the player to bounce up the turtle,
+
+208
+00:12:07,597 --> 00:12:10,300
+and go through this little passageway down there.
+
+209
+00:12:10,300 --> 00:12:13,815
+It'll have to go around and solve puzzles and whatnot,
+
+210
+00:12:13,815 --> 00:12:15,533
+to come back and get the star.
+
+211
+00:12:15,533 --> 00:12:18,308
+So, the turtle is too bouncy right now.
+
+212
+00:12:18,308 --> 00:12:21,649
+Now of course I could just turn that down in the code,
+
+213
+00:12:21,649 --> 00:12:23,692
+and now I can try it
+
+214
+00:12:23,692 --> 00:12:26,440
+but, but now it's not bouncy enough.
+
+215
+00:12:26,440 --> 00:12:30,420
+So while it's nice that I can adjust the code while it's running,
+
+216
+00:12:30,420 --> 00:12:33,856
+without having to stop and recompile and find that place again
+
+217
+00:12:33,856 --> 00:12:36,559
+I can't immediately see what I need to see,
+
+218
+00:12:36,559 --> 00:12:39,715
+which is whether or not I make that jump.
+
+219
+00:12:40,839 --> 00:12:42,566
+So here's what I'm going to do.
+
+220
+00:12:42,566 --> 00:12:44,563
+I'm going to bounce off the turtle,
+
+221
+00:12:44,563 --> 00:12:46,155
+and pause the game.
+
+222
+00:12:46,155 --> 00:12:49,441
+So I pause the game, and now there's a slider up here,
+
+223
+00:12:49,441 --> 00:12:52,301
+which lets me rewind through time.
+
+224
+00:12:57,811 --> 00:13:01,251
+And now, I could rewind to back before I made the jump,
+
+225
+00:13:01,251 --> 00:13:03,896
+and change the code, make it less bouncy
+
+226
+00:13:03,896 --> 00:13:05,695
+and now when I move it forward,
+
+227
+00:13:05,695 --> 00:13:07,374
+it's going to simulate it, using the same input controls,
+
+228
+00:13:07,374 --> 00:13:09,499
+the same keyboard commands as before,
+
+229
+00:13:09,499 --> 00:13:11,808
+but the new code.
+
+230
+00:13:11,808 --> 00:13:21,083
+[applause]
+
+231
+00:13:21,083 --> 00:13:25,343
+This is not good enough. [laughter]
+
+232
+00:13:25,343 --> 00:13:27,811
+I need to be able to see the changes immediately.
+
+233
+00:13:27,811 --> 00:13:29,284
+I need to be able to see immediately
+
+234
+00:13:29,284 --> 00:13:33,913
+whether or not my bounciness is correct.
+
+235
+00:13:33,913 --> 00:13:37,021
+None of this stuff.
+
+236
+00:13:37,021 --> 00:13:38,864
+And if you have a process in time,
+
+237
+00:13:38,864 --> 00:13:40,747
+and you want to see changes immediately,
+
+238
+00:13:40,747 --> 00:13:43,646
+you have to map time to space.
+
+239
+00:13:43,646 --> 00:13:45,397
+So here's what I'm going to do.
+
+240
+00:13:45,397 --> 00:13:48,499
+I'm going to bounce off my turtle, pause the game,
+
+241
+00:13:48,499 --> 00:13:50,462
+and now hit this button here,
+
+242
+00:13:50,462 --> 00:13:53,787
+which shows my guys trail.
+
+243
+00:13:53,787 --> 00:13:56,574
+So now I can see where he's been.
+
+244
+00:13:56,574 --> 00:13:59,509
+And now when I rewind,
+
+245
+00:13:59,509 --> 00:14:02,850
+this trail in front of him, is where he is going to be.
+
+246
+00:14:02,850 --> 00:14:05,082
+This is his future.
+
+247
+00:14:05,082 --> 00:14:10,954
+And when I change the code, I change his future. [gasps]
+
+248
+00:14:10,954 --> 00:14:13,570
+So I can find exactly the value I need,
+
+249
+00:14:13,570 --> 00:14:17,393
+so when I hit play, he slips right in there.
+
+250
+00:14:17,393 --> 00:14:25,476
+[applause]
+
+251
+00:14:26,336 --> 00:14:28,311
+So, creators need to be able to see what they're doing.
+
+252
+00:14:28,311 --> 00:14:30,268
+If you're designing something embedded in time
+
+253
+00:14:30,268 --> 00:14:31,827
+you need to be able to control time.
+
+254
+00:14:31,827 --> 00:14:34,111
+You need to be able to see across time,
+
+255
+00:14:34,111 --> 00:14:36,398
+otherwise you're designing blind.
+
+256
+00:14:39,306 --> 00:14:42,486
+As I was playing with this, I noticed it's fun to play with gravity.
+
+257
+00:14:42,486 --> 00:14:47,896
+So I can make gravity a little negative and he starts to float up in the air. [laughter]
+
+258
+00:14:47,896 --> 00:14:52,462
+And I can kind of play with that and try to get him to stay there.
+
+259
+00:14:52,462 --> 00:14:59,770
+And you could probably make an entire game around just the mechanic here - gravity manipulation.
+
+260
+00:14:59,770 --> 00:15:05,375
+In fact, I bet I could fiddle with any part of this code and come up with an idea for a game.
+
+261
+00:15:05,375 --> 00:15:11,182
+Even if I just comment out the first statement in the code,
+
+262
+00:15:11,182 --> 00:15:14,966
+now my guy can't move left - he can only move right.
+
+263
+00:15:15,952 --> 00:15:17,321
+Which sounds kinda silly, but
+
+264
+00:15:17,321 --> 00:15:19,229
+Terry Cavanagh actually made a beautiful game
+
+265
+00:15:19,229 --> 00:15:23,925
+around that concept called "Don't Look Back".
+
+266
+00:15:23,925 --> 00:15:26,763
+Terry Cavanagh, he made another really wonderful game
+
+267
+00:15:26,763 --> 00:15:31,801
+which you might have seen, called "V", spelled as the letter v six times.
+
+268
+00:15:31,801 --> 00:15:35,338
+And, the way that game works, is that you can't jump.
+
+269
+00:15:35,338 --> 00:15:37,909
+Instead, you can only flip upside down,
+
+270
+00:15:37,909 --> 00:15:40,777
+and you fall up instead of falling down.
+
+271
+00:15:40,777 --> 00:15:43,246
+So it kinda works like this.
+
+272
+00:15:43,246 --> 00:15:46,183
+You can walk on the ceiling or you can walk around on the ground.
+
+273
+00:15:46,183 --> 00:15:50,120
+And so you have these levels, which kind of look like this
+
+274
+00:15:50,120 --> 00:15:56,896
+And you kind of walk around and you have to learn how to navigate turning like this
+
+275
+00:15:56,896 --> 00:16:01,108
+And so if you have like, something like that, you won't be able to jump over
+
+276
+00:16:01,108 --> 00:16:03,701
+You'll have to like flip over and flip over
+
+277
+00:16:03,701 --> 00:16:07,646
+And he got an amazing amount of game play out of this concept
+
+278
+00:16:07,646 --> 00:16:12,278
+So again, being able to try ideas as you think of them.
+
+279
+00:16:25,588 --> 00:16:28,228
+This example, and the last one with the tree,
+
+280
+00:16:28,228 --> 00:16:30,526
+these are both very visual programs;
+
+281
+00:16:30,526 --> 00:16:32,996
+we're able to see our changes just by seeing how the picture changes.
+
+282
+00:16:32,996 --> 00:16:37,734
+So I was thinking about, how we could do more abstract coding
+
+283
+00:16:37,734 --> 00:16:39,146
+that's more in line with this principle.
+
+284
+00:16:39,146 --> 00:16:44,407
+How can we write a generic algorithm in such a way that we can see what we're doing.
+
+285
+00:16:44,407 --> 00:16:48,578
+So as an example, let's take a look at binary search.
+
+286
+00:16:48,578 --> 00:16:51,615
+Super quick refresher on how binary search works:
+
+287
+00:16:51,615 --> 00:16:53,985
+you have an array of values that are in order,
+
+288
+00:16:53,985 --> 00:16:58,155
+and you have a key, which is the value you're trying to locate within the array.
+
+289
+00:16:58,155 --> 00:17:01,158
+And you keep track of two variables, which are the lower and upper bounds
+
+290
+00:17:01,158 --> 00:17:03,556
+of where you think that value could possibly be;
+
+291
+00:17:03,556 --> 00:17:05,894
+right now, it could be anywhere.
+
+292
+00:17:05,894 --> 00:17:08,472
+And you look right in the middle of that range -
+
+293
+00:17:08,472 --> 00:17:12,568
+if what you find is too small, then the key has to be after that.
+
+294
+00:17:12,568 --> 00:17:13,971
+Look in the middle of the range,
+
+295
+00:17:13,971 --> 00:17:16,039
+if what you find is too big, the key has to be before that.
+
+296
+00:17:16,039 --> 00:17:18,875
+And you kind of keep subdividing array into intervals
+
+297
+00:17:18,875 --> 00:17:22,178
+You narrow in on value you're looking for
+
+298
+00:17:22,178 --> 00:17:27,082
+And in code, binary search looks like this
+
+299
+00:17:27,082 --> 00:17:29,753
+And from my perspective, you can't see anything in here
+
+300
+00:17:29,753 --> 00:17:34,658
+Can't see anything. I see the word array, but I don't actually see an array
+
+301
+00:17:34,658 --> 00:17:38,140
+And so in order to write code like this, you have to imagine an array in your head
+
+302
+00:17:38,140 --> 00:17:40,530
+And you essentially have to play computer.
+
+303
+00:17:40,530 --> 00:17:45,769
+You have to simulate in your head what each line of code would do on a computer
+
+304
+00:17:45,769 --> 00:17:48,772
+And people that we consider the skilled software engineers
+
+305
+00:17:48,772 --> 00:17:52,805
+are just those people that are really good at playing computer
+
+306
+00:17:52,805 --> 00:17:56,813
+But for writing our code on a computer
+
+307
+00:17:56,813 --> 00:18:00,750
+why are we simulating what a computer would do in our head ?
+
+308
+00:18:00,750 --> 00:18:05,390
+What isn't the computer just do it and show us ?
+
+309
+00:18:05,390 --> 00:18:08,723
+So. Let's write binary search.
+
+310
+00:18:08,723 --> 00:18:15,432
+function binarySearch, takes a key and an array.
+
+311
+00:18:15,432 --> 00:18:18,201
+And then over here on this side, it's saying
+
+312
+00:18:18,201 --> 00:18:21,404
+"Ok, it takes a key and an array, such as what?
+
+313
+00:18:21,404 --> 00:18:24,074
+Give me an example; I need something to work with here."
+
+314
+00:18:24,074 --> 00:18:31,114
+So, for instance, my array might be 'a', 'b', 'c', 'd', 'e', 'f'.
+
+315
+00:18:31,114 --> 00:18:34,723
+And let's say for instance we're looking for the 'd'.
+
+316
+00:18:34,723 --> 00:18:36,820
+So now let's start coding.
+
+317
+00:18:36,820 --> 00:18:40,358
+The lower bound starts out as zero.
+
+318
+00:18:40,358 --> 00:18:43,860
+Over here it says 'low = 0', nothing amazing there.
+
+319
+00:18:43,860 --> 00:18:50,639
+Upper bound starts out at the end of the array, so 'high = array.length - 1'.
+
+320
+00:18:50,639 --> 00:18:53,838
+And over here, it says 'high = 5'.
+
+321
+00:18:53,838 --> 00:18:57,941
+So I have my abstract formula in the code.
+
+322
+00:18:57,941 --> 00:19:00,710
+Over here, it's giving me the concrete value
+
+323
+00:19:00,710 --> 00:19:03,747
+corresponding to these example arguments.
+
+324
+00:19:03,747 --> 00:19:06,889
+So I don't have to maintain this picture in my head;
+
+325
+00:19:06,889 --> 00:19:09,729
+it's just showing it to me.
+
+326
+00:19:09,729 --> 00:19:13,023
+So now I need the index in the middle of the array,
+
+327
+00:19:13,023 --> 00:19:14,859
+so I'm going to take the average of those two.
+
+328
+00:19:14,859 --> 00:19:22,099
+'mid =(low + high)/2', and...well that's obviously not right.
+
+329
+00:19:22,099 --> 00:19:27,570
+2.5 is not a valid array index. So I guess I need to round this off.
+
+330
+00:19:27,570 --> 00:19:30,806
+So I'm going to add the floor function and it rounded it down to 2.
+
+331
+00:19:30,806 --> 00:19:38,185
+And I caught that bug literally the second I typed it, instead of writing an entire function and twenty unit tests.
+
+332
+00:19:38,185 --> 00:19:43,153
+So now I get the value out of the array...
+
+333
+00:19:43,153 --> 00:19:45,855
+and then I need to subdivide my range,
+
+334
+00:19:45,855 --> 00:19:51,094
+which, so this if statement which I'll just paste in here.
+
+335
+00:19:51,094 --> 00:19:53,807
+So in this case, the value I found is less than the key,
+
+336
+00:19:53,807 --> 00:19:56,198
+so it's taking this first branch of the if statement.
+
+337
+00:19:56,198 --> 00:20:00,004
+This is adjusting the lower bound.
+
+338
+00:20:00,004 --> 00:20:02,739
+Of course if the key was smaller, then
+
+339
+00:20:02,739 --> 00:20:06,075
+it would take this branch of the if statement and adjust the upper bound.
+
+340
+00:20:06,075 --> 00:20:09,178
+Or, if the key was 'c', then
+
+341
+00:20:09,178 --> 00:20:13,384
+we would've just happened to find it on the first shot,  and we'd return the index.
+
+342
+00:20:13,384 --> 00:20:19,422
+So this is the first iteration of this algorithm.
+
+343
+00:20:19,422 --> 00:20:21,492
+And now what we need to do, is loop.
+
+344
+00:20:21,492 --> 00:20:23,694
+We've subdivided the array, we need to keep subdividing
+
+345
+00:20:23,694 --> 00:20:27,306
+until we narrow in on what we're looking for.
+
+346
+00:20:27,306 --> 00:20:30,306
+So, we need to loop; I will just loop.
+
+347
+00:20:30,306 --> 00:20:35,472
+while 1, do all this.
+
+348
+00:20:35,472 --> 00:20:38,241
+And now what we have are three columns
+
+349
+00:20:38,241 --> 00:20:41,911
+corresponding to three iterations of this loop.
+
+350
+00:20:41,911 --> 00:20:44,747
+So this first column here is exactly what you saw before:
+
+351
+00:20:44,747 --> 00:20:49,586
+low and high span the entire array, we found a 'c', it was too low,
+
+352
+00:20:49,586 --> 00:20:52,757
+so we adjusted our lower bound, and loop up to here.
+
+353
+00:20:52,757 --> 00:20:56,219
+Second iteration, bounds are tighter; we found an 'e'.
+
+354
+00:20:56,219 --> 00:20:58,095
+We adjust the upper bound.
+
+355
+00:20:58,095 --> 00:21:01,397
+Third iteration, loop up to here; low and high are the same.
+
+356
+00:21:01,397 --> 00:21:03,734
+We've narrowed it down to a single candidate -
+
+357
+00:21:03,734 --> 00:21:05,718
+it's indeed the key we're looking for,
+
+358
+00:21:05,718 --> 00:21:08,004
+and we returned this index.
+
+359
+00:21:08,004 --> 00:21:09,240
+So there's nothing hidden here;
+
+360
+00:21:09,240 --> 00:21:13,545
+you see exactly what the algorithm is doing at every point.
+
+361
+00:21:13,545 --> 00:21:15,812
+And I can go up to here and try different keys,
+
+362
+00:21:15,812 --> 00:21:21,253
+so I can see how the algorithm behaves for these different input arguments.
+
+363
+00:21:21,253 --> 00:21:22,753
+And by looking across this data,
+
+364
+00:21:22,753 --> 00:21:27,218
+I can develop an intuition for how this algorithm works.
+
+365
+00:21:27,218 --> 00:21:33,163
+So I'm trying different keys here, and say I try looking for a 'g'.
+
+366
+00:21:33,163 --> 00:21:37,533
+And this looks a little different. It's not actually returning.
+
+367
+00:21:37,533 --> 00:21:43,051
+And the reason for this is, I'm looking for a key which is not actually in the array.
+
+368
+00:21:43,051 --> 00:21:47,410
+And the only way of breaking out of this loop, is by finding the key.
+
+369
+00:21:47,410 --> 00:21:50,847
+So it's kinda stuck here looping forever.
+
+370
+00:21:50,847 --> 00:21:53,218
+So we can take a look at this and see what went wrong,
+
+371
+00:21:53,218 --> 00:21:55,184
+where's the algorithm going off the rails.
+
+372
+00:21:55,184 --> 00:21:58,219
+These first few iterations look fine,
+
+373
+00:21:58,219 --> 00:22:00,589
+but this iteration looks weird,
+
+374
+00:22:00,589 --> 00:22:04,468
+because low is greater than high.
+
+375
+00:22:04,468 --> 00:22:07,386
+Our range is completely collapsed.
+
+376
+00:22:07,386 --> 00:22:10,900
+So if we get to this point, then we know the key can't be found.
+
+377
+00:22:10,900 --> 00:22:16,005
+So I see this faulty condition, and I say, "Oh, that's not right; low has to be less than or equal to high."
+
+378
+00:22:16,005 --> 00:22:19,075
+Okay, well, I'll just put that over as the condition for my while statement.
+
+379
+00:22:19,075 --> 00:22:23,801
+'low <= high', and then that would break out of the loop,
+
+380
+00:22:23,801 --> 00:22:27,550
+and I would return some signal to say that it couldn't be found
+
+381
+00:22:27,550 --> 00:22:30,753
+So here we have 3 iterations 'for loop', couldn't be found
+
+382
+00:22:30,753 --> 00:22:33,856
+We return the 'not valid' value
+
+383
+00:22:33,856 --> 00:22:36,759
+So that's what it might be like to write an algorithm without a blindfold on.
+
+384
+00:22:36,759 --> 00:22:46,552
+[applause]
+
+385
+00:22:46,552 --> 00:22:49,673
+So I've got this principle, again,
+
+386
+00:22:49,673 --> 00:22:52,385
+that creators need to be able to see what they doing.
+
+387
+00:22:52,385 --> 00:22:54,478
+They need this immediate connection with that they're making.
+
+388
+00:22:54,478 --> 00:22:58,315
+And I've tried to show this principle through three coding examples,
+
+389
+00:22:58,315 --> 00:23:00,816
+but that's just because this is a software engineering conference,
+
+390
+00:23:00,816 --> 00:23:02,786
+I thought I was supposed to talk about programming.
+
+391
+00:23:02,786 --> 00:23:07,657
+But to me, this principle has nothing to do with programming in particular.
+
+392
+00:23:07,657 --> 00:23:11,136
+It has to do with any type of creation.
+
+393
+00:23:11,136 --> 00:23:12,597
+So I'd like to show you a couple more demos,
+
+394
+00:23:12,597 --> 00:23:17,168
+just to show you the breadth of what I have in mind here.
+
+395
+00:23:17,168 --> 00:23:22,219
+So, to begin with, let's take a look at a different branch of engineering.
+
+396
+00:23:22,219 --> 00:23:25,408
+So here I have an electronic circuit that I drew.
+
+397
+00:23:25,408 --> 00:23:30,508
+I'm not quite done drawing it, so let me finish it up there.
+
+398
+00:23:32,016 --> 00:23:36,814
+Here we'll put 2. And now we have a working circuit.
+
+399
+00:23:37,322 --> 00:23:42,218
+I mean I assume it's a working circuit. I don't actually see anything working here.
+
+400
+00:23:42,218 --> 00:23:46,396
+So this is exactly the same as writing code, that we work in a static representation.
+
+401
+00:23:46,396 --> 00:23:49,767
+But what we actually care about is the data.
+
+402
+00:23:49,767 --> 00:23:52,302
+The values of the variables, so we can't see that here.
+
+403
+00:23:52,302 --> 00:23:57,006
+Now in a circuit, the variables are the voltages on these different wires.
+
+404
+00:23:57,006 --> 00:24:00,692
+So each of these wires has a voltage that's changing over time,
+
+405
+00:24:00,692 --> 00:24:03,112
+and we have to be able to see that.
+
+406
+00:24:03,112 --> 00:24:06,526
+Now, if I was building this circuit on a lab bench, building it physically,
+
+407
+00:24:06,526 --> 00:24:09,830
+I could at least take an oscilloscope and kinda poke around and see
+
+408
+00:24:09,830 --> 00:24:11,693
+what's going on in the different wires,
+
+409
+00:24:11,693 --> 00:24:12,524
+what's going on here, or here.
+
+410
+00:24:12,524 --> 00:24:16,559
+So at the very least, I should be able to do that.
+
+411
+00:24:16,559 --> 00:24:21,936
+So what I have here, is a plot of the voltage of this wire over time.
+
+412
+00:24:21,936 --> 00:24:24,535
+You can see it's high, it's low. High.. Low...
+
+413
+00:24:24,535 --> 00:24:27,371
+So this is clearly oscillating
+
+414
+00:24:27,371 --> 00:24:31,307
+If I built it physically, also I would be able to see this circuit doing something.
+
+415
+00:24:31,307 --> 00:24:34,711
+So, in this case I've got these two LEDs up here
+
+416
+00:24:34,711 --> 00:24:39,216
+These are LEDs, the little lights, presumably there for a reason
+
+417
+00:24:39,216 --> 00:24:42,884
+I can hit Play and watch it simulate out in real-time
+
+418
+00:24:42,884 --> 00:24:51,604
+So now you can see what this circuit is doing [applause]
+
+419
+00:24:51,604 --> 00:24:53,465
+In order to design a circuit like this,
+
+420
+00:24:53,465 --> 00:24:56,999
+you have to understand the voltage on every wire.
+
+421
+00:24:56,999 --> 00:25:00,854
+You have to understand how all the voltages are changing throughout the entire circuit.
+
+422
+00:25:00,854 --> 00:25:03,037
+And just like coding,
+
+423
+00:25:03,037 --> 00:25:07,509
+either the environment shows that to you, or you simulate it in your head.
+
+424
+00:25:07,509 --> 00:25:11,114
+And I have better things to do with my head, than simulating what electrons are doing.
+
+425
+00:25:11,114 --> 00:25:14,936
+So what I'm gonna do, I'm gonna spread it out a bit.
+
+426
+00:25:14,936 --> 00:25:18,103
+So same circuit, just spread out a little bit,
+
+427
+00:25:18,103 --> 00:25:20,687
+and I'm going to add the voltage at every node.
+
+428
+00:25:20,687 --> 00:25:24,495
+So now you can see every voltage throughout the circuit.
+
+429
+00:25:24,495 --> 00:25:29,768
+And I can even hit Play and watch it all kind of simulate out in real-time.
+
+430
+00:25:29,768 --> 00:25:32,902
+Although, what I prefer to do is
+
+431
+00:25:32,902 --> 00:25:35,071
+just move my mouse over it,
+
+432
+00:25:35,071 --> 00:25:40,443
+and I can kind of look in areas that are interesting to me and see what the values are.
+
+433
+00:25:40,443 --> 00:25:42,880
+I can compare any two nodes.
+
+434
+00:25:42,880 --> 00:25:44,548
+So if you look at say the node over here,
+
+435
+00:25:44,548 --> 00:25:46,187
+while I mouse over this one,
+
+436
+00:25:46,187 --> 00:25:49,854
+you see the shadow of the one I'm mousing over is overlaid on that.
+
+437
+00:25:49,854 --> 00:25:52,989
+The shadow of the one I'm mousing over is actually overlaid on all of them.
+
+438
+00:25:52,989 --> 00:25:55,291
+And so I can compare any two nodes
+
+439
+00:25:55,291 --> 00:26:00,029
+just by mousing over one of them and looking at the other one.
+
+440
+00:26:00,029 --> 00:26:04,103
+And again, I can immediately see results of my changes.
+
+441
+00:26:04,103 --> 00:26:06,902
+So I've got this 70k resistor here.
+
+442
+00:26:06,902 --> 00:26:08,770
+I want to change its value, I just click and drag it,
+
+443
+00:26:08,770 --> 00:26:12,575
+and now I see the waveforms changing immediately.
+
+444
+00:26:12,575 --> 00:26:14,945
+And you'll notice that when I click and drag,
+
+445
+00:26:14,945 --> 00:26:19,616
+it leaves behind the shadow of the waveform before I started dragging,
+
+446
+00:26:19,616 --> 00:26:25,687
+so I can compare. I can immediately see the results of my changes.
+
+447
+00:26:25,687 --> 00:26:30,105
+Two golden rules of information design: show the data, show comparisons.
+
+448
+00:26:30,105 --> 00:26:32,194
+That's all I'm doing here.
+
+449
+00:26:32,194 --> 00:26:33,966
+But even this isn't quite good enough.
+
+450
+00:26:33,966 --> 00:26:35,965
+What we're seeing here are the voltages,
+
+451
+00:26:35,965 --> 00:26:40,437
+but in electronics there are actually two data types. There is voltage and there is current.
+
+452
+00:26:40,437 --> 00:26:42,308
+And what we're not seeing is the current,
+
+453
+00:26:42,308 --> 00:26:44,706
+flowing through each of these components.
+
+454
+00:26:44,706 --> 00:26:47,853
+And in order to design a circuit, you need to understand both the voltage and the current.
+
+455
+00:26:47,853 --> 00:26:50,078
+You need to understand the interplay between the two.
+
+456
+00:26:50,078 --> 00:26:52,215
+That's what analog design is.
+
+457
+00:26:52,215 --> 00:26:54,769
+So what I'm gonna do is spread these out a little bit more.
+
+458
+00:26:54,769 --> 00:26:58,154
+And now I'm gonna replace each of these components
+
+459
+00:26:58,154 --> 00:27:02,124
+with a plot of the current going through it over time.
+
+460
+00:27:02,124 --> 00:27:05,328
+So each of these blue boxes represents a component.
+
+461
+00:27:05,328 --> 00:27:07,231
+And you can see which component it is,
+
+462
+00:27:07,231 --> 00:27:09,967
+because it has a little badge in the corner, a little icon,
+
+463
+00:27:09,967 --> 00:27:14,270
+but now you can see everything that's going on in the circuit.
+
+464
+00:27:14,270 --> 00:27:18,707
+You can see how the current changes, you can see how the current and the voltage changes.
+
+465
+00:27:18,707 --> 00:27:23,157
+There's nothing hidden, there's nothing to simulate in your head.
+
+466
+00:27:23,157 --> 00:27:25,948
+So what we have here is
+
+467
+00:27:25,948 --> 00:27:28,491
+a different way of representing the circuit.
+
+468
+00:27:28,491 --> 00:27:32,455
+Just in general, you could draw any circuit with these blocks
+
+469
+00:27:32,455 --> 00:27:34,657
+but instead of being made out of little squiggly symbols,
+
+470
+00:27:34,657 --> 00:27:36,826
+it's made out of data.
+
+471
+00:27:36,826 --> 00:27:38,761
+And I think it's important to ask:
+
+472
+00:27:38,761 --> 00:27:43,834
+Why do we have these squiggly symbols in the first place? Why do they exist?
+
+473
+00:27:43,834 --> 00:27:47,901
+They exist because they're easy to draw with pencil on paper.
+
+474
+00:27:47,901 --> 00:27:49,818
+This is not paper.
+
+475
+00:27:49,818 --> 00:27:52,175
+So when you have a new medium, you have to rethink these things.
+
+476
+00:27:52,175 --> 00:27:57,613
+You have to think how can this new medium allow us to have a more immediate connection
+
+477
+00:27:57,613 --> 00:28:02,418
+to what we're making. How can this new medium allow us to work in such a way
+
+478
+00:28:02,418 --> 00:28:03,985
+that we can see what we're doing.
+
+479
+00:28:03,985 --> 00:28:06,755
+And it's really the same situation with programming.
+
+480
+00:28:06,755 --> 00:28:08,524
+Our current conception of what a computer program is 
+
+481
+00:28:08,524 --> 00:28:10,234
+a list of textual definitions that you hand to a compiler.
+
+482
+00:28:10,234 --> 00:28:14,263
+That's derived straight from Fortran and ALGOL in the late '50's.
+
+483
+00:28:14,263 --> 00:28:17,600
+Those languages were designed for punchcards.
+
+484
+00:28:17,600 --> 00:28:20,536
+See, you'd type your program on a stack of cards,
+
+485
+00:28:20,536 --> 00:28:24,106
+and hand them to the computer operator, (it's the guy in the bottom picture),
+
+486
+00:28:24,106 --> 00:28:26,575
+and you would come back later.
+
+487
+00:28:26,575 --> 00:28:29,317
+So there was no such thing as interactivity back then.
+
+488
+00:28:29,317 --> 00:28:35,718
+And that assumption is baked into our current notions of what programming is.
+
+489
+00:28:35,718 --> 00:28:38,088
+C was designed for telepipes.
+
+490
+00:28:38,088 --> 00:28:41,157
+That's Ken Tompson and Dennis Richie up there.
+
+491
+00:28:41,157 --> 00:28:43,151
+Richie made C.
+
+492
+00:28:43,151 --> 00:28:45,734
+And there are no video displays in this picture.
+
+493
+00:28:45,734 --> 00:28:50,100
+Ritchie is basically typing on a fancy typewriter that types back to him.
+
+494
+00:28:50,100 --> 00:28:55,972
+Any time you use a console or a terminal window, you're emulating a teletype.
+
+495
+00:28:55,972 --> 00:28:58,374
+And even today, people still think of a REPL
+
+496
+00:28:58,374 --> 00:29:02,478
+or an interactive top-level as being interactive programming.
+
+497
+00:29:02,478 --> 00:29:07,917
+Because that's the best thing you could do on a teletype.
+
+498
+00:29:07,917 --> 00:29:11,119
+So I have one more demo I want to show because I want to emphasize that
+
+499
+00:29:11,119 --> 00:29:14,957
+this principle, immediate connection, is not even about engineering,
+
+500
+00:29:14,957 --> 00:29:17,025
+it's about any type of creation.
+
+501
+00:29:17,025 --> 00:29:20,163
+So I want to move to a different field entirely.
+
+502
+00:29:20,163 --> 00:29:23,235
+So let's think about animation.
+
+503
+00:29:23,235 --> 00:29:26,650
+So I've got this painting here, of a tree and leaf on it
+
+504
+00:29:26,650 --> 00:29:33,318
+and I want to make a little video with the leaf kinda drifting down the tree.
+
+505
+00:29:33,318 --> 00:29:37,650
+And the normal way of doing this, in a conventional animation package like Flash,
+
+506
+00:29:37,650 --> 00:29:40,150
+is through keyframes.
+
+507
+00:29:40,150 --> 00:29:43,786
+So you basically say where you want the leaf to be at different points in time,
+
+508
+00:29:43,786 --> 00:29:46,922
+and you hit Play and see what it looks like.
+
+509
+00:29:46,922 --> 00:29:53,901
+So, I'm gonna say: at frame 20, I'm gonna create a keyframe
+
+510
+00:29:53,901 --> 00:29:56,567
+and the leaf should be there.
+
+511
+00:29:56,567 --> 00:30:01,036
+At frame 40, create a keyframe and the leaf should be there,
+
+512
+00:30:01,036 --> 00:30:04,006
+and I'm just totally guessing here. I can not see the motion.
+
+513
+00:30:04,006 --> 00:30:05,741
+I can not feel the timing,
+
+514
+00:30:05,741 --> 00:30:13,568
+I'm just throwing things in time and space.
+
+515
+00:30:13,568 --> 00:30:15,585
+So I've got this leaf at different points in time,
+
+516
+00:30:15,585 --> 00:30:20,090
+I'm going to add a tween, which tells Flash to connect the dots.
+
+517
+00:30:20,090 --> 00:30:24,592
+And then I'm gonna hit Play and see what it looks like.
+
+518
+00:30:24,592 --> 00:30:33,783
+And it looks ridiculous, it looks like billiard balls bouncing back and forth.
+
+519
+00:30:33,783 --> 00:30:38,607
+And the thing is I kind of know what I want, right ? It's a leaf.
+
+520
+00:30:38,607 --> 00:30:41,317
+I want leaf drifting down from a tree.
+
+521
+00:30:41,317 --> 00:30:46,616
+And I can even perform that with my hand: leaf drifting down from a tree.
+
+522
+00:30:46,616 --> 00:30:49,352
+But Flash doesn't know how to listen to my hand.
+
+523
+00:30:49,352 --> 00:30:52,988
+But maybe there's a new medium
+
+524
+00:30:52,988 --> 00:30:56,759
+that does know something about listening to my hand.
+
+525
+00:30:56,759 --> 00:30:59,628
+So what I'm gonna show you here is a little app I made
+
+526
+00:30:59,628 --> 00:31:02,531
+for performing animation.
+
+527
+00:31:02,531 --> 00:31:05,167
+And we're not really set up for doing a live demo off the iPad
+
+528
+00:31:05,167 --> 00:31:11,574
+so I'm just gonna show you a video of me making a video.
+
+529
+00:31:11,574 --> 00:31:13,319
+The way this scene is going to play out is
+
+530
+00:31:13,319 --> 00:31:15,077
+the leaf is gonna kind of drift down from the tree,
+
+531
+00:31:15,077 --> 00:31:18,080
+and the scene is gonna pan over and the rabbit is gonna do something.
+
+532
+00:31:18,080 --> 00:31:21,784
+And two things:
+
+533
+00:31:21,784 --> 00:31:24,088
+one, this is going to move pretty quickly,
+
+534
+00:31:24,088 --> 00:31:29,492
+and second, I'll be using both hands at almost all times.
+
+535
+00:31:29,492 --> 00:31:32,528
+So I've got these different layers, the background, the mid-ground and the foreground.
+
+536
+00:31:32,528 --> 00:31:35,165
+I'm choosing which layer to move using my left thumb.
+
+537
+00:31:35,165 --> 00:31:39,202
+I'm gonna move my leaf to its position.
+
+538
+00:31:39,202 --> 00:31:43,072
+I'm gonna move my bunny off stage and start time rolling.
+
+539
+00:31:43,072 --> 00:31:49,912
+Now I'm gonna perform the leaf drifting down from the tree.
+
+540
+00:31:49,912 --> 00:31:52,979
+Run it back, check out how that looked.
+
+541
+00:31:52,979 --> 00:31:57,419
+The motion looks pretty good but the leaf kinda needs to rock back and forth.
+
+542
+00:31:57,419 --> 00:31:59,187
+So i'm gonna pull out a rotation controller,
+
+543
+00:31:59,187 --> 00:32:02,191
+run it back, find where the leaf is about to break off,
+
+544
+00:32:02,191 --> 00:32:05,426
+and record rotation
+
+545
+00:32:05,426 --> 00:32:10,100
+And I add a little flip there, because it felt right in the moment, wasn't even planned
+
+546
+00:32:10,100 --> 00:32:13,235
+Stop, because I want to pan over, so I want to drag whole bunch of layers at once
+
+547
+00:32:13,235 --> 00:32:16,271
+I grab all layers to build a list, i turn down the sensitivity of the background layers
+
+548
+00:32:16,271 --> 00:32:18,812
+So the leaf would move slower, for a kind of parallax effect
+
+549
+00:32:18,812 --> 00:32:21,353
+I only want to move horizontally, so I pull out a horizontal dragger
+
+550
+00:32:21,353 --> 00:32:23,779
+And check out how it looks...
+
+551
+00:32:23,779 --> 00:32:27,583
+I don't quite like the parallax, so I adjust a sensitivity a little bit.
+
+552
+00:32:27,583 --> 00:32:31,686
+Try out again. I like that better
+
+553
+00:32:31,686 --> 00:32:36,258
+So I get ready to go. I run it back to the beginning
+
+554
+00:32:36,258 --> 00:32:41,130
+so I can kind of get back into the rhythm of the piece.
+
+555
+00:32:41,130 --> 00:32:45,401
+Leaf hits, I wait a bit and I start panning
+
+556
+00:32:45,401 --> 00:32:48,269
+And I don't know how many frames I waited. I don't know how long it was
+
+557
+00:32:48,269 --> 00:32:51,105
+I went when it felt right.
+
+558
+00:32:51,105 --> 00:32:55,278
+So I panned over this winter scene and kind of slowed down to a stop.
+
+559
+00:32:55,278 --> 00:32:58,145
+And then I run it back, because I want to do something with my bunny.
+
+560
+00:32:58,145 --> 00:33:01,478
+Throw away these tools because I'm done with them.
+
+561
+00:33:01,478 --> 00:33:07,155
+And wait until I think my bunny should move
+
+562
+00:33:07,155 --> 00:33:08,979
+and he hops away.
+
+563
+00:33:08,979 --> 00:33:12,702
+And I have got a few different poses for my bunny. So I pull those out.
+
+564
+00:33:12,702 --> 00:33:18,167
+And then I find the point when the bunny is about to take off the ground.
+
+565
+00:33:18,167 --> 00:33:20,971
+Which is right there.
+
+566
+00:33:20,971 --> 00:33:25,075
+I switch his pose and I kind of toggle between the poses as he hops away.
+
+567
+00:33:25,075 --> 00:33:28,411
+And then I run it back because I wanna check out how it looked
+
+568
+00:33:28,411 --> 00:33:31,015
+and I'm just gonna bring that up full screen for you.
+
+569
+00:33:31,015 --> 00:33:50,332
+This is the piece.
+
+570
+00:33:50,332 --> 00:33:54,603
+So I made that in 2 minutes, performing with my hands like a musical instrument.
+
+571
+00:33:54,603 --> 00:33:58,407
+Very immediate connection between me and what I was trying to make.
+
+572
+00:33:58,407 --> 00:34:08,252
+[applause]
+
+573
+00:34:08,252 --> 00:34:10,518
+One of the inspirations for this tool
+
+574
+00:34:10,518 --> 00:34:14,122
+was an animation I tried to make several years ago.
+
+575
+00:34:14,122 --> 00:34:18,560
+Not that one but it also began with a leaf drifting down from a tree.
+
+576
+00:34:18,560 --> 00:34:22,298
+And I spent all day in Flash trying to keyframe that leaf.
+
+577
+00:34:22,298 --> 00:34:25,812
+Couldn't do it.
+
+578
+00:34:25,812 --> 00:34:27,727
+And so that was the end of that.
+
+579
+00:34:27,727 --> 00:34:30,479
+I still have my storyboards.
+
+580
+00:34:30,479 --> 00:34:32,908
+Sometimes I play the music I wrote for the piece.
+
+581
+00:34:32,908 --> 00:34:37,477
+But the piece itself is locked in my head.
+
+582
+00:34:37,477 --> 00:34:40,948
+And so I always think about
+
+583
+00:34:40,948 --> 00:34:44,729
+the millions of pieces that are locked in millions of heads.
+
+584
+00:34:44,729 --> 00:34:47,625
+And not just animation, and not just art, but
+
+585
+00:34:47,625 --> 00:34:50,158
+all kinds of ideas.
+
+586
+00:34:50,158 --> 00:34:53,836
+All kinds of ideas, including critically important ideas,
+
+587
+00:34:53,836 --> 00:34:56,765
+world changing inventions, life saving scientific discoveries.
+
+588
+00:34:56,765 --> 00:35:01,671
+These are all ideas that must be grown.
+
+589
+00:35:01,671 --> 00:35:04,062
+And without an environment in which they can grow,
+
+590
+00:35:04,062 --> 00:35:06,842
+or their creator can nurture them with this immediate connection,
+
+591
+00:35:06,842 --> 00:35:11,014
+many of these ideas will not emerge.
+
+592
+00:35:11,014 --> 00:35:14,018
+Or they'll emerge stunted.
+
+593
+00:35:14,018 --> 00:35:18,321
+So I have this principle that creators need an immediate connection, and
+
+594
+00:35:18,321 --> 00:35:23,827
+all of these demos that I just showed you simply came from me looking around,
+
+595
+00:35:23,827 --> 00:35:27,228
+noticing places where this principle was violated,
+
+596
+00:35:27,228 --> 00:35:29,229
+and then trying to fix that.
+
+597
+00:35:29,229 --> 00:35:31,144
+It's really all I did.
+
+598
+00:35:31,144 --> 00:35:34,069
+I just followed this guiding principle
+
+599
+00:35:34,069 --> 00:35:41,244
+and it guided me to what I had to do.
+
+600
+00:35:41,244 --> 00:35:46,348
+But I haven't said much about the most important part of the story, which is Why.
+
+601
+00:35:46,348 --> 00:35:52,419
+Why I have this principle. Why I do this.
+
+602
+00:35:52,419 --> 00:35:58,928
+When I see a violation of this principle, I don't think of that as an opportunity.
+
+603
+00:35:58,928 --> 00:36:03,832
+When I see creators constrained by their tools, their ideas compromised,
+
+604
+00:36:03,832 --> 00:36:07,070
+I don't say: Oh good, an opportunity to make a product.
+
+605
+00:36:07,070 --> 00:36:10,038
+An opportunity to start a business.
+
+606
+00:36:10,038 --> 00:36:14,878
+Or an opportunity to do research or contribute to a field.
+
+607
+00:36:14,878 --> 00:36:17,146
+I'm not excited by finding a problem to solve.
+
+608
+00:36:17,146 --> 00:36:20,883
+I'm not in this for the joy of making things.
+
+609
+00:36:20,883 --> 00:36:23,100
+Ideas are very precious to me.
+
+610
+00:36:23,100 --> 00:36:27,690
+And when I see ideas dying, it hurts.
+
+611
+00:36:27,690 --> 00:36:31,598
+I see a tragedy.
+
+612
+00:36:31,598 --> 00:36:34,845
+To me it feels like a moral wrong, it feels like an injustice.
+
+613
+00:36:34,845 --> 00:36:37,166
+And if I think there's anything I can do about it,
+
+614
+00:36:37,166 --> 00:36:40,536
+I feel it's my responsibility to do so.
+
+615
+00:36:40,536 --> 00:36:44,874
+Not opportunity, but responsibility.
+
+616
+00:36:44,874 --> 00:36:48,262
+Now this is just my thing. I'm not asking you to believe in this the way I believe I do.
+
+617
+00:36:48,262 --> 00:36:51,880
+My point here is that these words that I'm using:
+
+618
+00:36:51,880 --> 00:36:57,489
+Injustice, Responsibility, Moral wrong,
+
+619
+00:36:57,489 --> 00:37:02,124
+these aren't the words we normally hear in a technical field.
+
+620
+00:37:02,124 --> 00:37:05,430
+We do hear these words in association with social causes.
+
+621
+00:37:05,430 --> 00:37:06,762
+So things like
+
+622
+00:37:06,762 --> 00:37:10,632
+censorship, gender discrimination, environmental destruction.
+
+623
+00:37:10,632 --> 00:37:15,538
+We all recognize these things as moral wrongs.
+
+624
+00:37:15,538 --> 00:37:19,876
+Most of us wouldn't witness a civil rights violation and think "Oh good, an opportunity."
+
+625
+00:37:19,876 --> 00:37:21,946
+I hope not.
+
+626
+00:37:21,946 --> 00:37:25,596
+Instead, we've been very fortunate to have people throughout history
+
+627
+00:37:25,596 --> 00:37:28,617
+who recognized these moral wrongs
+
+628
+00:37:28,617 --> 00:37:32,154
+and saw it as their responsibility to address them.
+
+629
+00:37:32,154 --> 00:37:34,223
+And so there's this activist lifestyle where
+
+630
+00:37:34,223 --> 00:37:36,763
+a person dedicates themselves
+
+631
+00:37:36,763 --> 00:37:40,895
+to fighting for a cause that they believe in.
+
+632
+00:37:40,895 --> 00:37:45,069
+And the purpose of this talk is to tell you that
+
+633
+00:37:45,069 --> 00:37:48,972
+this activist lifestyle is not just for social activism.
+
+634
+00:37:48,972 --> 00:37:53,014
+As a technologist, you can recognize a wrong in the world.
+
+635
+00:37:53,014 --> 00:37:55,878
+You can have a vision of what a better world could be.
+
+636
+00:37:55,878 --> 00:38:00,181
+And you can dedicate yourself to fighting for a principle.
+
+637
+00:38:00,181 --> 00:38:02,097
+Socially activists typically fight by organizing
+
+638
+00:38:02,097 --> 00:38:07,690
+but you can fight by inventing.
+
+639
+00:38:07,690 --> 00:38:12,462
+So now I'd like to tell you about a few other people who have lived this way,
+
+640
+00:38:12,462 --> 00:38:15,930
+starting with Larry Tesler.
+
+641
+00:38:15,930 --> 00:38:19,013
+Larry has done a lot of wonderful things in his life,
+
+642
+00:38:19,013 --> 00:38:23,205
+but the work I'm gonna tell you about he did in the mid '70s at Xerox PARC.
+
+643
+00:38:23,205 --> 00:38:27,513
+And at the time, there really wasn't such a thing as personal computers.
+
+644
+00:38:27,513 --> 00:38:29,913
+The notion of personal computing was very young and
+
+645
+00:38:29,913 --> 00:38:33,650
+Larry and colleagues at PARC felt that they had transformative potential,
+
+646
+00:38:33,650 --> 00:38:39,929
+that personal computing could change how people thought and lived.
+
+647
+00:38:39,929 --> 00:38:43,324
+And I think all of us in this room would agree that they turned out to be right about that.
+
+648
+00:38:43,324 --> 00:38:45,263
+But at the time,
+
+649
+00:38:45,263 --> 00:38:49,165
+software interfaces were designed around modes.
+
+650
+00:38:49,165 --> 00:38:53,870
+So, in a text editor for instance, you couldn't just type
+
+651
+00:38:53,870 --> 00:38:56,429
+and have words appear on the screen like on a typewriter.
+
+652
+00:38:56,429 --> 00:38:57,873
+You would be in command mode.
+
+653
+00:38:57,873 --> 00:39:01,189
+If you wanted to insert text you'd have to press I to go into insert mode
+
+654
+00:39:01,189 --> 00:39:04,279
+then Escape back out to command mode or maybe you'd hit A to go into append mode.
+
+655
+00:39:04,279 --> 00:39:06,714
+Or if you wanted to move text around you'd hit M go to the Move mode
+
+656
+00:39:06,714 --> 00:39:09,053
+and then you'd have to select and move things around
+
+657
+00:39:09,053 --> 00:39:16,157
+And Larry would watch people using the computer,
+
+658
+00:39:16,157 --> 00:39:20,895
+they actually pioneered the concept of software user studies, another thing that he did,
+
+659
+00:39:20,895 --> 00:39:24,431
+but he would watch people using the software and he found that many people
+
+660
+00:39:24,431 --> 00:39:27,535
+even after training and weeks of use,
+
+661
+00:39:27,535 --> 00:39:31,012
+many people would not become comfortable with the computer.
+
+662
+00:39:31,012 --> 00:39:35,210
+And he believed that it was these modes that were to blame.
+
+663
+00:39:35,210 --> 00:39:37,509
+That the complexity of modes
+
+664
+00:39:37,509 --> 00:39:41,009
+was a kind of barrier that many people couldn't cross.
+
+665
+00:39:41,009 --> 00:39:46,105
+And so this kind of represented a threat
+
+666
+00:39:46,105 --> 00:39:49,590
+to this dream of what personal computing could be.
+
+667
+00:39:49,590 --> 00:39:52,995
+So Larry made it his personal mission to eliminate modes from software.
+
+668
+00:39:52,995 --> 00:39:54,696
+And he formed a principle:
+
+669
+00:39:54,696 --> 00:39:58,300
+"No person should be trapped in a mode"
+
+670
+00:39:58,300 --> 00:39:59,902
+His slogan that he would go around saying was
+
+671
+00:39:59,902 --> 00:40:04,406
+"Don't mode me in" and he had it printed on his t-shirt.
+
+672
+00:40:04,406 --> 00:40:07,309
+And this principle informed everything that he did.
+
+673
+00:40:07,309 --> 00:40:09,478
+He thought about it with all the work that he did.
+
+674
+00:40:09,478 --> 00:40:13,426
+And eventually he came up with a text editor called Gypsy,
+
+675
+00:40:13,426 --> 00:40:17,052
+which essentially introduced text editing as we know today.
+
+676
+00:40:17,052 --> 00:40:19,090
+There's an insertion point.
+
+677
+00:40:19,090 --> 00:40:22,891
+And when you typed, words appeared on the screen.
+
+678
+00:40:22,891 --> 00:40:26,424
+To select text, he invented modeless selection with click and drag.
+
+679
+00:40:26,424 --> 00:40:30,865
+So you just click and drag over the text you want to select like using a highlighter,
+
+680
+00:40:30,865 --> 00:40:33,168
+one of the first uses of drag.
+
+681
+00:40:33,168 --> 00:40:36,138
+To move text around, he invented these commands that he called
+
+682
+00:40:36,138 --> 00:40:38,238
+Cut, Copy, Paste
+
+683
+00:40:38,238 --> 00:40:42,045
+So you select and Cut, later on you Paste in, whenever you're ready
+
+684
+00:40:42,045 --> 00:40:45,112
+You're never trapped in a mode, you don't have the switching between modes
+
+685
+00:40:45,112 --> 00:40:49,920
+When you hit the 'W' key on a keyboard, you get 'W' on the screen, always.
+
+686
+00:40:49,920 --> 00:40:53,258
+And he would watch people using his software
+
+687
+00:40:53,258 --> 00:40:55,691
+and he found that someone who had never seen a computer before,
+
+688
+00:40:55,691 --> 00:40:57,727
+which was most people back then, 
+
+689
+00:40:57,727 --> 00:41:00,829
+could be up and running in like half an hour.
+
+690
+00:41:00,829 --> 00:41:02,931
+So this was clearly a transformative change
+
+691
+00:41:02,931 --> 00:41:05,843
+in enabling people to connect with computers.
+
+692
+00:41:05,843 --> 00:41:09,303
+And his ideas about modelessness
+
+693
+00:41:09,303 --> 00:41:11,925
+spread to the rest of the desktop interface
+
+694
+00:41:11,925 --> 00:41:13,840
+which was then being invented at Xeroc PARC at the same time.
+
+695
+00:41:13,840 --> 00:41:20,816
+And today they're so ingrained in the computing experience that today we kind of take them for granted.
+
+696
+00:41:20,816 --> 00:41:26,321
+Now I said that Larry made the elimination of modes his personal mission.
+
+697
+00:41:26,321 --> 00:41:30,126
+That's actually his words, and if you think he's exaggerating,
+
+698
+00:41:30,126 --> 00:41:37,364
+here's Larry's license plate for the last 30 years. [chuckles]
+
+699
+00:41:37,364 --> 00:41:41,871
+Nowadays of course Larry has a website, at nomodes.com
+
+700
+00:41:41,871 --> 00:41:46,408
+and he's on twitter: @nomodes
+
+701
+00:41:46,408 --> 00:41:49,879
+And so like I said, Larry has done a lot of amazing work in his career
+
+702
+00:41:49,879 --> 00:41:57,386
+but his self identity is clearly associated with this cause.
+
+703
+00:41:57,386 --> 00:41:58,591
+And so I'd like to ask
+
+704
+00:41:58,591 --> 00:42:02,190
+What exactly did Larry do?
+
+705
+00:42:02,190 --> 00:42:06,862
+Like how could we best describe what Larry did?
+
+706
+00:42:06,862 --> 00:42:09,765
+A typical biography might say:
+
+707
+00:42:09,765 --> 00:42:13,182
+Larry Tesler invented Cut Copy Paste.
+
+708
+00:42:13,182 --> 00:42:16,706
+Which is true, but I think it's really misleading, because
+
+709
+00:42:16,706 --> 00:42:19,840
+this invention was very different than
+
+710
+00:42:19,840 --> 00:42:23,508
+say, Thomas Edison inventing the phonograph.
+
+711
+00:42:23,508 --> 00:42:26,516
+Edison basically just stumbled over the technology for audio recording
+
+712
+00:42:26,516 --> 00:42:28,917
+and he built it out as a novelly.
+
+713
+00:42:28,917 --> 00:42:33,187
+And he came up with like a this list of possible applications for his technology, but
+
+714
+00:42:33,187 --> 00:42:35,891
+he didn't have any cultural intent.
+
+715
+00:42:35,891 --> 00:42:38,425
+Whereas what Larry did was entirely a reaction
+
+716
+00:42:38,425 --> 00:42:41,926
+to a particular cultural context.
+
+717
+00:42:41,926 --> 00:42:44,099
+So another thing that you might hear is that
+
+718
+00:42:44,099 --> 00:42:48,603
+Larry Tesler solved the problem of modeless text manipulation.
+
+719
+00:42:48,603 --> 00:42:51,541
+Solved the problem. And obviously that's true,
+
+720
+00:42:51,541 --> 00:42:55,310
+he worked on the problem for a long time, eventually solved it.
+
+721
+00:42:55,310 --> 00:42:58,176
+But I think that's misleading too,
+
+722
+00:42:58,176 --> 00:43:03,617
+because this problem that he solved only existed in his own head.
+
+723
+00:43:03,617 --> 00:43:07,622
+Nobody else saw this as a problem.
+
+724
+00:43:07,622 --> 00:43:11,127
+For everybody else modes were just how computers worked.
+
+725
+00:43:11,127 --> 00:43:13,496
+There wasn't anything wrong with them any more than
+
+726
+00:43:13,496 --> 00:43:15,399
+we think there's something wrong with having two arms.
+
+727
+00:43:15,399 --> 00:43:18,340
+It just kind of was a fact of life.
+
+728
+00:43:18,340 --> 00:43:20,508
+So the first thing that Larry did
+
+729
+00:43:20,508 --> 00:43:26,925
+was that he recognized a wrong that had been unacknowledged in the culture.
+
+730
+00:43:26,925 --> 00:43:31,647
+And the thing is, that's how many great social changes began as well.
+
+731
+00:43:31,647 --> 00:43:35,887
+So a 150 years ago, Elizabeth Cady Stanton had to stand up and say:
+
+732
+00:43:35,887 --> 00:43:37,887
+"Women should vote."
+
+733
+00:43:37,887 --> 00:43:40,919
+And everybody else said like "That's crazy, what are you talking about ?"
+
+734
+00:43:40,919 --> 00:43:44,359
+Today, we recognize gender discrimination as a wrong.
+
+735
+00:43:44,359 --> 00:43:48,865
+Back then, it was part of society, it was invisible.
+
+736
+00:43:48,865 --> 00:43:52,198
+She had to recognize it, and she had to fight it.
+
+737
+00:43:52,198 --> 00:43:56,585
+And to me, that's a much closer model to what Larry did
+
+738
+00:43:56,585 --> 00:44:01,419
+than the Thomas Edison model of inventing a bunch of random technology so he could patent it.
+
+739
+00:44:01,419 --> 00:44:03,086
+Now to be clear I'm not making any judgement
+
+740
+00:44:03,086 --> 00:44:05,513
+about the relative importance or the impact of these two people,
+
+741
+00:44:05,513 --> 00:44:09,834
+I'm just talking about their motivations and their approach.
+
+742
+00:44:09,834 --> 00:44:13,023
+Both of them recognized a cultural wrong,
+
+743
+00:44:13,023 --> 00:44:15,757
+they envisioned a world without that wrong
+
+744
+00:44:15,757 --> 00:44:19,586
+and they dedicated themselves to fighting for a principle.
+
+745
+00:44:19,586 --> 00:44:23,668
+She fought by organizing, he fought by inventing.
+
+746
+00:44:23,668 --> 00:44:28,036
+And many other seminal figures in computing had similar motivations.
+
+747
+00:44:28,036 --> 00:44:30,374
+So certainly Doug Engelbart.
+
+748
+00:44:30,374 --> 00:44:34,752
+Doug Engelbart basically invented interactive computing.
+
+749
+00:44:34,752 --> 00:44:38,545
+The concept of putting information on a screen.
+
+750
+00:44:38,545 --> 00:44:40,181
+Navigating through it.
+
+751
+00:44:40,181 --> 00:44:41,920
+Looking at information in different ways.
+
+752
+00:44:41,920 --> 00:44:45,788
+Pointing at things and manipulating them. He came up with all this at a time when
+
+753
+00:44:45,788 --> 00:44:49,524
+real-time interaction with a computer was just almost unheard of.
+
+754
+00:44:49,524 --> 00:44:51,459
+Today he is best known as the inventor of the mouse,
+
+755
+00:44:51,459 --> 00:44:55,597
+but what he really invented with is this entirely new way of working with knowledge.
+
+756
+00:44:55,597 --> 00:44:58,599
+His explicit goal from the beginning was
+
+757
+00:44:58,599 --> 00:45:02,772
+to enable mankind to solve the world's urgent problems.
+
+758
+00:45:02,772 --> 00:45:04,502
+And his vision,
+
+759
+00:45:04,502 --> 00:45:07,042
+he had this this vision of what he called knowledge workers
+
+760
+00:45:07,042 --> 00:45:12,347
+using complex powerful information tools to harness the collective intelligence.
+
+761
+00:45:12,347 --> 00:45:16,117
+And he only got into computers because he had a hunch that these new things called computer things
+
+762
+00:45:16,117 --> 00:45:18,585
+could help him realize that vision.
+
+763
+00:45:18,585 --> 00:45:20,419
+Everything that he did
+
+764
+00:45:20,419 --> 00:45:26,761
+was almost single-mindedly driven by pursuing this vision.
+
+765
+00:45:26,761 --> 00:45:28,585
+Here's Alan Kay.
+
+766
+00:45:28,585 --> 00:45:32,085
+Alan Kay ran the lab at Xerox PARC where we got the desktop interface,
+
+767
+00:45:32,085 --> 00:45:35,637
+so things like windows and icons, command menus.
+
+768
+00:45:35,637 --> 00:45:40,375
+He also invented object-oriented programming and lots of other things.
+
+769
+00:45:40,375 --> 00:45:42,308
+His goal, and I quote,
+
+770
+00:45:42,308 --> 00:45:44,779
+was to "amplify human reach,
+
+771
+00:45:44,779 --> 00:45:47,549
+and bring new ways of thinking to a faltering civilization
+
+772
+00:45:47,549 --> 00:45:49,783
+that desperately needed it."
+
+773
+00:45:49,783 --> 00:45:51,994
+Isn't that great?
+
+774
+00:45:51,994 --> 00:45:54,751
+His approach was through children. He believed that
+
+775
+00:45:54,751 --> 00:45:58,920
+if children became fluent in thinking in the medium of the computer,
+
+776
+00:45:58,920 --> 00:46:03,835
+meaning if programming was a form of basic literacy like reading and writing,
+
+777
+00:46:03,835 --> 00:46:06,166
+then they'd become adults with new forms of critical thought,
+
+778
+00:46:06,166 --> 00:46:07,769
+and new ways of understanding the world.
+
+779
+00:46:07,769 --> 00:46:10,639
+And we'd have this more enlightened society,
+
+780
+00:46:10,639 --> 00:46:16,836
+similar to the difference that literacy brought to society.
+
+781
+00:46:16,836 --> 00:46:19,682
+And everything that he did, everything he invented,
+
+782
+00:46:19,682 --> 00:46:25,006
+came out of pursuing this vision, this goal with children.
+
+783
+00:46:25,006 --> 00:46:29,918
+And following principles that he adopted from Piaget and Montessori,
+
+784
+00:46:29,918 --> 00:46:36,836
+Jerome Bruner, these people who would study how children think
+
+785
+00:46:36,836 --> 00:46:40,584
+And the figure probably most widely associated with software activism
+
+786
+00:46:40,584 --> 00:46:43,204
+is Richard Stallman.
+
+787
+00:46:43,204 --> 00:46:47,175
+Stallman started the GNU project which today makes up a big chunk of any Linux system.
+
+788
+00:46:47,175 --> 00:46:49,477
+He also started the Free Software Foundation,
+
+789
+00:46:49,477 --> 00:46:53,348
+wrote GCC, GPL, many, many other things.
+
+790
+00:46:53,348 --> 00:46:57,053
+His principle is that software must be free, as in freedom,
+
+791
+00:46:57,053 --> 00:47:01,390
+and he has very precise meaning associated with that statement.
+
+792
+00:47:01,390 --> 00:47:02,673
+He's always been very clear that
+
+793
+00:47:02,673 --> 00:47:05,225
+software freedom is a matter of moral right and wrong.
+
+794
+00:47:05,225 --> 00:47:10,865
+And he has taken a particularly uncompromising approach in his own life to that.
+
+795
+00:47:10,865 --> 00:47:13,402
+All of these tremendously influential people
+
+796
+00:47:13,402 --> 00:47:16,205
+dedicated their lives
+
+797
+00:47:16,205 --> 00:47:20,910
+to fighting for a particular ideal with a very clear sense of right and wrong.
+
+798
+00:47:20,910 --> 00:47:22,758
+Often really fighting
+
+799
+00:47:22,758 --> 00:47:26,615
+against an authority or mainstream that did not recognize their wrong as being wrong.
+
+800
+00:47:26,615 --> 00:47:30,335
+And today, the world is still very far from any of their ideals
+
+801
+00:47:30,335 --> 00:47:32,504
+and so they still see a world in crisis
+
+802
+00:47:32,504 --> 00:47:41,096
+and they keep fighting. They're always fighting.
+
+803
+00:47:41,096 --> 00:47:45,135
+Now I'm not saying you have to live this way.
+
+804
+00:47:45,135 --> 00:47:48,002
+I'm not saying that you should live this way.
+
+805
+00:47:48,002 --> 00:47:50,506
+What I'm saying is that you can.
+
+806
+00:47:50,506 --> 00:47:53,174
+That this lifestyle is an option that is available to you.
+
+807
+00:47:53,174 --> 00:47:55,414
+And it's not one you're gonna hear about much.
+
+808
+00:47:55,414 --> 00:47:57,248
+Your career counselor is not going to come back to you and say:
+
+809
+00:47:57,248 --> 00:47:59,681
+"You should start a personal crusade."
+
+810
+00:47:59,681 --> 00:48:04,186
+In a social field, they might, but not in technology.
+
+811
+00:48:04,186 --> 00:48:09,757
+Instead the world will try to make you define yourself by a skill.
+
+812
+00:48:09,757 --> 00:48:12,227
+That's why you have a major in college.
+
+813
+00:48:12,227 --> 00:48:13,498
+That's why you have a job title.
+
+814
+00:48:13,498 --> 00:48:16,265
+You are a software engineer.
+
+815
+00:48:16,265 --> 00:48:18,663
+And you'll probably specialize to be a database engineer
+
+816
+00:48:18,663 --> 00:48:20,580
+or a front-end engineer,
+
+817
+00:48:20,580 --> 00:48:23,238
+and you'll be given front-ends and asked to engineer them.
+
+818
+00:48:23,238 --> 00:48:26,175
+And that could be worthwhile and valuable,
+
+819
+00:48:26,175 --> 00:48:32,347
+and if you want to spend your life pursuing excellence and practicing a skill,
+
+820
+00:48:32,347 --> 00:48:35,016
+you can do that. That is the path of a craftsman.
+
+821
+00:48:35,016 --> 00:48:37,299
+That is the most common path.
+
+822
+00:48:37,299 --> 00:48:40,498
+The only other path you really hear about much is the path of the problem solver.
+
+823
+00:48:40,498 --> 00:48:45,093
+So I see entrepreneurship and academic research as kind of two sides of that coin.
+
+824
+00:48:45,093 --> 00:48:46,896
+There is the field.
+
+825
+00:48:46,896 --> 00:48:50,566
+There's the set of problems in that field, or needs in the market.
+
+826
+00:48:50,566 --> 00:48:53,936
+You go in, you choose one, you work it, you make your contribution there.
+
+827
+00:48:53,936 --> 00:48:58,807
+Maybe later on, you choose another problem, you work it, you make your contribution there.
+
+828
+00:48:58,807 --> 00:49:02,710
+Again, that could be worthwhile and valuable and if that's what you want to do,
+
+829
+00:49:02,710 --> 00:49:04,946
+then you can take that path.
+
+830
+00:49:04,946 --> 00:49:08,997
+But I don't see Larry Tesler on either of those paths.
+
+831
+00:49:08,997 --> 00:49:12,620
+I wouldn't say he was contributing to the field of user experience design
+
+832
+00:49:12,620 --> 00:49:14,888
+because there was no such thing.
+
+833
+00:49:14,888 --> 00:49:16,891
+He didn't choose some open problem to solve,
+
+834
+00:49:16,891 --> 00:49:19,664
+he came up with some problem that only existed in his own head,
+
+835
+00:49:19,664 --> 00:49:21,829
+and no one else even recognized.
+
+836
+00:49:21,829 --> 00:49:24,766
+And certainly he did not define himself by his craft,
+
+837
+00:49:24,766 --> 00:49:27,770
+he defined himself by his cause.
+
+838
+00:49:27,770 --> 00:49:31,371
+By the principle he fought to uphold.
+
+839
+00:49:31,371 --> 00:49:33,508
+And I'm sure if you look at Wikipedia it will say that
+
+840
+00:49:33,508 --> 00:49:37,812
+he's a computer scientist or a user experience something,
+
+841
+00:49:37,812 --> 00:49:41,746
+but to me that's like saying Elizabeth Cady Stanton was a community organizer.
+
+842
+00:49:41,746 --> 00:49:45,454
+No, Elizabeth Cady Stanton established the principle
+
+843
+00:49:45,454 --> 00:49:48,288
+of women's suffrage. That's who she was.
+
+844
+00:49:48,288 --> 00:49:50,558
+That was the identity she chose
+
+845
+00:49:50,558 --> 00:49:54,529
+and Larry Tesler established the principle of modelessness.
+
+846
+00:49:54,529 --> 00:50:02,470
+He had a vision, and he brought the world to that vision.
+
+847
+00:50:02,470 --> 00:50:05,248
+So, you can choose this life.
+
+848
+00:50:05,248 --> 00:50:07,374
+Or maybe it will end up choosing you.
+
+849
+00:50:07,374 --> 00:50:09,477
+It might not happen right away.
+
+850
+00:50:09,477 --> 00:50:12,247
+It can take time to find a principle, because
+
+851
+00:50:12,247 --> 00:50:14,783
+finding a principle is essentially a form of self-discovery,
+
+852
+00:50:14,783 --> 00:50:18,187
+that you're trying to figure out what your life is supposed to be about.
+
+853
+00:50:18,187 --> 00:50:21,722
+What you want to stand for as a person.
+
+854
+00:50:21,722 --> 00:50:24,626
+Took me like a decade.
+
+855
+00:50:24,626 --> 00:50:28,631
+Ten years before any real understanding of my principles solidified.
+
+856
+00:50:28,631 --> 00:50:30,132
+That was my twenties.
+
+857
+00:50:30,132 --> 00:50:32,977
+When I was young I felt I had to live this way
+
+858
+00:50:32,977 --> 00:50:36,271
+but I would get little glimmers of what mattered to me
+
+859
+00:50:36,271 --> 00:50:38,940
+but no big picture. It was really unclear.
+
+860
+00:50:38,940 --> 00:50:42,043
+This was very distressing for me.
+
+861
+00:50:42,043 --> 00:50:45,848
+What I had to do was just do a lot of things.
+
+862
+00:50:45,848 --> 00:50:48,649
+Make many things, make many types of things.
+
+863
+00:50:48,649 --> 00:50:52,453
+Study many things, experience many many things.
+
+864
+00:50:52,453 --> 00:50:56,356
+And use all these experiences as ways of analyzing myself.
+
+865
+00:50:56,356 --> 00:50:58,460
+Taking all these experiences and saying:
+
+866
+00:50:58,460 --> 00:51:00,361
+"Does this resonate with me?"
+
+867
+00:51:00,361 --> 00:51:02,996
+Does this repel me? Do I not care?
+
+868
+00:51:02,996 --> 00:51:07,747
+Building of this corpus of experiences that I felt very strongly about for some reason
+
+869
+00:51:07,747 --> 00:51:10,072
+and trying to make sense of it. Trying to figure out Why?
+
+870
+00:51:10,072 --> 00:51:15,611
+What is this secret ingredient that I'm reacting to so strongly ?
+
+871
+00:51:15,611 --> 00:51:17,445
+Now I think everyone's different.
+
+872
+00:51:17,445 --> 00:51:20,181
+And all the guys I talked about they have their own origin stories
+
+873
+00:51:20,181 --> 00:51:22,464
+which you can read about.
+
+874
+00:51:22,464 --> 00:51:24,252
+I will just say that
+
+875
+00:51:24,252 --> 00:51:26,954
+confining yourself to practicing a single skill
+
+876
+00:51:26,954 --> 00:51:30,591
+can make it difficult to get that broad range of experiences, which
+
+877
+00:51:30,591 --> 00:51:36,830
+seem to be so valuable for this sort of work.
+
+878
+00:51:36,830 --> 00:51:39,499
+And finally,
+
+879
+00:51:39,499 --> 00:51:42,904
+if you choose to follow a principle,
+
+880
+00:51:42,904 --> 00:51:45,841
+a principle can't be just any old thing you believe in.
+
+881
+00:51:45,841 --> 00:51:49,143
+You'll hear a lot of people say they want to make software easier to use.
+
+882
+00:51:49,143 --> 00:51:51,214
+Or they want to delight their users.
+
+883
+00:51:51,214 --> 00:51:53,081
+Or they want to make things simple.
+
+884
+00:51:53,081 --> 00:51:55,952
+That's a really big one right now. Everyone wants to make things simple.
+
+885
+00:51:55,952 --> 00:51:58,452
+And those are nice thoughts
+
+886
+00:51:58,452 --> 00:52:01,022
+and maybe kind of give you a direction to go in
+
+887
+00:52:01,022 --> 00:52:05,075
+but they're too vague to be directly actionable.
+
+888
+00:52:05,075 --> 00:52:06,909
+Larry Tesler likes simplicity.
+
+889
+00:52:06,909 --> 00:52:09,765
+But his principle was this specific nugget of insight:
+
+890
+00:52:09,765 --> 00:52:11,767
+No person should be trapped in a mode.
+
+891
+00:52:11,767 --> 00:52:14,168
+And that is a powerful principle
+
+892
+00:52:14,168 --> 00:52:17,372
+because it gave him a new way of seeing the world.
+
+893
+00:52:17,372 --> 00:52:20,541
+It divided the world in right and wrong in a fairly objective way.
+
+894
+00:52:20,541 --> 00:52:25,246
+So, he could look at someone selecting text and ask Is this person in a mode?
+
+895
+00:52:25,246 --> 00:52:27,157
+Yes or no?
+
+896
+00:52:27,157 --> 00:52:30,618
+If Yes, he had to do something about that.
+
+897
+00:52:30,618 --> 00:52:34,957
+And likewise, I believe that creators need powerful tools.
+
+898
+00:52:34,957 --> 00:52:38,359
+It's a nice thought, but it doesn't really get me anywhere.
+
+899
+00:52:38,359 --> 00:52:41,963
+My principle is that creators need this immediate connection.
+
+900
+00:52:41,963 --> 00:52:45,099
+So I can watch you changing a line of code, and I can ask:
+
+901
+00:52:45,099 --> 00:52:49,240
+"Did you immediately see the effect of that change ?" Yes or no.
+
+902
+00:52:49,240 --> 00:52:53,207
+If No, I got to do something about that.
+
+903
+00:52:53,207 --> 00:52:56,242
+And again, all those demos that I showed you
+
+904
+00:52:56,242 --> 00:52:59,046
+came out of me doing that,
+
+905
+00:52:59,046 --> 00:53:01,116
+of me following this principle
+
+906
+00:53:01,116 --> 00:53:04,018
+and letting it lead me to exactly what I needed to do.
+
+907
+00:53:04,018 --> 00:53:07,158
+So if your guiding principle embodies a specific insight,
+
+908
+00:53:07,158 --> 00:53:10,491
+it will guide you.
+
+909
+00:53:10,491 --> 00:53:19,935
+And you will always know if what you're doing is right.
+
+910
+00:53:19,935 --> 00:53:22,824
+There are many ways of living your life.
+
+911
+00:53:22,824 --> 00:53:24,871
+That's maybe the most important thing you can realize in your life,
+
+912
+00:53:24,871 --> 00:53:28,777
+is that every aspect of your life is a choice.
+
+913
+00:53:28,777 --> 00:53:31,646
+But there are default choices.
+
+914
+00:53:31,646 --> 00:53:33,681
+You can choose to sleepwalk through your life
+
+915
+00:53:33,681 --> 00:53:36,552
+and accept that path that's been laid out for you.
+
+916
+00:53:36,552 --> 00:53:40,055
+You can choose to accept the world as it is.
+
+917
+00:53:40,055 --> 00:53:42,956
+But you don't have to.
+
+918
+00:53:42,956 --> 00:53:46,127
+If there is something in the world you feel is a wrong
+
+919
+00:53:46,127 --> 00:53:49,930
+and you have a vision for what a better world could be,
+
+920
+00:53:49,930 --> 00:53:52,834
+you can find your guiding principle.
+
+921
+00:53:52,834 --> 00:53:56,170
+And you can fight for a cause.
+
+922
+00:53:56,170 --> 00:53:59,307
+So after this talk, I'd like you to take a little time and think about
+
+923
+00:53:59,307 --> 00:54:01,574
+what matters to you.
+
+924
+00:54:01,574 --> 00:54:03,993
+What you believe in.
+
+925
+00:54:03,993 --> 00:54:06,824
+And what you might fight for.
+
+926
+00:54:06,824 --> 00:54:10,824
+Thank you. [applause]
+
