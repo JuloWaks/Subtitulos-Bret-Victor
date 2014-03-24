@@ -481,7 +481,7 @@ Pero, pienso que aún existe un problema aquí.
 
 121
 00:07:19,128 --> 00:07:21,286
-Es este: tengo esta imagen,
+Es este: tengo este dibujo,
 
 122
 00:07:21,286 --> 00:07:23,310
@@ -511,139 +511,142 @@ Puedo mantener pulsada la tecla Option,
 
 128
 00:07:36,372 --> 00:07:38,983
-my cursor changes to a magnifying glass,
+mi cursor se convierte en una lupa,
 
 129
 00:07:38,983 --> 00:07:40,656
-and now as I roll over each line of code,
+y ahora cuando de deplazo sobre cada linea de código,
 
 130
 00:07:40,656 --> 00:07:42,672
-it's highlighting in the picture
+aparece resaltado el dibujo
 
 131
 00:07:42,672 --> 00:07:46,904
-what's being drawn in that line.
+eso es lo que está siendo dibujado por esa linea.
 
 132
 00:07:46,904 --> 00:07:49,807
-So, if I want to know what's going on in this function,
+Entonces, si quiero conocer qué está haciendo esta funciíon,
 
 133
 00:07:49,807 --> 00:07:54,662
-I just kinhd of roll down the function and see what highlights.
+Solo exploro dentro de la función y veo qué aparece resaltado.
 
 134
 00:07:56,848 --> 00:08:00,018
-So here I've got two calls to drawMountain; I don't know which is which;
+Aquí tengo dos llamadas a drawMountain; no se cual es cual;
 
 135
 00:08:00,018 --> 00:08:03,052
-well, here's that mountain, and here's that mountain.
+bueno, esta es esa montaña, y esta es esa otra montaña.
 
 136
 00:08:03,052 --> 00:08:04,587
-And this has to work the other way too;
+Y esto funcionaría de la otra forma también;
 
 137
 00:08:04,587 --> 00:08:06,532
-if I see part of the picture,
+si veo una parte del dibujo,
 
 138
 00:08:06,532 --> 00:08:09,575
-I need to know what code was responsible for drawing it.
+Necesito conocer que código fué el responsable de dibujarlo.
 
 139
 00:08:09,575 --> 00:08:12,095
-So I do the same thing; I hold down the option key,
+Así que hago lo mismo, mantengo pulsada la tecla Option,
 
 140
 00:08:12,095 --> 00:08:15,116
-and now as I move over each pixel of the picture,
+y mientras me muevo sobre cada pixel del dibujo,
 
 141
 00:08:15,116 --> 00:08:16,132
-you'll see on the right
+como ven a la derecha
 
 142
 00:08:16,132 --> 00:08:20,472
-it's jumping to the line of code that drew that pixel.
+salta a la linea de código que dibujó ese pixel.
 
 143
 00:08:20,472 --> 00:08:23,073
-So that drew the sky, and that drew the tree
+Así esto dibujo el cielo, y esto dibujó el árbol
 
 144
 00:08:23,073 --> 00:08:25,849
-That drew the blossom
+Esto dibujo las hojas
 
 145
 00:08:28,080 --> 00:08:29,463
-So this is really important to make that mapping
+Es realmente importante hacer esta vinculación
 
 146
 00:08:29,463 --> 00:08:33,749
-But it is also real useful for navigating around
+Pero también es realmente útil navegar alrededor
+
 
 147
 00:08:33,749 --> 00:08:35,860
-So, I want to make sun a little bit bigger.
+Así, quiero hacer que el sol sea un poco mas grande.
 
 148
 00:08:35,860 --> 00:08:38,818
-So I jump there, make it a little bit bigger
+Salto ahí, lo hago un poco mas grande
 
 149
 00:08:38,818 --> 00:08:39,915
-I want to bring up a tree a little bit,
+Quiero hacer crecer un poquito el árbol,
 
 150
 00:08:39,915 --> 00:08:42,358
-so I jump there, bring up a tree a little bit
+así que salto ahí, y hago crecer el árbol un poco.
 
 151
 00:08:42,358 --> 00:08:43,833
-I want to bring up the mountains a little bit.
+Quiero agrandar las montañas un poco.
+
 
 152
 00:08:43,833 --> 00:08:46,844
-I jump there, bring up the mountains a little bit
+Voy ahí, agrando las montañas un poco
 
 153
 00:08:46,844 --> 00:08:51,301
-And I can make these changes as quickly as I think of them
+Y puedo hacer estos cambios tan rápidos como se me van ocurriendo
 
 154
 00:08:51,301 --> 00:08:54,137
-And that is so important to the creative process -
+Y es tan importante para el proceso creativo -
 
 155
 00:08:54,137 --> 00:08:57,931
-to be able to try ideas as you think of them
+ser capaz de intentar ideas mientras pensás en ellas
 
 156
 00:09:00,040 --> 00:09:01,812
-If there's any delay in that feedback loop
+Que si hubiera alguna demora en esa comunicación
 
 157
 00:09:01,812 --> 00:09:06,821
-Between thinking of something and seeing it, and building on it
+entre pensar acerca de algo, verlo y contruir sobre eso
+
 
 158
 00:09:06,821 --> 00:09:09,627
-Then there is this whole world of ideas, which..
+Entonces, existe este mundo entero de ideas, en donde ...
 
 159
 00:09:09,627 --> 00:09:12,708
-which will just never be...
+en donde nunca van a poder nacer...
 
 160
 00:09:14,370 --> 00:09:17,051
-These are thoughts that we can't think...
+Estas son ideas en las que no podemos pensar...
 
 161
 00:09:33,600 --> 00:09:36,654
-Ideas are very important to me.
+Las ideas son muy importenes para mi.
 
 162
 00:09:36,654 --> 00:09:41,617
