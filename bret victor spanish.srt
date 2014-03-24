@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:07,311 --> 00:00:11,916
 A difirencia de la conferencia pasada, no tengo premios para dar.
 
@@ -425,87 +425,89 @@ Probablemente debería ser amarillo,
 
 107
 00:06:24,125 --> 00:06:25,988
-so I'm going to set the fill style.
+así que voy a definir el estilo de pintado
 
 108
 00:06:25,988 --> 00:06:28,960
-Context.fillStyle, same autocomplete as before,
+Context.fillStyle, el mismo autocompletado como antes antes,
 
 109
 00:06:28,990 --> 00:06:31,143
-choose fill style
+elijo el estilo
 
 110
 00:06:31,143 --> 00:06:34,157
-gives me white by default,
+me ofrece color "blanco" por omisión,
 
 111
 00:06:34,157 --> 00:06:37,662
-and I can change that color code the same way I change any number,
+y puedo cambiar ese código de color de la misma forma que cambio cualquier número,
 
 112
 00:06:37,662 --> 00:06:42,806
-I hit the control key, and I get a color palette.
+Puso la tecla control, y obtendo una paleta de colores.
 
 113
 00:06:42,806 --> 00:06:46,733
-So I can choose a nice yellow for my sun.
+Así que elijo a lindo color amarillo para mi sol.
 
 114
 00:06:48,980 --> 00:06:52,851
-Although, the white was kind of interesting, I thought.
+Aunque... el blanco tiene algo interesante, pienso...
 
 115
 00:06:52,851 --> 00:06:53,784
-I kind of didn't expect that. But,
+Algo que no esperaba, pero,
 
 116
 00:06:53,784 --> 00:06:58,551
-with the white, it now looks like the moon instead, right ?
+con el blanco, se parece mas a una luna, cierto ?
 
 117
 00:07:00,105 --> 00:07:05,397
-Hey, look, it's night time. [chuckles]
+Hey, se ve que ahora es de noche...
 
 118
 00:07:05,397 --> 00:07:08,765
-So having this immediate connection allows ideas to surface
+Tener una conexión inmediata permite a las ideas salir a la superficie
 
 119
 00:07:08,765 --> 00:07:13,584
-and develop in ways that would be impossible before.
+y desarrollar en formas que antes eran imposibles.
 
 120
 00:07:17,508 --> 00:07:19,128
-But there's still a problem here, I think.
+Pero, pienso que aún existe un problema aquí.
 
 121
 00:07:19,128 --> 00:07:21,286
-Which is - I've got this picture,
+Es este: tengo esta imagen,
 
 122
 00:07:21,286 --> 00:07:23,310
-and I've got this code over here
+tengo este código al lado,
+
 
 123
 00:07:23,310 --> 00:07:26,920
-and I have to maintain a mapping between the two in my head.
+y tengo que manetener un mapa en mi cabeza que los relaciona a los dos.
+
 
 124
 00:07:26,920 --> 00:07:28,151
-So I've got all these lines of code,
+Así que tengo todas estas lineas de código,
 
 125
 00:07:28,151 --> 00:07:33,057
-and just looking at this line I don't immediately know what it does.
+y si miro esta linea, no puede ver inmediatamente que hace.
 
 126
 00:07:33,057 --> 00:07:34,491
-So here's what I can do.
+Así que esto es lo que puedo hacer:
 
 127
 00:07:34,491 --> 00:07:36,372
-I can hold down the option key,
+Puedo mantener pulsada la tecla Option,
 
 128
 00:07:36,372 --> 00:07:38,983
