@@ -650,59 +650,59 @@ Las ideas son muy importenes para mi.
 
 162
 00:09:36,654 --> 00:09:41,617
-And the thing about ideas, is that ideas start small.
+Y la cosa acerca de las ideas, es que las ideas comienzan siendo pequeñas.
 
 163
 00:09:41,617 --> 00:09:45,203
-Ideas start out, tiny, weak and fragile.
+Las ideas surgen, pequeñas, débiles y frágiles.
 
 164
 00:09:45,203 --> 00:09:46,879
-In order for ideas to develop and mature,
+Para que las ideas se puedan desarroollar y madurar,
 
 165
 00:09:46,879 --> 00:09:49,138
-ideas need an environment
+las ideas necesitan un entorno
 
 166
 00:09:49,138 --> 00:09:51,228
-where the creator can nurture them.
+donde el inventor puede nutrirlas.
 
 167
 00:09:51,228 --> 00:09:54,297
-Kind of take care of them, feed them, and shape their growth.
+Tomar algún tipo de cuidado, alimentárlas, darles formas para que puedan crecer.
 
 168
 00:09:54,297 --> 00:09:59,839
-And to me, that's what the principle of immediate connection is all about.
+Y para mí, ese es el fundamento completo del principio de conexión inmediata.
 
 169
 00:09:59,839 --> 00:10:02,755
-And because ideas are so precious to me,
+Y porque las ideas son valiosas para mí,
 
 170
 00:10:02,755 --> 00:10:05,489
-when I see this principle violated,
+cuando veo este principio violado,
 
 171
 00:10:05,489 --> 00:10:10,286
-when I see ideas stillborn or stunted because their creator couldn't see what they were doing
+cuando veo que las ideas se paralizan porque sus inventores no pudieron ver qué estában haciendo
 
 172
 00:10:10,286 --> 00:10:12,916
-I feel that's wrong.
+Siento que eso está mal.
 
 173
 00:10:12,916 --> 00:10:14,880
-And not wrong in the sense of
+Y no "mal" en el sentido de no respetar
 
 174
 00:10:14,880 --> 00:10:18,573
-violating some UI guideline or going against a best practice, but
+alguna guia de estílo o ir en contra buena práctica, sino
 
 175
 00:10:18,573 --> 00:10:21,558
-wrong in a deeper sense than that.
+"mal" en un sentido mas profundo.
 
 176
 00:10:21,558 --> 00:10:25,369
