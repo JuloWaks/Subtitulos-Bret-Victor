@@ -68,7 +68,7 @@ Para empezar conmigo: Las ideas son muy importantes.
 
 18
 00:01:15,147 --> 00:01:21,140
-Yo pienso que traer ideas al mundo es una de las cosas mas importantes que la gente hace.
+Pienso que traer ideas al mundo es una de las cosas mas importantes que la gente hace.
 
 19
 00:01:21,140 --> 00:01:29,224
@@ -84,7 +84,7 @@ que da sentido a nuestas vidas como personas.
 
 22
 00:01:35,317 --> 00:01:40,036
-Yo pienso mucho acerca de como las personas crean ideas, y en como las ideas crecen.
+Pienso mucho acerca de como las personas crean ideas, y en como las ideas crecen.
 
 23
 00:01:40,036 --> 00:01:46,307
@@ -116,7 +116,7 @@ Lo que trato de decir con esto es que cuando estas haciendo algo, si haces un ca
 
 30
 00:02:10,306 --> 00:02:14,271
-o tomas una desciscion, tu nescesitas ver un efecto inmediato sobre eso.
+o tomas una desciscion, necesitas ver un efecto inmediato sobre eso.
 
 31
 00:02:14,271 --> 00:02:18,109
@@ -124,11 +124,11 @@ No puede haber una demora, no puede haber nada oculto.
 
 32
 00:02:18,109 --> 00:02:20,846
-Los inventores tiene que ser capaces de ver lo que estan haciendo
+Los inventores tienen que ser capaces de ver lo que estan haciendo
 
 33
 00:02:20,846 --> 00:02:25,223
-Ahora voy a mostrarles una serie de casos donde note que este principio es violado
+Ahora voy a mostrarles una serie de casos donde noté que este principio es violado
 
 34
 00:02:25,223 --> 00:02:28,118
@@ -329,15 +329,16 @@ parece como que el viento esta soplando entre los arboles.
 
 83
 00:05:13,183 --> 00:05:15,986
-And the first time I saw this I immediately started thinking about
+Y la primera vez que vi esto inmediatamente comencé a pensar:
 
 84
 00:05:15,986 --> 00:05:20,391
-how I could use this effect for an animation.
+¿Cómo prodría usar este efecto para una animación?
+
 
 85
 00:05:20,391 --> 00:05:25,463
-How would I ever have discovered that if I had to compile and run between every change?
+¿Habría podido describir esto si hubiera tenido que compilar y ejecutar en cada cambio?
 
 86
 00:05:25,463 --> 00:05:28,867
