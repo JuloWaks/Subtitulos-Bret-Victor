@@ -338,7 +338,7 @@ Y la primera vez que vi esto inmediatamente comencé a pensar:
 
 85
 00:05:20,391 --> 00:05:25,463
-¿Habría podido describir esto si hubiera tenido que compilar y ejecutar en cada cambio?
+¿Habría podido descubir esto si hubiera tenido que compilar y ejecutar en cada cambio?
 
 86
 00:05:25,463 --> 00:05:28,867
