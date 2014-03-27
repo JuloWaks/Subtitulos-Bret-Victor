@@ -706,99 +706,101 @@ alguna guia de estílo o ir en contra buena práctica, sino
 
 176
 00:10:21,558 --> 00:10:25,369
-And I'll come back to this, but I want to show you another example of following this principle.
+Volveré a esta idea mas tarde, pero antes quiero mostra otro ejemplo de este principio.
 
 177
 00:10:25,369 --> 00:10:28,632
-So, in this code here, there is no state
+En este código no hay estado.
 
 178
 00:10:28,632 --> 00:10:32,803
-There is no time, there is no interactivity.
+No hay tiempo, y tampoco interactividad.
 
 179
 00:10:32,803 --> 00:10:37,040
-And I was thinking about how we would handle those aspects of coding
+Y he pensado sobre cómo podemos manejar estos aspectos de la programación
 
 180
 00:10:37,040 --> 00:10:39,370
-in a way that's inline with this principle that I have,
+manejarlos, en una forma que esté alineados con este principio,
+
 
 181
 00:10:39,370 --> 00:10:42,259
-that creators need an immediate connection.
+que los inventores necesitan una conexión inmediata.
 
 182
 00:10:42,658 --> 00:10:46,516
-So, what I have here, is a little platform game.
+Así que tengo esto, un pequeño juego de plataformas.
 
 183
 00:10:46,516 --> 00:10:50,118
-Here is my little guy, he can run around, he can jump,
+Acá está mi pequeño personaje, que puede correr, saltar,
 
 184
 00:10:50,118 --> 00:10:53,190
-he can die [chuckles].
+morir [risas].
 
 185
 00:10:53,190 --> 00:10:54,706
-And the code for him is over here.
+Y el código para él está por aquí.
 
 186
 00:10:54,706 --> 00:10:56,453
-So this code makes him run around,
+Este código hace que pueda correr,
 
 187
 00:10:56,453 --> 00:10:58,027
-this makes him jump,
+este otro que pueda saltar,
 
 188
 00:10:58,027 --> 00:11:00,464
-this makes him collide with things...
+que pueda colisionar con cosas...
 
 189
 00:11:00,464 --> 00:11:05,070
-and down here, I've got some code for this little turtle.
+y mas abajo, tenemos algo de código para la tortuga.
 
 190
 00:11:05,070 --> 00:11:06,665
-And this turtle is not doing much right now
+Y esta tortuga no está haciendo mucho ahora
 
 191
 00:11:06,665 --> 00:11:08,795
-because I haven't finished writing this code,
+porque no he terminado de escribir este código,
 
 192
 00:11:08,795 --> 00:11:11,141
-so, I'm just going to do that right now.
+solo estoy haciéndolo ahora mismo.
 
 193
 00:11:11,141 --> 00:11:16,311
-So on each tick, x position plus equals his direction
+en cada actualización, la posición x depende de su dirección
 
 194
 00:11:16,311 --> 00:11:19,635
-times the time interval one sixtieth of a second
+el ciclo de acualización es de 60 cuadros por segundo
+
 
 195
 00:11:19,635 --> 00:11:21,951
-times some speed,
+aumento la velocidad,
 
 196
 00:11:21,951 --> 00:11:27,591
-which, um, I dunno? Could be fast, could be slow
+que... um, no se.. podría ser rápido, o lento
 
 197
 00:11:27,591 --> 00:11:33,463
-if it's negative, he walks backwards. [chuckles]
+si es negativo, camina al revés. [risas]
 
 198
 00:11:33,463 --> 00:11:35,999
-And these are all ideas, I can use for other enemies
+Pienso que todas estas ideas, las puedo usar para otros enemigos
 
 199
 00:11:35,999 --> 00:11:39,202
-but I think turtles are supposed to be slow,
+pero las tortugas se suponen que tiene que ser lentas,
 
 200
 00:11:39,202 --> 00:11:42,739
