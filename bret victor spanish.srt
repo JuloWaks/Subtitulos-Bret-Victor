@@ -1,6 +1,6 @@
 1
 00:00:07,311 --> 00:00:11,916
-A difirencia de la conferencia pasada, no tengo premios para dar.
+A diferencia de la conferencia pasada, no tengo premios para dar.
 
 2
 00:00:11,916 --> 00:00:14,182
@@ -8,11 +8,11 @@ Solo te voy a decir como vivir tu vida.
 
 3
 00:00:14,752 --> 00:00:21,188
-Esta charla es en realidad sobre una forma de vivir tu vida que la mayoria de la gente no conoce.
+Esta charla es en realidad sobre una forma de vivir tu vida que la mayoría de las personas no conoce.
 
 4
 00:00:21,758 --> 00:00:28,202
-A medida que te acerques a tu carrera, vas a escuchar un monton acerca de como "seguir tu pasion",
+A medida que te acerques a tu carrera, vas a escuchar un montón acerca de como "seguir tu pasión",
 
 5
 00:00:28,202 --> 00:00:31,068
@@ -56,7 +56,7 @@ cuales son sus principios, en que creen.
 
 15
 00:00:59,980 --> 00:01:06,738
-Pero esos son todos ejemplo, para ayudar a pensar en que crees tu,
+Pero esos son todos ejemplos, para ayudar a pensar en que crees tu,
 
 16
 00:01:06,738 --> 00:01:09,818
@@ -68,11 +68,11 @@ Para empezar conmigo: Las ideas son muy importantes.
 
 18
 00:01:15,147 --> 00:01:21,140
-Yo pienso que traer ideas al mundo es una de las cosas mas importantes que la gente hace.
+Pienso que traer ideas al mundo es una de las cosas mas importantes que la gente hace.
 
 19
 00:01:21,140 --> 00:01:29,224
-Y también pienso que las grandes ideas, en forma de arte genial, historias, invenciones, teorias cientificas,
+Y también pienso que las grandes ideas, en forma de arte, historias, invenciones, teorías científicas,
 
 20
 00:01:29,224 --> 00:01:32,799
@@ -80,11 +80,11 @@ esas toman vida propia,
 
 21
 00:01:32,799 --> 00:01:35,302
-que da sentido a nuestas vidas como personas.
+que da sentido a nuestras vidas como personas.
 
 22
 00:01:35,317 --> 00:01:40,036
-Yo pienso mucho acerca de como las personas crean ideas, y en como las ideas crecen.
+Pienso mucho acerca de como las personas crean ideas, y en como las ideas crecen.
 
 23
 00:01:40,036 --> 00:01:46,307
@@ -92,23 +92,23 @@ Y en particular, que conjunto de herramientas crean un ambiente saludable para q
 
 24
 00:01:46,307 --> 00:01:51,148
-Ahora, he pasado mucho de mi tiempo a traves de los años haciendo herramientas creativas, usandolas,
+Ahora, he pasado mucho de mi tiempo a través de los años haciendo herramientas creativas, usándolas,
 
 25
 00:01:51,148 --> 00:01:54,925
-pensando mucho sobre ellas, y aqui esta algo que he llegado a creer:
+pensando mucho sobre ellas, y aquí está algo que he llegado a creer:
 
 26
 00:01:55,556 --> 00:02:01,306
-Los inventores necesitan una coneccion inmediata con lo que estan creando.
+Los inventores necesitan una conexión inmediata con lo que están creando.
 
 27
 00:02:01,306 --> 00:02:02,474
-Ese es mi prinicipio.
+Ese es mi principio.
 
 28
 00:02:02,474 --> 00:02:06,063
-Los inventores necesitan una coneccion con lo que crean.
+Los inventores necesitan una conexión con lo que crean.
 
 29
 00:02:06,063 --> 00:02:10,306
@@ -116,7 +116,7 @@ Lo que trato de decir con esto es que cuando estas haciendo algo, si haces un ca
 
 30
 00:02:10,306 --> 00:02:14,271
-o tomas una desciscion, tu nescesitas ver un efecto inmediato sobre eso.
+o tomas una decisión, necesitas ver un efecto inmediato sobre eso.
 
 31
 00:02:14,271 --> 00:02:18,109
@@ -124,11 +124,11 @@ No puede haber una demora, no puede haber nada oculto.
 
 32
 00:02:18,109 --> 00:02:20,846
-Los inventores tiene que ser capaces de ver lo que estan haciendo
+Los inventores tiene que ser capaces de ver lo que están haciendo
 
 33
 00:02:20,846 --> 00:02:25,223
-Ahora voy a mostrarles una serie de casos donde note que este principio es violado
+Ahora voy a mostrarles una serie de casos donde noté que este principio es violado
 
 34
 00:02:25,223 --> 00:02:28,118
@@ -144,19 +144,19 @@ Para empezar, pensemos acerca de programar.
 
 37
 00:02:36,307 --> 00:02:39,530
-Asi es como la programación funciona : escribes un monton de codigo en un editor de texto,
+Así es como la programación funciona: escribes un montón de código en un editor de texto,
 
 38
 00:02:39,530 --> 00:02:43,934
-tratas de imaginar en tu cabeza que hara cada linea de codigo.
+tratas de imaginar en tu cabeza que hará cada linea de código.
 
 39
 00:02:43,934 --> 00:02:47,805
-Y luego los complias y ejecutas, y algo sucede.
+Y luego los compilas, ejecutas, y algo sucede.
 
 40
 00:02:47,805 --> 00:02:53,060
-En este caso, esto es solo JavaScript, Canvas, y dibuja este pequeño árbol.
+En este caso, esto es solo JavaScript con un canvas, y se dibuja este pequeño árbol.
 
 41
 00:02:53,060 --> 00:02:56,317
@@ -172,7 +172,7 @@ Tengo que ir devuelta al código,
 
 44
 00:03:02,287 --> 00:03:05,339
-y editar, compilarlo y ejecutarlo,
+editar, compilarlo y ejecutarlo,
 
 45
 00:03:05,339 --> 00:03:07,786
@@ -188,27 +188,27 @@ La mayoría de mi tiempo lo paso en el código, trabajando a ciegas en un editor
 
 48
 00:03:13,765 --> 00:03:17,320
-sin una conexión inmediata a lo que hago,
+sin una conexión inmediata con lo que hago,
 
 49
 00:03:17,320 --> 00:03:20,953
-que es lo que tratare de hacer.
+que es lo que trataré de hacer.
 
 50
 00:03:20,968 --> 00:03:22,707
-Siento que esto va encontra del principio que tengo,
+Siento que esto va en contra del principio que tengo,
 
 51
 00:03:22,707 --> 00:03:26,383
-que un inventor necesita una conexión inmediata con lo que esta creando,
+que un inventor necesita una conexión inmediata con lo que está creando,
 
 52
 00:03:26,383 --> 00:03:32,991
-he probado un entorno de programacion que va a ser mucho mas acorde a mi principio.
+he probado un entorno de programación que va a ser mucho mas acorde a mi principio.
 
 53
 00:03:33,884 --> 00:03:40,724
-Lo que tengo aquí es una foto en un lado y el código en el otro,
+Lo que tengo aquí es un dibujo en un lado y el código en el otro,
 
 54
 00:03:40,724 --> 00:03:44,916
@@ -216,7 +216,7 @@ y esta parte dibuja el cielo y esta parte las montañas.
 
 55
 00:03:44,916 --> 00:03:47,343
-esto dibuja un arbol,
+esto dibuja un árbol,
 
 56
 00:03:47,343 --> 00:03:49,570
@@ -228,11 +228,11 @@ el dibujo cambia inmediatamente.
 
 58
 00:03:52,820 --> 00:03:57,008
-El código y el dibujo estan siempre sincronizados, no hay un compliar y ejecutar.
+El código y el dibujo están siempre sincronizados, no hay que compilar y ejecutar.
 
 59
 00:03:57,008 --> 00:04:00,684
-Yo solo cambio cosas en el código
+Solo cambio cosas en el código
 
 60
 00:04:00,684 --> 00:04:04,594
@@ -252,27 +252,27 @@ podemos pensar maneras de cambiar el código fuera de tipear...
 
 64
 00:04:12,555 --> 00:04:16,161
-Por ejemplo, este numero es la cantidad de ramas
+Por ejemplo, este número es la cantidad de ramas
 
 65
 00:04:16,161 --> 00:04:18,428
-Si quisiera controlar ese numero, solo tengo que apuntar mi puntero a él,
+Si quisiera controlar ese número, solo tengo que apuntar mi puntero a él,
 
 66
 00:04:18,428 --> 00:04:22,587
-presionar mi tecla ctrl, y subir y bajar el valor del numero.
+presionar mi tecla Control, y subir y bajar el valor del número.
 
 67
 00:04:24,034 --> 00:04:27,218
-Yo puedo ver como luce muchas ramas o pocas ramas
+Puedo ver como luce con muchas ramas o pocas ramas
 
 68
 00:04:27,218 --> 00:04:31,576
-y puedo llenar con lo que me parece artisticamente correcto.
+y puedo llenar con lo que me parece artísticamente correcto.
 
 69
 00:04:31,576 --> 00:04:32,732
-Y funciona para cualquier numero en el código
+Y funciona para cualquier número en el código
 
 70
 00:04:32,732 --> 00:04:35,492
@@ -280,11 +280,11 @@ Solo apunto a él y lo subo y bajo
 
 71
 00:04:35,492 --> 00:04:37,856
-Y algunos de estos numeros aquí, se lo que hacen
+Y algunos de estos números aquí, sé lo que hacen
 
 72
 00:04:37,856 --> 00:04:42,217
-Pero aun es algo sorprendete verlos hacerlo [risas]
+Pero aún así, es algo sorprendente ver los que hacen [risas]
 
 73
 00:04:42,217 --> 00:04:46,147
@@ -300,15 +300,15 @@ Estoy aquí, tengo este
 
 76
 00:04:50,919 --> 00:04:52,854
-bucle donde estoy contando hasta dicesiceis,
+bucle donde estoy contando hasta dieciséis,
 
 77
 00:04:52,854 --> 00:04:56,266
-Estoy poniendo dieciseis pequeñas flores rosas en cada rama.
+Estoy poniendo dieciséis pequeñas flores rosas en cada rama.
 
 78
 00:04:56,266 --> 00:05:00,439
-Y puedo bajar el numero para menos flores o subirlo para más.
+Y puedo bajar el número para menos flores o subirlo para más.
 
 79
 00:05:00,439 --> 00:05:03,463
@@ -316,7 +316,7 @@ Pero, miren a lo que estoy haciendo aquí:
 
 80
 00:05:03,463 --> 00:05:07,334
-**Solo estoy moviendo ese número hacia arriba y abajo alrededor de veinto o parecido:
+Solo estoy moviendo ese número hacia arriba y abajo cerca de veinte:
 
 81
 00:05:07,334 --> 00:05:09,111
@@ -324,7 +324,7 @@ y tiene un efecto reluciente muy interesante;
 
 82
 00:05:09,111 --> 00:05:13,183
-parece como que el viento esta soplando entre los arboles.
+parece que el viento esta soplando entre los arboles.
 
 83
 00:05:13,183 --> 00:05:15,986
@@ -340,11 +340,11 @@ Cómo podría haber descubierto eso si hubiese tenido que compilar y ejecutar en
 
 86
 00:05:25,463 --> 00:05:28,867
-Mucho del arte, mucho de la invencion es descubrimiento,
+Mucho del arte, mucho de la invención es descubrimiento,
 
 87
 00:05:28,867 --> 00:05:32,629
-y no puedes descubrir nada si no logras ver lo que estas haciendo.
+y no puedes descubrir nada si no logras ver lo que estás haciendo.
 
 88
 00:05:32,629 --> 00:05:36,107
@@ -356,7 +356,7 @@ Me gustaría poner un sol aquí en el cielo,
 
 90
 00:05:38,468 --> 00:05:41,010
-Ire a la función dibujarCielo,
+Iré a la función dibujarCielo,
 
 91
 00:05:41,010 --> 00:05:43,213
@@ -368,15 +368,15 @@ empiezo a escribir contexto.llenarCirculo,
 
 93
 00:05:46,250 --> 00:05:48,826
-y apenas que empiezo a escribir, recibo la lista de autcompletado
+y apenas que empiezo a escribir, recibo la lista de autocompletado
 
 94
 00:05:48,826 --> 00:05:51,159
-de los diferentes metodos de llenado.
+de los diferentes métodos de pintura.
 
 95
 00:05:51,159 --> 00:05:55,876
-Estos son las cosas que puedo tipear aqui: llenarCirculo, llenarRectangulo, llenarTexto.
+Estas son las cosas que puedo tipear aquí: llenarCirculo, llenarRectangulo, llenarTexto.
 
 96
 00:05:55,876 --> 00:05:58,088
@@ -384,11 +384,11 @@ y cuando me muevo para arriba o para abajo en esta lista de autocompletado,
 
 97
 00:05:58,088 --> 00:06:02,278
-Inmediatamente veo que hace cada una de ellas.
+Inmediatamente veo qué hace cada una de ellas.
 
 98
 00:06:02,278 --> 00:06:05,669
-Yo no tengo que imaginar que hara a partir del nombre del metodo.
+Yo no tengo que imaginar que hará a partir del nombre del método.
 
 99
 00:06:05,669 --> 00:06:08,026
@@ -416,8 +416,7 @@ cambiar el radio un poco...
 
 105
 00:06:20,300 --> 00:06:22,698
-And that looks about right.
-***y mirar
+Y esto se ve bien.
 
 106
 00:06:22,698 --> 00:06:24,125
@@ -429,7 +428,7 @@ así que voy a definir el estilo de pintado
 
 108
 00:06:25,988 --> 00:06:28,960
-Context.fillStyle, el mismo autocompletado como antes antes,
+Context.fillStyle, el mismo autocompletado de antes,
 
 109
 00:06:28,990 --> 00:06:31,143
@@ -445,11 +444,11 @@ y puedo cambiar ese código de color de la misma forma que cambio cualquier núm
 
 112
 00:06:37,662 --> 00:06:42,806
-Puso la tecla control, y obtendo una paleta de colores.
+Puso la tecla control, y obtengo una paleta de colores.
 
 113
 00:06:42,806 --> 00:06:46,733
-Así que elijo a lindo color amarillo para mi sol.
+Así que elijo un lindo color amarillo para mi sol.
 
 114
 00:06:48,980 --> 00:06:52,851
@@ -481,7 +480,7 @@ Pero, pienso que aún existe un problema aquí.
 
 121
 00:07:19,128 --> 00:07:21,286
-Es este: tengo este dibujo,
+Es este: tengo un dibujo,
 
 122
 00:07:21,286 --> 00:07:23,310
@@ -490,7 +489,7 @@ tengo este código al lado,
 
 123
 00:07:23,310 --> 00:07:26,920
-y tengo que manetener un mapa en mi cabeza que los relaciona a los dos.
+y tengo que mantener un mapa en mi cabeza que los relaciona a los dos.
 
 
 124
@@ -499,7 +498,7 @@ Así que tengo todas estas lineas de código,
 
 125
 00:07:28,151 --> 00:07:33,057
-y si miro esta linea, no puede ver inmediatamente que hace.
+y si miro esta linea, no puedo ver inmediatamente que hace.
 
 126
 00:07:33,057 --> 00:07:34,491
@@ -507,7 +506,7 @@ Así que esto es lo que puedo hacer:
 
 127
 00:07:34,491 --> 00:07:36,372
-Puedo mantener pulsada la tecla Option,
+Puedo mantener pulsada la tecla Opción,
 
 128
 00:07:36,372 --> 00:07:38,983
@@ -515,7 +514,7 @@ mi cursor se convierte en una lupa,
 
 129
 00:07:38,983 --> 00:07:40,656
-y ahora cuando de deplazo sobre cada linea de código,
+y ahora cuando me desplazo sobre cada linea de código,
 
 130
 00:07:40,656 --> 00:07:42,672
@@ -527,7 +526,7 @@ eso es lo que está siendo dibujado por esa linea.
 
 132
 00:07:46,904 --> 00:07:49,807
-Entonces, si quiero conocer qué está haciendo esta funciíon,
+Entonces, si quiero conocer qué está haciendo esta función,
 
 133
 00:07:49,807 --> 00:07:54,662
@@ -535,7 +534,7 @@ Solo exploro dentro de la función y veo qué aparece resaltado.
 
 134
 00:07:56,848 --> 00:08:00,018
-Aquí tengo dos llamadas a drawMountain; no se cual es cual;
+Aquí tengo dos llamadas a drawMountain; no sé cual es cual;
 
 135
 00:08:00,018 --> 00:08:03,052
@@ -551,11 +550,11 @@ si veo una parte del dibujo,
 
 138
 00:08:06,532 --> 00:08:09,575
-Necesito conocer que código fué el responsable de dibujarlo.
+Necesito conocer que código fue el responsable de dibujarlo.
 
 139
 00:08:09,575 --> 00:08:12,095
-Así que hago lo mismo, mantengo pulsada la tecla Option,
+Así que hago lo mismo, mantengo pulsada la tecla Opción,
 
 140
 00:08:12,095 --> 00:08:15,116
@@ -571,11 +570,11 @@ salta a la linea de código que dibujó ese pixel.
 
 143
 00:08:20,472 --> 00:08:23,073
-Así esto dibujo el cielo, y esto dibujó el árbol
+Así esto dibujó el cielo, y esto dibujó el árbol
 
 144
 00:08:23,073 --> 00:08:25,849
-Esto dibujo las hojas
+Esto dibujó las hojas
 
 145
 00:08:28,080 --> 00:08:29,463
@@ -621,7 +620,7 @@ Y es tan importante para el proceso creativo -
 
 155
 00:08:54,137 --> 00:08:57,931
-ser capaz de intentar ideas mientras pensás en ellas
+ser capaz de intentar ideas mientras piensas en ellas
 
 156
 00:09:00,040 --> 00:09:01,812
@@ -629,7 +628,7 @@ Que si hubiera alguna demora en esa comunicación
 
 157
 00:09:01,812 --> 00:09:06,821
-entre pensar acerca de algo, verlo y contruir sobre eso
+entre pensar acerca de algo, verlo y construir sobre eso
 
 
 158
@@ -646,7 +645,7 @@ Estas son ideas en las que no podemos pensar...
 
 161
 00:09:33,600 --> 00:09:36,654
-Las ideas son muy importenes para mi.
+Las ideas son muy importantes para mí.
 
 162
 00:09:36,654 --> 00:09:41,617
@@ -658,7 +657,7 @@ Las ideas surgen, pequeñas, débiles y frágiles.
 
 164
 00:09:45,203 --> 00:09:46,879
-Para que las ideas se puedan desarroollar y madurar,
+Para que las ideas se puedan desarrollar y madurar,
 
 165
 00:09:46,879 --> 00:09:49,138
@@ -670,7 +669,7 @@ donde el inventor puede nutrirlas.
 
 167
 00:09:51,228 --> 00:09:54,297
-Tomar algún tipo de cuidado, alimentárlas, darles formas para que puedan crecer.
+Tomar algún tipo de cuidado, alimentarlas, darles formas para que puedan crecer.
 
 168
 00:09:54,297 --> 00:09:59,839
@@ -686,7 +685,7 @@ cuando veo este principio violado,
 
 171
 00:10:05,489 --> 00:10:10,286
-cuando veo que las ideas se paralizan porque sus inventores no pudieron ver qué estában haciendo
+cuando veo que las ideas se paralizan porque sus inventores no pudieron ver qué estaban haciendo
 
 172
 00:10:10,286 --> 00:10:12,916
@@ -698,7 +697,7 @@ Y no "mal" en el sentido de no respetar
 
 174
 00:10:14,880 --> 00:10:18,573
-alguna guia de estílo o ir en contra buena práctica, sino
+alguna guia de estilo o ir en contra buena práctica, sino
 
 175
 00:10:18,573 --> 00:10:21,558
@@ -706,7 +705,7 @@ alguna guia de estílo o ir en contra buena práctica, sino
 
 176
 00:10:21,558 --> 00:10:25,369
-Volveré a esta idea mas tarde, pero antes quiero mostra otro ejemplo de este principio.
+Volveré a esta idea mas tarde, pero antes quiero mostrar otro ejemplo de este principio.
 
 177
 00:10:25,369 --> 00:10:28,632
@@ -775,11 +774,11 @@ solo estoy haciéndolo ahora mismo.
 
 193
 00:11:11,141 --> 00:11:16,311
-en cada actualización, la posición x depende de su dirección
+en cada actualización, la posición X depende de su dirección
 
 194
 00:11:16,311 --> 00:11:19,635
-el ciclo de acualización es de 60 cuadros por segundo
+el ciclo de actualización es de 60 cuadros por segundo
 
 
 195
@@ -800,307 +799,309 @@ Pienso que todas estas ideas, las puedo usar para otros enemigos
 
 199
 00:11:35,999 --> 00:11:39,202
-pero las tortugas se suponen que tiene que ser lentas,
+pero las tortugas se suponen que tienen que ser lentas,
 
 200
 00:11:39,202 --> 00:11:42,739
-so let's set a good speed for a turtle
+así que busquemos una velocidad para la tortuga
 
 201
 00:11:42,739 --> 00:11:46,009
-And then up here, I've got some code that says:
+Y por aquí arriba, tenemos código que dice:
 
 202
 00:11:46,009 --> 00:11:49,681
-"When my guy, collides with the turtle, he gets some Y velocity".
+"Cuando mi personaje colisione con la tortuga, obtiene algo de velocidad vertical".
 
 203
 00:11:49,681 --> 00:11:53,582
-So it bounces into the air and the turtle gets stopped.
+Así que rebota y la tortuga se detiene.
 
 204
 00:11:53,582 --> 00:11:55,488
-So that looks like that.
+Por eso se ve así.
 
 205
 00:11:55,488 --> 00:11:59,085
-And the the turtle gets up after a bit.
+Y la tortuga se despierta después de un rato.
 
 206
 00:12:00,824 --> 00:12:05,529
-The problem is, I don't want the player to be able to get up there yet.
+El problema es, que no quiero que el jugador pueda llegar aquí aún.
 
 207
 00:12:05,529 --> 00:12:07,597
-I want the player to bounce up the turtle,
+Quiero que el jugador rebote en la tortuga,
 
 208
 00:12:07,597 --> 00:12:10,300
-and go through this little passageway down there.
+y pase a través de este pequeño pasaje por aquí.
 
 209
 00:12:10,300 --> 00:12:13,815
-It'll have to go around and solve puzzles and whatnot,
+Tengo que explorar y resolver algunos acertijos y tal vez,
 
 210
 00:12:13,815 --> 00:12:15,533
-to come back and get the star.
+regresar y capturar la estrella.
 
 211
 00:12:15,533 --> 00:12:18,308
-So, the turtle is too bouncy right now.
+Entonces, la tortuga hace rebotar al personaje demasiado alto.
 
 212
 00:12:18,308 --> 00:12:21,649
-Now of course I could just turn that down in the code,
+Por supuesto puedo reducir este rebote en el código,
 
 213
 00:12:21,649 --> 00:12:23,692
-and now I can try it
+y volver a intentar
 
 214
 00:12:23,692 --> 00:12:26,440
-but, but now it's not bouncy enough.
+pero, ahora no es tan fuerte el rebote.
 
 215
 00:12:26,440 --> 00:12:30,420
-So while it's nice that I can adjust the code while it's running,
+Lo que es valioso es que puedo ajustar el código mientras está corriendo,
 
 216
 00:12:30,420 --> 00:12:33,856
-without having to stop and recompile and find that place again
+sin tener que detener, recompilar y buscar este lugar de nuevo
 
 217
 00:12:33,856 --> 00:12:36,559
-I can't immediately see what I need to see,
+No puedo ver inmediatamente lo que necesito ver,
 
 218
 00:12:36,559 --> 00:12:39,715
-which is whether or not I make that jump.
+cuando es posible dar este salto y cuando no.
 
 219
 00:12:40,839 --> 00:12:42,566
-So here's what I'm going to do.
+Esto es lo que voy a hacer,
 
 220
 00:12:42,566 --> 00:12:44,563
-I'm going to bounce off the turtle,
+Voy a rebotar sobre la tortuga,
 
 221
 00:12:44,563 --> 00:12:46,155
-and pause the game.
+y poner el juego en pausa.
 
 222
 00:12:46,155 --> 00:12:49,441
-So I pause the game, and now there's a slider up here,
+Así que en pausa, ahora hay un deslizador aquí arriba.
 
 223
 00:12:49,441 --> 00:12:52,301
-which lets me rewind through time.
+que me permite rebobinar el tiempo.
 
 224
 00:12:57,811 --> 00:13:01,251
-And now, I could rewind to back before I made the jump,
+Y ahora, puedo rebobinar justo antes de hacer el salto,
 
 225
 00:13:01,251 --> 00:13:03,896
-and change the code, make it less bouncy
+y cambiar el código, hacerlo rebotar menos
 
 226
 00:13:03,896 --> 00:13:05,695
-and now when I move it forward,
+y ahora, cuando me muevo hacia adelante,
 
 227
 00:13:05,695 --> 00:13:07,374
-it's going to simulate it, using the same input controls,
+se simulará, usando los mismos eventos del control,
 
 228
 00:13:07,374 --> 00:13:09,499
-the same keyboard commands as before,
+las mismas pulsaciones de teclado de antes,
 
 229
 00:13:09,499 --> 00:13:11,808
-but the new code.
+pero con el código nuevo.
 
 230
 00:13:11,808 --> 00:13:21,083
-[applause]
+[aplausos]
 
 231
 00:13:21,083 --> 00:13:25,343
-This is not good enough. [laughter]
+No es tan bueno aún. [risas]
 
 232
 00:13:25,343 --> 00:13:27,811
-I need to be able to see the changes immediately.
+Necesito tener la posibilidad de ver los cambios inmediatamente.
 
 233
 00:13:27,811 --> 00:13:29,284
-I need to be able to see immediately
+Necesito poder ver inmediatamente
 
 234
 00:13:29,284 --> 00:13:33,913
-whether or not my bounciness is correct.
+cuando la intensidad del rebote es correcta o no.
 
 235
 00:13:33,913 --> 00:13:37,021
-None of this stuff.
+Ninguna de estas cosas.
 
 236
 00:13:37,021 --> 00:13:38,864
-And if you have a process in time,
+Y si tienes un proceso en el tiempo,
 
 237
 00:13:38,864 --> 00:13:40,747
-and you want to see changes immediately,
+y quieres ver los cambios inmediatamente,
 
 238
 00:13:40,747 --> 00:13:43,646
-you have to map time to space.
+tienes que desplegar el tiempo en el espacio.
 
 239
 00:13:43,646 --> 00:13:45,397
-So here's what I'm going to do.
+Esto es lo que voy a hacer.
 
 240
 00:13:45,397 --> 00:13:48,499
-I'm going to bounce off my turtle, pause the game,
+Voy a rebotar sobre la tortuga, poner el juego en pausa,
 
 241
 00:13:48,499 --> 00:13:50,462
-and now hit this button here,
+y ahora voy a pulsar este botón,
 
 242
 00:13:50,462 --> 00:13:53,787
-which shows my guys trail.
+que me muestra la traza del personaje.
 
 243
 00:13:53,787 --> 00:13:56,574
-So now I can see where he's been.
+Ahora puedo por donde ha pasado.
 
 244
 00:13:56,574 --> 00:13:59,509
-And now when I rewind,
+Y cuando rebobino,
 
 245
 00:13:59,509 --> 00:14:02,850
-this trail in front of him, is where he is going to be.
+esta traza en frente de él, es donde el va a estar.
 
 246
 00:14:02,850 --> 00:14:05,082
-This is his future.
+Es su futuro.
 
 247
 00:14:05,082 --> 00:14:10,954
-And when I change the code, I change his future. [gasps]
+Y cuando cambio el código, cambio su futuro.
 
 248
 00:14:10,954 --> 00:14:13,570
-So I can find exactly the value I need,
+Así que puedo buscar el valor exacto que necesito,
 
 249
 00:14:13,570 --> 00:14:17,393
-so when I hit play, he slips right in there.
+entonces cuando pulso "play", se desliza exactamente ahí.
 
 250
 00:14:17,393 --> 00:14:25,476
-[applause]
+[aplausos]
 
 251
 00:14:26,336 --> 00:14:28,311
-So, creators need to be able to see what they're doing.
+Entonces, los inventores necesitan poder ver que están haciendo.
 
 252
 00:14:28,311 --> 00:14:30,268
-If you're designing something embedded in time
+Si estás diseñando algo envuelto en el tiempo
 
 253
 00:14:30,268 --> 00:14:31,827
-you need to be able to control time.
+necesitas poder controlar el tiempo.
 
 254
 00:14:31,827 --> 00:14:34,111
-You need to be able to see across time,
+Necesitas tener la posibilidad de ver a través del tiempo,
 
 255
 00:14:34,111 --> 00:14:36,398
-otherwise you're designing blind.
+de otra forma, estás diseñando a ciegas.
 
 256
 00:14:39,306 --> 00:14:42,486
-As I was playing with this, I noticed it's fun to play with gravity.
+Como estuve jugando con esto, me dí cuenta que es divertido jugar con la gravedad.
 
 257
 00:14:42,486 --> 00:14:47,896
-So I can make gravity a little negative and he starts to float up in the air. [laughter]
+Puedo hacer la gravedad un poquito negativa y él empieza a flotar. [risas]
 
 258
 00:14:47,896 --> 00:14:52,462
-And I can kind of play with that and try to get him to stay there.
+Y puedo jugar con esto e intentar hacerlo llegar aquí.
+
 
 259
 00:14:52,462 --> 00:14:59,770
-And you could probably make an entire game around just the mechanic here - gravity manipulation.
+Y probablemente podría crear un juego entero alrededor de esta mecánica: manipulación de la gravedad.
 
 260
 00:14:59,770 --> 00:15:05,375
-In fact, I bet I could fiddle with any part of this code and come up with an idea for a game.
+** In fact, I bet I could fiddle with any part of this code and come up with an idea for a game.
 
 261
 00:15:05,375 --> 00:15:11,182
-Even if I just comment out the first statement in the code,
+Incluso, si solamente comento esta primer sentencia de código,
 
 262
 00:15:11,182 --> 00:15:14,966
-now my guy can't move left - he can only move right.
+ahora mi protagonista no puede ir a la izquierda, solo puede moverse a la derecha.
 
 263
 00:15:15,952 --> 00:15:17,321
-Which sounds kinda silly, but
+** Which sounds kinda silly, but
 
 264
 00:15:17,321 --> 00:15:19,229
-Terry Cavanagh actually made a beautiful game
+Terry Cavanahg hace poco hizo un juego hermoso
 
 265
 00:15:19,229 --> 00:15:23,925
-around that concept called "Don't Look Back".
+alrededor de un concepto titulado "No mires atrás".
 
 266
 00:15:23,925 --> 00:15:26,763
-Terry Cavanagh, he made another really wonderful game
+Terry Cavanagh, también hizo otro juego magnifico
+
 
 267
 00:15:26,763 --> 00:15:31,801
-which you might have seen, called "V", spelled as the letter v six times.
+que tal vez has visto, llamado "V", como la letra V seis veces.
 
 268
 00:15:31,801 --> 00:15:35,338
-And, the way that game works, is that you can't jump.
+y, la forma en la funciona el juego, es que no puedes saltar.
 
 269
 00:15:35,338 --> 00:15:37,909
-Instead, you can only flip upside down,
+pero en su lugar, puedes espejar de arriba hacia abajo,
 
 270
 00:15:37,909 --> 00:15:40,777
-and you fall up instead of falling down.
+y puedes subir en lugar de caer.
 
 271
 00:15:40,777 --> 00:15:43,246
-So it kinda works like this.
+Funciona de esta forma.
 
 272
 00:15:43,246 --> 00:15:46,183
-You can walk on the ceiling or you can walk around on the ground.
+** You can walk on the ceiling or you can walk around on the ground.
 
 273
 00:15:46,183 --> 00:15:50,120
-And so you have these levels, which kind of look like this
+Y tienes unos niveles, que tienen un aspecto similar a este
 
 274
 00:15:50,120 --> 00:15:56,896
-And you kind of walk around and you have to learn how to navigate turning like this
+** And you kind of walk around and you have to learn how to navigate turning like this
 
 275
 00:15:56,896 --> 00:16:01,108

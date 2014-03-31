@@ -1,12 +1,17 @@
-Subtitulos-Bret-Victor
-======================
+Subtitulos: Bret Victor
+=======================
 
- - Traducción (comunitaria) de la charla de Bret Victor.
+Este repositorio contiene una traducción comunitaria
+de la charla "Inventing on Priciple" de Bret Victor:
 
-Nota:
+![](imagenes/preview.jpg)
 
-Como estandar cada vez que no estes seguro de una
+Queremos traducir el contenido de esta charla porque
+pensamos que es muy inspiradora para todos los programadores.
+
+Te invitamos a participar de la traducción, si tienes ganas
+de ayudarnos simplemente realiza un fork y comienza.
+
+Ten en cuenta, cada vez que no estés seguro de una
 traducción agregale doble asterisco delante (**) así otra
-persona podra modificar lo que tu ya crees que no
-esta completamente bien.
-
+persona podrá modificar y ayudarte.
