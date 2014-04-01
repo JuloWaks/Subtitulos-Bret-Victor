@@ -15,3 +15,8 @@ de ayudarnos simplemente realiza un fork y comienza.
 Ten en cuenta, cada vez que no estés seguro de una
 traducción agregale doble asterisco delante (**) así otra
 persona podrá modificar y ayudarte.
+
+
+Podés ver la primer parte de la traducción aquí:
+
+ * http://youtu.be/ZosXDYBKJ88
