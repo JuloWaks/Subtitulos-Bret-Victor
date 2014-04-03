@@ -1237,7 +1237,7 @@ why are we simulating what a computer would do in our head ?
 
 308
 00:18:00,750 --> 00:18:05,390
-What isn't the computer just do it and show us ?
+Why doesn't the computer just do it and show us ?
 
 309
 00:18:05,390 --> 00:18:08,723
