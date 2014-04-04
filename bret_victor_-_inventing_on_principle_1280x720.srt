@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:07,311 --> 00:00:11,916
 So, unlike the previous session, I don't have any prizes to give out.
 
@@ -1228,7 +1228,7 @@ why are we simulating what a computer would do in our head ?
 
 308
 00:18:00,750 --> 00:18:05,390
-What isn't the computer just do it and show us ?
+Why doesn't the computer just do it and show us ?
 
 309
 00:18:05,390 --> 00:18:08,723
@@ -1340,11 +1340,11 @@ So in this case, the value I found is less than the key,
 
 336
 00:19:53,807 --> 00:19:56,198
-so it's taking this first branch of the if statement.
+so it's taken this first branch of the if statement.
 
 337
 00:19:56,198 --> 00:20:00,004
-This is adjusting the lower bound.
+just adjusting the lower bound.
 
 338
 00:20:00,004 --> 00:20:02,739
@@ -1404,7 +1404,7 @@ low and high span the entire array, we found a 'c', it was too low,
 
 352
 00:20:49,586 --> 00:20:52,757
-so we adjusted our lower bound, and loop up to here.
+so we adjust our lower bound, and loop up to here.
 
 353
 00:20:52,757 --> 00:20:56,219
@@ -1496,7 +1496,7 @@ because low is greater than high.
 
 375
 00:22:04,468 --> 00:22:07,386
-Our range is completely collapsed.
+Our range has completely collapsed.
 
 376
 00:22:07,386 --> 00:22:10,900
@@ -1540,7 +1540,7 @@ So I've got this principle, again,
 
 386
 00:22:49,673 --> 00:22:52,385
-that creators need to be able to see what they doing.
+that creators need to be able to see what they're doing.
 
 387
 00:22:52,385 --> 00:22:54,478
@@ -3701,3 +3701,4 @@ And what you might fight for.
 926
 00:54:06,824 --> 00:54:10,824
 Thank you. [applause]
+
