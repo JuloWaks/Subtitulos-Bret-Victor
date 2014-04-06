@@ -1600,403 +1600,403 @@ Así que esto es exactamente lo mismo que escribir código, trabajamos en una re
 
 401
 00:23:46,396 --> 00:23:49,767
-But what we actually care about is the data.
+Pero lo que realmente nos interesa es la información.
 
 402
 00:23:49,767 --> 00:23:52,302
-The values of the variables, so we can't see that here.
+Los valores de las variables, no podemos ver eso aquí.
 
 403
 00:23:52,302 --> 00:23:57,006
-Now in a circuit, the variables are the voltages on these different wires.
+Bien, en un circuito, las variables son los voltajes en estos cables
 
 404
 00:23:57,006 --> 00:24:00,692
-So each of these wires has a voltage that's changing over time,
+Entonces, cada uno de estos cables tiene un voltaje que va cambiando en el tiempo.
 
 405
 00:24:00,692 --> 00:24:03,112
-and we have to be able to see that.
+y debemos se capaces de verlo.
 
 406
 00:24:03,112 --> 00:24:06,526
-Now, if I was building this circuit on a lab bench, building it physically,
+Ahora, si estuviera armando este circuito en una mesa de laboratorio, armándolo físicamente,
 
 407
 00:24:06,526 --> 00:24:09,830
-I could at least take an oscilloscope and kinda poke around and see
+podría por lo menos usar un osciloscopio y toquetear y ver
 
 408
 00:24:09,830 --> 00:24:11,693
-what's going on in the different wires,
+qué pasa en los diferentes cables,
 
 409
 00:24:11,693 --> 00:24:12,524
-what's going on here, or here.
+qué pasa aquí, o aquí.
 
 410
 00:24:12,524 --> 00:24:16,559
-So at the very least, I should be able to do that.
+Entonces, como mínimo, debería poder hacer eso.
 
 411
 00:24:16,559 --> 00:24:21,936
-So what I have here, is a plot of the voltage of this wire over time.
+Entonces lo que hay aquí es, un gráfico del voltaje de este cable a traves del tiempo.
 
 412
 00:24:21,936 --> 00:24:24,535
-You can see it's high, it's low. High.. Low...
+Se puede ver, es alto, es bajo. Alto... Bajo...
 
 413
 00:24:24,535 --> 00:24:27,371
-So this is clearly oscillating
+Entonces, esto está oscilando, claramente
 
 414
 00:24:27,371 --> 00:24:31,307
-If I built it physically, also I would be able to see this circuit doing something.
+Si lo armara físicamente, también podría ver el circuito haciendo algo.
 
 415
 00:24:31,307 --> 00:24:34,711
-So, in this case I've got these two LEDs up here
+En este caso, tengo estos dos LEDs aquí
 
 416
 00:24:34,711 --> 00:24:39,216
-These are LEDs, the little lights, presumably there for a reason
+Estas son LEDs, las luces pequeñas, supuestamente están ahí por una razón
 
 417
 00:24:39,216 --> 00:24:42,884
-I can hit Play and watch it simulate out in real-time
+Le puedo dar Play y verlo simular en tiempo real
 
 418
 00:24:42,884 --> 00:24:51,604
-So now you can see what this circuit is doing [applause]
+Entonces ahora pueden ver lo que hace este circuito [aplausos]
 
 419
 00:24:51,604 --> 00:24:53,465
-In order to design a circuit like this,
+Para diseñar un circuito como este,
 
 420
 00:24:53,465 --> 00:24:56,999
-you have to understand the voltage on every wire.
+debes entender cuál es el voltaje de cada cable.
 
 421
 00:24:56,999 --> 00:25:00,854
-You have to understand how all the voltages are changing throughout the entire circuit.
+Debes entender cómo todos los voltajes van cambiando al pasar por todo el circuito.
 
 422
 00:25:00,854 --> 00:25:03,037
-And just like coding,
+Y tal como escribir código,
 
 423
 00:25:03,037 --> 00:25:07,509
-either the environment shows that to you, or you simulate it in your head.
+o el entorno te lo muestra, o lo simulas en tu cabeza.
 
 424
 00:25:07,509 --> 00:25:11,114
-And I have better things to do with my head, than simulating what electrons are doing.
+Y tengo mejores cosas que hacer con mi cabeza, que simular lo que están haciendo los electrones.
 
 425
 00:25:11,114 --> 00:25:14,936
-So what I'm gonna do, I'm gonna spread it out a bit.
+Entonces, lo que voy a hacer, es desplegarlo un poco.
 
 426
 00:25:14,936 --> 00:25:18,103
-So same circuit, just spread out a little bit,
+El mismo circuito, solo un poco mas desplegado,
 
 427
 00:25:18,103 --> 00:25:20,687
-and I'm going to add the voltage at every node.
+y voy a agregar el voltaje en cada nodo.
 
 428
 00:25:20,687 --> 00:25:24,495
-So now you can see every voltage throughout the circuit.
+y ahora se puede ver cada voltaje a traves del circuito.
 
 429
 00:25:24,495 --> 00:25:29,768
-And I can even hit Play and watch it all kind of simulate out in real-time.
+y hasta puedo darle Play y verlo simular en tiempo real.
 
 430
 00:25:29,768 --> 00:25:32,902
-Although, what I prefer to do is
+Sin embargo, lo que prefiero hacer es
 
 431
 00:25:32,902 --> 00:25:35,071
-just move my mouse over it,
+solo mover el mouse sobre él,
 
 432
 00:25:35,071 --> 00:25:40,443
-and I can kind of look in areas that are interesting to me and see what the values are.
+y como que puedo ver áreas que son interesantes para mi y ver cuáles son los valores.
 
 433
 00:25:40,443 --> 00:25:42,880
-I can compare any two nodes.
+Puedo comparar cualquiera de los dos nodos.
 
 434
 00:25:42,880 --> 00:25:44,548
-So if you look at say the node over here,
+Entonces digamos que si miran este nodo de aquí,
 
 435
 00:25:44,548 --> 00:25:46,187
-while I mouse over this one,
+mientras el mouse está sobre este otro,
 
 436
 00:25:46,187 --> 00:25:49,854
-you see the shadow of the one I'm mousing over is overlaid on that.
+ven que la sombra del nodo sobre el que estoy moviendo el mouse se superpone
 
 437
 00:25:49,854 --> 00:25:52,989
-The shadow of the one I'm mousing over is actually overlaid on all of them.
+La sombra del que estoy moviendo con el mouse se superpone en todos los nodos, en realidad.
 
 438
 00:25:52,989 --> 00:25:55,291
-And so I can compare any two nodes
+Y así puedo comparar cualquier par de nodos
 
 439
 00:25:55,291 --> 00:26:00,029
-just by mousing over one of them and looking at the other one.
+solo pasando el mouse sobre uno de ellos y mirando el otro.
 
 440
 00:26:00,029 --> 00:26:04,103
-And again, I can immediately see results of my changes.
+Y otra vez, puedo ver inmediatamente los resultados de mis cambios.
 
 441
 00:26:04,103 --> 00:26:06,902
-So I've got this 70k resistor here.
+Entonces, tengo esta resistencia de 70k
 
 442
 00:26:06,902 --> 00:26:08,770
-I want to change its value, I just click and drag it,
+quiero cambiar su valor, simplemente lo clickeo y lo arrastro,
 
 443
 00:26:08,770 --> 00:26:12,575
-and now I see the waveforms changing immediately.
+y ahora veo las formas de las ondas cambiando inmediatamente.
 
 444
 00:26:12,575 --> 00:26:14,945
-And you'll notice that when I click and drag,
+y notarán que cuando clickeo y arrastro,
 
 445
 00:26:14,945 --> 00:26:19,616
-it leaves behind the shadow of the waveform before I started dragging,
+deja la sombra de la onda antes de arrastrar
 
 446
 00:26:19,616 --> 00:26:25,687
-so I can compare. I can immediately see the results of my changes.
+y puedo comparar. Puedo ver los resultados de mis cambios inmediatamente.
 
 447
 00:26:25,687 --> 00:26:30,105
-Two golden rules of information design: show the data, show comparisons.
+Dos reglas de oro para el diseño de información: mostrar los datos, mostrar comparaciones.
 
 448
 00:26:30,105 --> 00:26:32,194
-That's all I'm doing here.
+Es todo lo que estoy haciendo aquí.
 
 449
 00:26:32,194 --> 00:26:33,966
-But even this isn't quite good enough.
+Pero incluso esto no es lo suficientemente bueno.
 
 450
 00:26:33,966 --> 00:26:35,965
-What we're seeing here are the voltages,
+Lo que vemos aquí son los voltajes,
 
 451
 00:26:35,965 --> 00:26:40,437
-but in electronics there are actually two data types. There is voltage and there is current.
+pero en la electrónica hay en realidad dos tipos de datos. Está el voltaje y está la corriente.
 
 452
 00:26:40,437 --> 00:26:42,308
-And what we're not seeing is the current,
+Y lo que no estamos viendo es la corriente,
 
 453
 00:26:42,308 --> 00:26:44,706
-flowing through each of these components.
+fluyendo a través de estos componentes.
 
 454
 00:26:44,706 --> 00:26:47,853
-And in order to design a circuit, you need to understand both the voltage and the current.
+Y para diseñar un circuito, necesitas entender el voltaje y la corriente.
 
 455
 00:26:47,853 --> 00:26:50,078
-You need to understand the interplay between the two.
+Necesitas entender la interacción de los dos.
 
 456
 00:26:50,078 --> 00:26:52,215
-That's what analog design is.
+Eso es el diseño analógico.
 
 457
 00:26:52,215 --> 00:26:54,769
-So what I'm gonna do is spread these out a little bit more.
+Entonces, lo que voy a hacer es desplegar estos un poco mas.
 
 458
 00:26:54,769 --> 00:26:58,154
-And now I'm gonna replace each of these components
+Y ahora voy a reemplazar cada uno de estos componentes
 
 459
 00:26:58,154 --> 00:27:02,124
-with a plot of the current going through it over time.
+por un gráfico de la corriente pasando a través del tiempo.
 
 460
 00:27:02,124 --> 00:27:05,328
-So each of these blue boxes represents a component.
+Entonces cada una de estas cajas azules representa un componente.
 
 461
 00:27:05,328 --> 00:27:07,231
-And you can see which component it is,
+Y puedes ver qué componente es,
 
 462
 00:27:07,231 --> 00:27:09,967
-because it has a little badge in the corner, a little icon,
+porque tiene una pequeña insignia en la esquina, un pequeño ícono,
 
 463
 00:27:09,967 --> 00:27:14,270
-but now you can see everything that's going on in the circuit.
+pero ahora puedes ver todo lo que pasa en el circuito.
 
 464
 00:27:14,270 --> 00:27:18,707
-You can see how the current changes, you can see how the current and the voltage changes.
+Puedes ver cómo cambia la corriente, puedes ver cómo la corriente y el voltaje cambian.
 
 465
 00:27:18,707 --> 00:27:23,157
-There's nothing hidden, there's nothing to simulate in your head.
+No hay nada escondido, no hay nada para simular en tu cabeza.
 
 466
 00:27:23,157 --> 00:27:25,948
-So what we have here is
+Lo que tenemos aquí es
 
 467
 00:27:25,948 --> 00:27:28,491
-a different way of representing the circuit.
+una manera diferente de representar el circuito.
 
 468
 00:27:28,491 --> 00:27:32,455
-Just in general, you could draw any circuit with these blocks
+Solo en general, podrías dibujar cualquier circuito con estos bloques
 
 469
 00:27:32,455 --> 00:27:34,657
-but instead of being made out of little squiggly symbols,
+pero en lugar de estar hecho de simbolitos garabatosos,
 
 470
 00:27:34,657 --> 00:27:36,826
-it's made out of data.
+está hecho de infomación.
 
 471
 00:27:36,826 --> 00:27:38,761
-And I think it's important to ask:
+Y me parece importante preguntar:
 
 472
 00:27:38,761 --> 00:27:43,834
-Why do we have these squiggly symbols in the first place? Why do they exist?
+¿Porqué tenemos estos garabatos en primer lugar? ¿Porqué existen?
 
 473
 00:27:43,834 --> 00:27:47,901
-They exist because they're easy to draw with pencil on paper.
+Existen porque son fáciles de dibujar con lápiz y papel.
 
 474
 00:27:47,901 --> 00:27:49,818
-This is not paper.
+Esto no es papel.
 
 475
 00:27:49,818 --> 00:27:52,175
-So when you have a new medium, you have to rethink these things.
+Entonces, cuando tienes un nuevo medio, debes repensar estas cosas.
 
 476
 00:27:52,175 --> 00:27:57,613
-You have to think how can this new medium allow us to have a more immediate connection
+Debes pensar cómo puede este nuevo medio permitirnos tener una conexión mas inmediata
 
 477
 00:27:57,613 --> 00:28:02,418
-to what we're making. How can this new medium allow us to work in such a way
+con lo que estamos creando. ¿Cómo puede este nuevo medio permitirnos trabajar de esa manera
 
 478
 00:28:02,418 --> 00:28:03,985
-that we can see what we're doing.
+que vemos lo que estamos haciendo.
 
 479
 00:28:03,985 --> 00:28:06,755
-And it's really the same situation with programming.
+Y realmente es la misma situación con la programación.
 
 480
 00:28:06,755 --> 00:28:08,524
-Our current conception of what a computer program is 
+Nuestra concepción actual de lo que es un programa es 
 
 481
 00:28:08,524 --> 00:28:10,234
-a list of textual definitions that you hand to a compiler.
+una lista de definiciones textuales que le entregas a un compilador.
 
 482
 00:28:10,234 --> 00:28:14,263
-That's derived straight from Fortran and ALGOL in the late '50's.
+que derivan directamente de ortran y ALGOL a fines de los '50.
 
 483
 00:28:14,263 --> 00:28:17,600
-Those languages were designed for punchcards.
+Esos lenguajes fueron diseñados para tarjetas perforadas.
 
 484
 00:28:17,600 --> 00:28:20,536
-See, you'd type your program on a stack of cards,
+Así, escribirías tu programa en una pila de tarjetas,
 
 485
 00:28:20,536 --> 00:28:24,106
-and hand them to the computer operator, (it's the guy in the bottom picture),
+y se lo entregarías al operador, (es el hombre en la figura de abajo),
 
 486
 00:28:24,106 --> 00:28:26,575
-and you would come back later.
+y volverías mas tarde.
 
 487
 00:28:26,575 --> 00:28:29,317
-So there was no such thing as interactivity back then.
+Entonces, no existía nada como interactividad en ese entonces.
 
 488
 00:28:29,317 --> 00:28:35,718
-And that assumption is baked into our current notions of what programming is.
+Y esa conjetura está instalada en nuestras nociones actuales de lo que es programar.
 
 489
 00:28:35,718 --> 00:28:38,088
-C was designed for telepipes.
+C fue diseñado para telecomunicaciones.
 
 490
 00:28:38,088 --> 00:28:41,157
-That's Ken Tompson and Dennis Richie up there.
+Esos son Ken Tompson y Dennis Ritchie ahí.
 
 491
 00:28:41,157 --> 00:28:43,151
-Richie made C.
+Ritchie creó C.
 
 492
 00:28:43,151 --> 00:28:45,734
-And there are no video displays in this picture.
+Y no hay monitores en esta imagen.
 
 493
 00:28:45,734 --> 00:28:50,100
-Ritchie is basically typing on a fancy typewriter that types back to him.
+Ritchie básicamente está escribiendo en una sofisticada máquina de escribir que le escribe a él.
 
 494
 00:28:50,100 --> 00:28:55,972
-Any time you use a console or a terminal window, you're emulating a teletype.
+Cada vez que usan una consola o una ventana de terminal, están emulando un teletipo.
 
 495
 00:28:55,972 --> 00:28:58,374
-And even today, people still think of a REPL
+E incluso hoy, la gente todavía piensa en el ciclo: Leer-Evaluar-Mostrar
 
 496
 00:28:58,374 --> 00:29:02,478
-or an interactive top-level as being interactive programming.
+o en un alto nivel interactivo como programación interactiva.
 
 497
 00:29:02,478 --> 00:29:07,917
-Because that's the best thing you could do on a teletype.
+porque eso es lo mejor que se podía hacer en un teletipo.
 
 498
 00:29:07,917 --> 00:29:11,119
-So I have one more demo I want to show because I want to emphasize that
+Entonces, tengo una demo mas para mostrar porque quiero enfatizar que
 
 499
 00:29:11,119 --> 00:29:14,957
-this principle, immediate connection, is not even about engineering,
+este principio, conexión inmediata, no es ni siquiera sobre la ingeniería,
 
 500
 00:29:14,957 --> 00:29:17,025
-it's about any type of creation.
+es sobre cualquier tipo de creación.
 
 501
 00:29:17,025 --> 00:29:20,163
