@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:07,311 --> 00:00:11,916
 A diferencia de la conferencia pasada, no tengo premios para dar.
 
@@ -628,7 +628,7 @@ entre pensar acerca de algo, verlo y construir sobre eso
 
 158
 00:09:06,821 --> 00:09:09,627
-Entonces, existe este mundo entero deideas, en donde ...
+Entonces, existe este mundo entero de ideas, en donde ...
 
 159
 00:09:09,627 --> 00:09:12,708
@@ -2001,87 +2001,87 @@ es sobre cualquier tipo de creación.
 
 501
 00:29:17,025 --> 00:29:20,163
-Así que quiero a pasar a un campo totalmente diferente.
+Me gustaría ir a otro campo completamente diferente.
 
 502
 00:29:20,163 --> 00:29:23,235
-Pensemos entonces en Animación.
+Entonces pensemos en la animación.
 
 503
 00:29:23,235 --> 00:29:26,650
-Tengo esta pintura aquí, de un árbol que tiene una hoja
+Tengo este dibujo de un árbol con una hoja
 
 504
 00:29:26,650 --> 00:29:33,318
-Y quiero hacer un pequeño video con la hoja cayendo del árbol.
+y quiero hacer un pequeño video con la hoja desprendiéndose del árbol.
 
 505
 00:29:33,318 --> 00:29:37,650
-La forma habitual de hacer esto, en un paquete convencional de animación como Flash,
+y lo normal para hacer esto, en un paquete convencional de animación como Flash,
 
 506
 00:29:37,650 --> 00:29:40,150
-es usando cuadros clave.
+es a través de fotogramas clave.
 
 507
 00:29:40,150 --> 00:29:43,786
-Básicamente vas indicando dónde quieres que esté la hoja en distintos puntos de la línea de tiempo,
+básicamente dices dónde quieres que esté la hoja en diferentes puntos en el tiempo,
 
 508
 00:29:43,786 --> 00:29:46,922
-y presionas "Play" para ver cómo se ve.
+y le das Play y ves cómo queda.
 
 509
 00:29:46,922 --> 00:29:53,901
-Entonces, decimos: en el cuadro 20, voy a crear un cuadro clave
+Entonces, voy a decir: en el fotograma 20, voy a crear un fotograma clave
 
 510
 00:29:53,901 --> 00:29:56,567
-y la hoja debería estar allí.
+y la hoja debería estar ahí.
 
 511
 00:29:56,567 --> 00:30:01,036
-En el cuadro 40, creamos otro cuadro clave y la hoja debería estar allí.
+En el fotograma 40, creo un fotograma clave y la hoja debería estar ahí,
 
 512
 00:30:01,036 --> 00:30:04,006
-y aquí sólo estoy adivinando. No puedo ver el movimiento.
+y estoy totalmente adivinando aquí. No puedo ver el movimiento.
 
 513
 00:30:04,006 --> 00:30:05,741
-** Y no puedo sentir el timing,
+No puedo sentir el tiempo,
 
 514
 00:30:05,741 --> 00:30:13,568
-Sólo estoy lanzando cosas en el espacio-tiempo.
+Simplemente estoy tirando cosas en el tiempo y el espacio.
 
 515
 00:30:13,568 --> 00:30:15,585
-Entonces tengo esta hoja en distintos puntos de la línea temporal,
+Entonces, tengo esta hoja en diferentes puntos de tiempo,
 
 516
 00:30:15,585 --> 00:30:20,090
-** Voy a agregar un tween ("entre"), que le dice a Flash que conecte los puntos.
+Voy a agregar un tween, que le dice a Flash que conecte los puntos.
 
 517
 00:30:20,090 --> 00:30:24,592
-Y luego presiono Play para ver cómo se ve.
+Y luego voy a dar Play para ver cómo queda.
 
 518
 00:30:24,592 --> 00:30:33,783
-Y se ve ridículo, parecen bolas de billar rebotando de un lado a otro.
+Y se ve ridículo, parecen bolas de billar rebotando de atrás para adelante.
 
 519
 00:30:33,783 --> 00:30:38,607
-Y el tema es que medio que sé lo que quiero, no? Es una hoja.
+La cosa es que yo sé lo que quiero, ¿no? Es una hoja.
 
 520
 00:30:38,607 --> 00:30:41,317
-Quiero una hoja cayendo desde un árbol.
+Quiero una hoja desprendiéndose de un árbol.
 
 521
 00:30:41,317 --> 00:30:46,616
-Y hasta lo puedo describir con mi mano: hoja cayendo de un árbol.
+Y hasta puedo hacerlo con la mano: una hoja desprendiéndose de un árbol.
 
 522
 00:30:46,616 --> 00:30:49,352
@@ -2089,39 +2089,39 @@ Pero Flash no sabe cómo escuchar a mi mano.
 
 523
 00:30:49,352 --> 00:30:52,988
-Pero quizás existe un nuevo medio
+Pero quizás exista un nuevo medio
 
 524
 00:30:52,988 --> 00:30:56,759
-que sí sabe algo sobre cómo escuchar a mi mano.
+Que sabe algo sobre escuchar a mi mano.
 
 525
 00:30:56,759 --> 00:30:59,628
-Entonces lo que les voy a mostrar aquí es una pequeña app que hice
+Lo que les voy a mostrar aquí es una pequeña aplicación que hice
 
 526
 00:30:59,628 --> 00:31:02,531
-para realizar animaciones.
+para realizar animación.
 
 527
 00:31:02,531 --> 00:31:05,167
-** Y como no tenemos la configuración para hacer una demo en vivo desde el iPad,
+Y en realidad, no estamos preparados para hacer una demostración en vivo del iPad
 
 528
 00:31:05,167 --> 00:31:11,574
-les mostraré simplemente un video de mí mismo haciendo un video.
+entonces les mostraré un video de mí, haciendo un video.
 
 529
 00:31:11,574 --> 00:31:13,319
-La forma en que la escena se va a desarrollar es:
+Esta escena se va a desarrollar de la siguiente manera
 
 530
 00:31:13,319 --> 00:31:15,077
-la hoja va a empezar como a caer del árbol,
+la hoja va a desprenderse del árbol,
 
 531
 00:31:15,077 --> 00:31:18,080
-y la escena luego se va a desplazar y el conejo va a hacer algo.
+y la escena va a hacer una panorámica y el conejo va a hacer algo.
 
 532
 00:31:18,080 --> 00:31:21,784
@@ -2129,19 +2129,19 @@ Y dos cosas:
 
 533
 00:31:21,784 --> 00:31:24,088
-uno: esto se va mover bastante rápido,
+una, esto se va a mover bastante rápido,
 
 534
 00:31:24,088 --> 00:31:29,492
-y dos: Voy a usar las dos manos casi todo el tiempo.
+y dos, estaré usando mis dos manos casi todo el tiempo.
 
 535
 00:31:29,492 --> 00:31:32,528
-** Tengo entonces estas capas, el fondo, el medio y el frente.
+Entonces, tengo estas diferentes capas, el segundo plano, el plano medio y el primer plano.
 
 536
 00:31:32,528 --> 00:31:35,165
-Estoy eligiendo qué capa mover usando mi pulgar izquierdo.
+Elijo qué capa mover con mi pulgar izquierdo.
 
 537
 00:31:35,165 --> 00:31:39,202
@@ -2149,99 +2149,99 @@ Voy a mover mi hoja a esta posición.
 
 538
 00:31:39,202 --> 00:31:43,072
-Muevo mi conejo fuera de la escena, y echo a andar el tiempo.
+voy a sacar el conejito de la escena y hacer correr el tiempo.
 
 539
 00:31:43,072 --> 00:31:49,912
-Ahora voy a interpretar la hoja cayendo del árbol.
+Ahora voy a hacer la hoja desprendiéndose del árbol.
 
 540
 00:31:49,912 --> 00:31:52,979
-Retrocedemos, y vemos como quedó.
+Lo ejecuto otra vez, y reviso cómo se ve..
 
 541
 00:31:52,979 --> 00:31:57,419
-El movimiento se ve bastante bien, pero la hoja medio que necesita balancearse de un lado a otro.
+El movimiento se ve bastante bien pero la hoja necesita mecerse hacia atrás y adelante.
 
 542
 00:31:57,419 --> 00:31:59,187
-Así que voy a abrir un controlador de rotación,
+Entonces, voy a sacar un controlador de rotación,
 
 543
 00:31:59,187 --> 00:32:02,191
-retrocedo, encuentro donde la hoja esta por desprenderse,
+ejecutarlo otra vez, encontrar donde la hoja está a punto de desprenderse,
 
 544
 00:32:02,191 --> 00:32:05,426
-y grabo la rotación
+y grabar la rotación
 
 545
 00:32:05,426 --> 00:32:10,100
-Y agrego una vueltita allí, porque me pareció en el momento, ni siquiera estaba planeado
+y le agrego un pequeño giro aquí, porque me pareció en ese momento, ni siquiera estaba planeado
 
 546
 00:32:10,100 --> 00:32:13,235
-Paro, porque quiero desplazar la escena, así que quiero arrastrar un puñado de capas al mismo tiempo
+Detengo, porque quiero hacer una panorámica, porque quiero arrastrar un montón de capas al mismo tiempo
 
 547
 00:32:13,235 --> 00:32:16,271
-Tomo todas las capas para armar una lista, bajo la sensibilidad de las capas de fondo
+Traigo todas las capas para formar una lista, bajo la sensibilidad de las capas de los planos de fondo
 
 548
 00:32:16,271 --> 00:32:18,812
-** Así la hoja se movería más lento, para un especio de efecto parallax
+para que la hoja se mueva mas despacio, con un efecto estilo paralaje
 
 549
 00:32:18,812 --> 00:32:21,353
-I sólo quiero moverme horizontalmente, así que abro un desplazador horizontal
+Sólo quiero un movimiento horizontal, entonces saco un deslizador horizontal
 
 550
 00:32:21,353 --> 00:32:23,779
-Y miren cómo se ve...
+y me fijo cómo se ve...
 
 551
 00:32:23,779 --> 00:32:27,583
-El parallax no me gusta del todo, así que ajusto la sensibilidad un poquito.
+No me gusta mucho el paralaje, entonces modifico un poco la sensibilidad
 
 552
 00:32:27,583 --> 00:32:31,686
-Intento de nuevo. Ahora me gusta más
+Pruebo otra vez. Así me gusta mas.
 
 553
 00:32:31,686 --> 00:32:36,258
-Estoy listo para seguir. Retrocedo al principio
+Me preparo para probarlo. Lo llevo hasta el principio
 
 554
 00:32:36,258 --> 00:32:41,130
-me vuelvo a meter en el ritmo de la pieza.
+para poder volver al ritmo de la escena.
 
 555
 00:32:41,130 --> 00:32:45,401
-La hoja llega al piso, espero un poco y empiezo a desplazar
+La hoja cae, espero un poco y empiezo a hacer un paneo
 
 556
 00:32:45,401 --> 00:32:48,269
-Y no sé cuántos cuadros esperé. No sé cuánto tiempo fue
+Y no sé cuántos cuadros esperé. No sé cuánto tardó
 
 557
 00:32:48,269 --> 00:32:51,105
-** Largué cuando me pareció bien.
+Lo hice cuando me pareció.
 
 558
 00:32:51,105 --> 00:32:55,278
-** Entonces me desplacé hasta esta escena invernal y fui como deteniendo el tiempo hasta detenerlo.
+Entonces hice un paneo de esta escena de invierno y la detuve de a poco.
 
 559
 00:32:55,278 --> 00:32:58,145
-Y luego retrocedo, porque quiero hacer algo con mi conejo.
+Y luego la vuelvo a ejecutar, porque quiero hacer algo con mi conejo.
 
 560
 00:32:58,145 --> 00:33:01,478
-Tiro estas herremientas, ya no las necesito.
+Descarto estas herramientas porque he terminado con ellas.
 
 561
 00:33:01,478 --> 00:33:07,155
-Y espero hasta donde me parece que mi conejo tendría que moverse
+Y espero hasta que me parece que mi conejo debe moverse
 
 562
 00:33:07,155 --> 00:33:08,979
@@ -2249,28 +2249,27 @@ y se va saltando.
 
 563
 00:33:08,979 --> 00:33:12,702
-Y tengo un par de posturas diferentes para mi conejo.
-Las abro.
+Y tengo algunas poses diferentes para mi conejo. Entonces las despliego.
 
 564
 00:33:12,702 --> 00:33:18,167
-Y luego encuentro el punto donde el conejo está por impulsarse del suelo.
+Y luego encuentro el punto donde el conejo está a punto de despegarse del suelo.
 
 565
 00:33:18,167 --> 00:33:20,971
-Que es justo ahí.
+Que es justo aquí.
 
 566
 00:33:20,971 --> 00:33:25,075
-I cambio su postura y voy como alternando entre posturas mientras se aleja saltando.
+Cambio su pose y alterno las poses mientras se va saltando.
 
 567
 00:33:25,075 --> 00:33:28,411
-Y retrocedo para ver cómo quedó
+Y luego lo ejecuto otra vez porque quiero ver cómo quedó
 
 568
 00:33:28,411 --> 00:33:31,015
-lo abro en pantalla completa para ustedes.
+Y lo voy a poner en pantalla completa para ustedes.
 
 569
 00:33:31,015 --> 00:33:50,332
@@ -2278,11 +2277,11 @@ Esta es la pieza.
 
 570
 00:33:50,332 --> 00:33:54,603
-Y lo hice en 2 minutos, interpretando con mis manos como un instrumento musical.
+Hice esto en 2 minutos, usando mis manos como si fuese un instrumento musical.
 
 571
 00:33:54,603 --> 00:33:58,407
-Una conexión muy inmediata lo que estaba tratando de hacer y yo.
+Conexión inmediata entre lo que estaba tratando de crear y yo.
 
 572
 00:33:58,407 --> 00:34:08,252
@@ -2290,115 +2289,115 @@ Una conexión muy inmediata lo que estaba tratando de hacer y yo.
 
 573
 00:34:08,252 --> 00:34:10,518
-Una de las fuentes de inspiración para esta herramienta
+Una de las inspiraciones para esta herramienta
 
 574
 00:34:10,518 --> 00:34:14,122
-fue una animación que traté de hacer hace varios años.
+fue una animación que traté de hacer hace años.
 
 575
 00:34:14,122 --> 00:34:18,560
-No ésta, pero también empezaba con una hoja cayendo desde un árbol.
+No como esa, pero también comenzaba con una hoja desprendiéndose de un árbol.
 
 576
 00:34:18,560 --> 00:34:22,298
-Me pasé todo el día tratando de animar esa hoja en Flash con cuadros clave.
+Y me pasé todo el día en Flash tratando de crear fotogramas clave para es hoja.
 
 577
 00:34:22,298 --> 00:34:25,812
-Y no pude.
+No pude hacerlo.
 
 578
 00:34:25,812 --> 00:34:27,727
-Y ese fue el fin de la historia.
+Y fue el fin de esa cuestión.
 
 579
 00:34:27,727 --> 00:34:30,479
-Todavía tengo mis bocetos.
+Todavía tengo mis storyboards.
 
 580
 00:34:30,479 --> 00:34:32,908
-A veces toco la música que escribí para esa pieza.
+A veces toco la música que escribí para ese segmento.
 
 581
 00:34:32,908 --> 00:34:37,477
-Pero la pieza en sí misma está atrapada en mi cabeza.
+Pero ese segmento está encerrado en mi cabeza.
 
 582
 00:34:37,477 --> 00:34:40,948
-Y entonces siempre pienso
+Y entonces siempre pienso en
 
 583
 00:34:40,948 --> 00:34:44,729
-en los millones de piezas atrapadas en millones de cabezas.
+los millones de segmentos que están encerrados en millones de cabezas.
 
 584
 00:34:44,729 --> 00:34:47,625
-Y no sólo animaciones, no sólo arte,
+Y no solo animación, y no solo arte, pero
 
 585
 00:34:47,625 --> 00:34:50,158
-sino todo tipo de ideas.
+toda clase de ideas.
 
 586
 00:34:50,158 --> 00:34:53,836
-Toda clas de ideas, incluyendo ideas críticamente importantes,
+Toda clase de ideas, incluyendo ideas críticamente importantes,
 
 587
 00:34:53,836 --> 00:34:56,765
-inventos que cambiarían el mundo, descubrimientos científicos que salvan vidas.
+invenciones que pueden cambiar el mundo, descubrimientos científicos que pueden salvar vidas.
 
 588
 00:34:56,765 --> 00:35:01,671
-Son todas ideas que debemos hacer crecer.
+Estas son todas ideas que deben cultivarse.
 
 589
 00:35:01,671 --> 00:35:04,062
-Y sin un entorno en el que puedan crecer,
+Y sin el entorno donde puedan crecer,
 
 590
 00:35:04,062 --> 00:35:06,842
-donde su credor las pueda cultivar con esta conexión inmediata,
+o sin el creador que las pueda nutrir con esta conexión inmediata,
 
 591
 00:35:06,842 --> 00:35:11,014
-muchas de estas ideas nunca emergerán.
+muchas de estas ideas no van a emerger.
 
 592
 00:35:11,014 --> 00:35:14,018
-O emergerán atrofiadas.
+O van a salir atrofiadas.
 
 593
 00:35:14,018 --> 00:35:18,321
-Tengo entonces este principio de que quienes crean necesitan una conexión inmediata,
+Entonces tengo este principio en el que los creadores necesitan una conexión inmediata y
 
 594
 00:35:18,321 --> 00:35:23,827
-y todas estas demos que les mostré, se me ocurrieron simplemente de mirar alrededor,
+todas estas demos que les acabo de mostrar, vinieron a mí simplemente por andar mirando,
 
 595
 00:35:23,827 --> 00:35:27,228
-identificando lugares donde este principio se violaba,
+prestando atención en lugares donde este principio no se respetaba,
 
 596
 00:35:27,228 --> 00:35:29,229
-e intentando enmendar eso.
+y luego tratando de arreglarlo.
 
 597
 00:35:29,229 --> 00:35:31,144
-Eso es todo lo que he hecho.
+Es en realidad todo lo que hice.
 
 598
 00:35:31,144 --> 00:35:34,069
-Simplemente seguí este principio guía
+Solo seguí este principio guía
 
 599
 00:35:34,069 --> 00:35:41,244
-y me guío a lo que tenía que hacer.
+y me guió a lo que tenía que hacer.
 
 600
 00:35:41,244 --> 00:35:46,348
-Pero todavía no he dicho mucho acerca de la parte más importante de la historia, qu es Por Qué.
+Pero no he dicho mucho sobre la parte mas importante de la historia, que es el porqué.
 
 601
 00:35:46,348 --> 00:35:52,419
