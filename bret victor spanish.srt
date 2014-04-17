@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:07,311 --> 00:00:11,916
 A diferencia de la conferencia pasada, no tengo premios para dar.
 
@@ -284,7 +284,7 @@ Y algunos de estos números aquí, sé lo que hacen
 
 72
 00:04:37,856 --> 00:04:42,217
-Pero aún así, es algo sorprendente ver los que hacen [risas]
+Pero aún así, es algo sorprendente ver lo que hacen [risas]
 
 73
 00:04:42,217 --> 00:04:46,147
@@ -1084,7 +1084,7 @@ Funciona de esta forma.
 
 272
 00:15:43,246 --> 00:15:46,183
-** You can walk on the ceiling or you can walk around on the ground.
+Puedes caminar por el techo o puede caminar en el suelo.
 
 273
 00:15:46,183 --> 00:15:50,120
@@ -1092,107 +1092,108 @@ Y tienes unos niveles, que tienen un aspecto similar a este
 
 274
 00:15:50,120 --> 00:15:56,896
-** And you kind of walk around and you have to learn how to navigate turning like this
+Y comienzas a explorar y tienes que aprender a moverte así dado vuelta.
 
 275
 00:15:56,896 --> 00:16:01,108
-And so if you have like, something like that, you won't be able to jump over
+Y entonces si tienes algo como esto,
+no vas a poder saltarlo... 
 
 276
 00:16:01,108 --> 00:16:03,701
-You'll have to like flip over and flip over
+sino que tendrás que darte vuelta, caminar y volver a darte vuelta
 
 277
 00:16:03,701 --> 00:16:07,646
-And he got an amazing amount of game play out of this concept
+Y obtuvo una asombrosa cantidad de juego a partir de este concepto
 
 278
 00:16:07,646 --> 00:16:12,278
-So again, being able to try ideas as you think of them.
+Una vez más, es ser capaz de probar ideas a medida que las piensas.
 
 279
 00:16:25,588 --> 00:16:28,228
-This example, and the last one with the tree,
+Este ejemplo, y el anterior del árbol
 
 280
 00:16:28,228 --> 00:16:30,526
-these are both very visual programs;
+ambos son programas muy visuales;
 
 281
 00:16:30,526 --> 00:16:32,996
-we're able to see our changes just by seeing how the picture changes.
+podemos ver nuestros cambios con sólo observar como cambia la imagen.
 
 282
 00:16:32,996 --> 00:16:37,734
-So I was thinking about, how we could do more abstract coding
+Entonces me puse a pensar, cómo haríamos en el caso de programas más abstractos
 
 283
 00:16:37,734 --> 00:16:39,146
-that's more in line with this principle.
+para alinearnos con este principio.
 
 284
 00:16:39,146 --> 00:16:44,407
-How can we write a generic algorithm in such a way that we can see what we're doing.
+Como podemos escribir un algoritmo genérico, de forma tal que podamos ver lo que estamos haciendo
 
 285
 00:16:44,407 --> 00:16:48,578
-So as an example, let's take a look at binary search.
+Tomemos como ejemplo la búsqueda binaria.
 
 286
 00:16:48,578 --> 00:16:51,615
-Super quick refresher on how binary search works:
+Un repaso super rápido de como funciona la búsqueda binaria:
 
 287
 00:16:51,615 --> 00:16:53,985
-you have an array of values that are in order,
+tienes un arreglo de valores ordenados,
 
 288
 00:16:53,985 --> 00:16:58,155
-and you have a key, which is the value you're trying to locate within the array.
+y tienes una clave, que es el valor que estás tratando de ubicar dentro del arreglo.
 
 289
 00:16:58,155 --> 00:17:01,158
-And you keep track of two variables, which are the lower and upper bounds
+Y mantienes dos variables, que son los límites inferior y superior
 
 290
 00:17:01,158 --> 00:17:03,556
-of where you think that value could possibly be;
+de donde piensas que el valor podría estar;
 
 291
 00:17:03,556 --> 00:17:05,894
-right now, it could be anywhere.
+en este moment podría estar en cualquier lugar.
 
 292
 00:17:05,894 --> 00:17:08,472
-And you look right in the middle of that range -
+Y miras justo al medio de ese rango -
 
 293
 00:17:08,472 --> 00:17:12,568
-if what you find is too small, then the key has to be after that.
+si lo que encuentras es demasiado pequeño, entonces la clave tiene que estar más adelante de ese punto.
 
 294
 00:17:12,568 --> 00:17:13,971
-Look in the middle of the range,
+Miras al medio del rango
 
 295
 00:17:13,971 --> 00:17:16,039
-if what you find is too big, the key has to be before that.
+si lo que encuentras es demasiado grande, la clave tiene que estar antes.
 
 296
 00:17:16,039 --> 00:17:18,875
-And you kind of keep subdividing array into intervals
+Y sigues como subdividiendo el rango...
 
 297
 00:17:18,875 --> 00:17:22,178
-You narrow in on value you're looking for
+hasta que lo reduces al valor que estás buscando
 
 298
 00:17:22,178 --> 00:17:27,082
-And in code, binary search looks like this
+Y en código, la búsqueda binaria se ve así
 
 299
 00:17:27,082 --> 00:17:29,753
-And from my perspective, you can't see anything in here
+Desde mi perspectiva, aquí no puedes ver nada
 
 300
 00:17:29,753 --> 00:17:34,658
@@ -1368,7 +1369,7 @@ Entonces, esta es la primera iteración de este algoritmo.
 
 343
 00:20:19,422 --> 00:20:21,492
-y ahora lo que necesitamos es, hacer es un bucle.
+y ahora lo que necesitamos hacer es un bucle.
 
 344
 00:20:21,492 --> 00:20:23,694
@@ -1600,963 +1601,963 @@ Así que esto es exactamente lo mismo que escribir código, trabajamos en una re
 
 401
 00:23:46,396 --> 00:23:49,767
-But what we actually care about is the data.
+Pero lo que realmente nos interesa es la información.
 
 402
 00:23:49,767 --> 00:23:52,302
-The values of the variables, so we can't see that here.
+Los valores de las variables, no podemos ver eso aquí.
 
 403
 00:23:52,302 --> 00:23:57,006
-Now in a circuit, the variables are the voltages on these different wires.
+Bien, en un circuito, las variables son los voltajes en estos cables
 
 404
 00:23:57,006 --> 00:24:00,692
-So each of these wires has a voltage that's changing over time,
+Entonces, cada uno de estos cables tiene un voltaje que va cambiando en el tiempo.
 
 405
 00:24:00,692 --> 00:24:03,112
-and we have to be able to see that.
+y debemos se capaces de verlo.
 
 406
 00:24:03,112 --> 00:24:06,526
-Now, if I was building this circuit on a lab bench, building it physically,
+Ahora, si estuviera armando este circuito en una mesa de laboratorio, armándolo físicamente,
 
 407
 00:24:06,526 --> 00:24:09,830
-I could at least take an oscilloscope and kinda poke around and see
+podría por lo menos usar un osciloscopio y toquetear y ver
 
 408
 00:24:09,830 --> 00:24:11,693
-what's going on in the different wires,
+qué pasa en los diferentes cables,
 
 409
 00:24:11,693 --> 00:24:12,524
-what's going on here, or here.
+qué pasa aquí, o aquí.
 
 410
 00:24:12,524 --> 00:24:16,559
-So at the very least, I should be able to do that.
+Entonces, como mínimo, debería poder hacer eso.
 
 411
 00:24:16,559 --> 00:24:21,936
-So what I have here, is a plot of the voltage of this wire over time.
+Entonces lo que hay aquí es, un gráfico del voltaje de este cable a traves del tiempo.
 
 412
 00:24:21,936 --> 00:24:24,535
-You can see it's high, it's low. High.. Low...
+Se puede ver, es alto, es bajo. Alto... Bajo...
 
 413
 00:24:24,535 --> 00:24:27,371
-So this is clearly oscillating
+Entonces, esto está oscilando, claramente
 
 414
 00:24:27,371 --> 00:24:31,307
-If I built it physically, also I would be able to see this circuit doing something.
+Si lo armara físicamente, también podría ver el circuito haciendo algo.
 
 415
 00:24:31,307 --> 00:24:34,711
-So, in this case I've got these two LEDs up here
+En este caso, tengo estos dos LEDs aquí
 
 416
 00:24:34,711 --> 00:24:39,216
-These are LEDs, the little lights, presumably there for a reason
+Estas son LEDs, las luces pequeñas, supuestamente están ahí por una razón
 
 417
 00:24:39,216 --> 00:24:42,884
-I can hit Play and watch it simulate out in real-time
+Le puedo dar Play y verlo simular en tiempo real
 
 418
 00:24:42,884 --> 00:24:51,604
-So now you can see what this circuit is doing [applause]
+Entonces ahora pueden ver lo que hace este circuito [aplausos]
 
 419
 00:24:51,604 --> 00:24:53,465
-In order to design a circuit like this,
+Para diseñar un circuito como este,
 
 420
 00:24:53,465 --> 00:24:56,999
-you have to understand the voltage on every wire.
+debes entender cuál es el voltaje de cada cable.
 
 421
 00:24:56,999 --> 00:25:00,854
-You have to understand how all the voltages are changing throughout the entire circuit.
+Debes entender cómo todos los voltajes van cambiando al pasar por todo el circuito.
 
 422
 00:25:00,854 --> 00:25:03,037
-And just like coding,
+Y tal como escribir código,
 
 423
 00:25:03,037 --> 00:25:07,509
-either the environment shows that to you, or you simulate it in your head.
+o el entorno te lo muestra, o lo simulas en tu cabeza.
 
 424
 00:25:07,509 --> 00:25:11,114
-And I have better things to do with my head, than simulating what electrons are doing.
+Y tengo mejores cosas que hacer con mi cabeza, que simular lo que están haciendo los electrones.
 
 425
 00:25:11,114 --> 00:25:14,936
-So what I'm gonna do, I'm gonna spread it out a bit.
+Entonces, lo que voy a hacer, es desplegarlo un poco.
 
 426
 00:25:14,936 --> 00:25:18,103
-So same circuit, just spread out a little bit,
+El mismo circuito, solo un poco mas desplegado,
 
 427
 00:25:18,103 --> 00:25:20,687
-and I'm going to add the voltage at every node.
+y voy a agregar el voltaje en cada nodo.
 
 428
 00:25:20,687 --> 00:25:24,495
-So now you can see every voltage throughout the circuit.
+y ahora se puede ver cada voltaje a traves del circuito.
 
 429
 00:25:24,495 --> 00:25:29,768
-And I can even hit Play and watch it all kind of simulate out in real-time.
+y hasta puedo darle Play y verlo simular en tiempo real.
 
 430
 00:25:29,768 --> 00:25:32,902
-Although, what I prefer to do is
+Sin embargo, lo que prefiero hacer es
 
 431
 00:25:32,902 --> 00:25:35,071
-just move my mouse over it,
+solo mover el mouse sobre él,
 
 432
 00:25:35,071 --> 00:25:40,443
-and I can kind of look in areas that are interesting to me and see what the values are.
+y como que puedo ver áreas que son interesantes para mi y ver cuáles son los valores.
 
 433
 00:25:40,443 --> 00:25:42,880
-I can compare any two nodes.
+Puedo comparar cualquiera de los dos nodos.
 
 434
 00:25:42,880 --> 00:25:44,548
-So if you look at say the node over here,
+Entonces digamos que si miran este nodo de aquí,
 
 435
 00:25:44,548 --> 00:25:46,187
-while I mouse over this one,
+mientras el mouse está sobre este otro,
 
 436
 00:25:46,187 --> 00:25:49,854
-you see the shadow of the one I'm mousing over is overlaid on that.
+ven que la sombra del nodo sobre el que estoy moviendo el mouse se superpone
 
 437
 00:25:49,854 --> 00:25:52,989
-The shadow of the one I'm mousing over is actually overlaid on all of them.
+La sombra del que estoy moviendo con el mouse se superpone en todos los nodos, en realidad.
 
 438
 00:25:52,989 --> 00:25:55,291
-And so I can compare any two nodes
+Y así puedo comparar cualquier par de nodos
 
 439
 00:25:55,291 --> 00:26:00,029
-just by mousing over one of them and looking at the other one.
+solo pasando el mouse sobre uno de ellos y mirando el otro.
 
 440
 00:26:00,029 --> 00:26:04,103
-And again, I can immediately see results of my changes.
+Y otra vez, puedo ver inmediatamente los resultados de mis cambios.
 
 441
 00:26:04,103 --> 00:26:06,902
-So I've got this 70k resistor here.
+Entonces, tengo esta resistencia de 70k
 
 442
 00:26:06,902 --> 00:26:08,770
-I want to change its value, I just click and drag it,
+quiero cambiar su valor, simplemente lo clickeo y lo arrastro,
 
 443
 00:26:08,770 --> 00:26:12,575
-and now I see the waveforms changing immediately.
+y ahora veo las formas de las ondas cambiando inmediatamente.
 
 444
 00:26:12,575 --> 00:26:14,945
-And you'll notice that when I click and drag,
+y notarán que cuando clickeo y arrastro,
 
 445
 00:26:14,945 --> 00:26:19,616
-it leaves behind the shadow of the waveform before I started dragging,
+deja la sombra de la onda antes de arrastrar
 
 446
 00:26:19,616 --> 00:26:25,687
-so I can compare. I can immediately see the results of my changes.
+y puedo comparar. Puedo ver los resultados de mis cambios inmediatamente.
 
 447
 00:26:25,687 --> 00:26:30,105
-Two golden rules of information design: show the data, show comparisons.
+Dos reglas de oro para el diseño de información: mostrar los datos, mostrar comparaciones.
 
 448
 00:26:30,105 --> 00:26:32,194
-That's all I'm doing here.
+Es todo lo que estoy haciendo aquí.
 
 449
 00:26:32,194 --> 00:26:33,966
-But even this isn't quite good enough.
+Pero incluso esto no es lo suficientemente bueno.
 
 450
 00:26:33,966 --> 00:26:35,965
-What we're seeing here are the voltages,
+Lo que vemos aquí son los voltajes,
 
 451
 00:26:35,965 --> 00:26:40,437
-but in electronics there are actually two data types. There is voltage and there is current.
+pero en la electrónica hay en realidad dos tipos de datos. Está el voltaje y está la corriente.
 
 452
 00:26:40,437 --> 00:26:42,308
-And what we're not seeing is the current,
+Y lo que no estamos viendo es la corriente,
 
 453
 00:26:42,308 --> 00:26:44,706
-flowing through each of these components.
+fluyendo a través de estos componentes.
 
 454
 00:26:44,706 --> 00:26:47,853
-And in order to design a circuit, you need to understand both the voltage and the current.
+Y para diseñar un circuito, necesitas entender el voltaje y la corriente.
 
 455
 00:26:47,853 --> 00:26:50,078
-You need to understand the interplay between the two.
+Necesitas entender la interacción de los dos.
 
 456
 00:26:50,078 --> 00:26:52,215
-That's what analog design is.
+Eso es el diseño analógico.
 
 457
 00:26:52,215 --> 00:26:54,769
-So what I'm gonna do is spread these out a little bit more.
+Entonces, lo que voy a hacer es desplegar estos un poco mas.
 
 458
 00:26:54,769 --> 00:26:58,154
-And now I'm gonna replace each of these components
+Y ahora voy a reemplazar cada uno de estos componentes
 
 459
 00:26:58,154 --> 00:27:02,124
-with a plot of the current going through it over time.
+por un gráfico de la corriente pasando a través del tiempo.
 
 460
 00:27:02,124 --> 00:27:05,328
-So each of these blue boxes represents a component.
+Entonces cada una de estas cajas azules representa un componente.
 
 461
 00:27:05,328 --> 00:27:07,231
-And you can see which component it is,
+Y puedes ver qué componente es,
 
 462
 00:27:07,231 --> 00:27:09,967
-because it has a little badge in the corner, a little icon,
+porque tiene una pequeña insignia en la esquina, un pequeño ícono,
 
 463
 00:27:09,967 --> 00:27:14,270
-but now you can see everything that's going on in the circuit.
+pero ahora puedes ver todo lo que pasa en el circuito.
 
 464
 00:27:14,270 --> 00:27:18,707
-You can see how the current changes, you can see how the current and the voltage changes.
+Puedes ver cómo cambia la corriente, puedes ver cómo la corriente y el voltaje cambian.
 
 465
 00:27:18,707 --> 00:27:23,157
-There's nothing hidden, there's nothing to simulate in your head.
+No hay nada escondido, no hay nada para simular en tu cabeza.
 
 466
 00:27:23,157 --> 00:27:25,948
-So what we have here is
+Lo que tenemos aquí es
 
 467
 00:27:25,948 --> 00:27:28,491
-a different way of representing the circuit.
+una manera diferente de representar el circuito.
 
 468
 00:27:28,491 --> 00:27:32,455
-Just in general, you could draw any circuit with these blocks
+Solo en general, podrías dibujar cualquier circuito con estos bloques
 
 469
 00:27:32,455 --> 00:27:34,657
-but instead of being made out of little squiggly symbols,
+pero en lugar de estar hecho de simbolitos garabatosos,
 
 470
 00:27:34,657 --> 00:27:36,826
-it's made out of data.
+está hecho de infomación.
 
 471
 00:27:36,826 --> 00:27:38,761
-And I think it's important to ask:
+Y me parece importante preguntar:
 
 472
 00:27:38,761 --> 00:27:43,834
-Why do we have these squiggly symbols in the first place? Why do they exist?
+¿Porqué tenemos estos garabatos en primer lugar? ¿Porqué existen?
 
 473
 00:27:43,834 --> 00:27:47,901
-They exist because they're easy to draw with pencil on paper.
+Existen porque son fáciles de dibujar con lápiz y papel.
 
 474
 00:27:47,901 --> 00:27:49,818
-This is not paper.
+Esto no es papel.
 
 475
 00:27:49,818 --> 00:27:52,175
-So when you have a new medium, you have to rethink these things.
+Entonces, cuando tienes un nuevo medio, debes repensar estas cosas.
 
 476
 00:27:52,175 --> 00:27:57,613
-You have to think how can this new medium allow us to have a more immediate connection
+Debes pensar cómo puede este nuevo medio permitirnos tener una conexión mas inmediata
 
 477
 00:27:57,613 --> 00:28:02,418
-to what we're making. How can this new medium allow us to work in such a way
+con lo que estamos creando. ¿Cómo puede este nuevo medio permitirnos trabajar de esa manera
 
 478
 00:28:02,418 --> 00:28:03,985
-that we can see what we're doing.
+que vemos lo que estamos haciendo.
 
 479
 00:28:03,985 --> 00:28:06,755
-And it's really the same situation with programming.
+Y realmente es la misma situación con la programación.
 
 480
 00:28:06,755 --> 00:28:08,524
-Our current conception of what a computer program is 
+Nuestra concepción actual de lo que es un programa es
 
 481
 00:28:08,524 --> 00:28:10,234
-a list of textual definitions that you hand to a compiler.
+una lista de definiciones textuales que le entregas a un compilador.
 
 482
 00:28:10,234 --> 00:28:14,263
-That's derived straight from Fortran and ALGOL in the late '50's.
+que derivan directamente de ortran y ALGOL a fines de los '50.
 
 483
 00:28:14,263 --> 00:28:17,600
-Those languages were designed for punchcards.
+Esos lenguajes fueron diseñados para tarjetas perforadas.
 
 484
 00:28:17,600 --> 00:28:20,536
-See, you'd type your program on a stack of cards,
+Así, escribirías tu programa en una pila de tarjetas,
 
 485
 00:28:20,536 --> 00:28:24,106
-and hand them to the computer operator, (it's the guy in the bottom picture),
+y se lo entregarías al operador, (es el hombre en la figura de abajo),
 
 486
 00:28:24,106 --> 00:28:26,575
-and you would come back later.
+y volverías mas tarde.
 
 487
 00:28:26,575 --> 00:28:29,317
-So there was no such thing as interactivity back then.
+Entonces, no existía nada como interactividad en ese entonces.
 
 488
 00:28:29,317 --> 00:28:35,718
-And that assumption is baked into our current notions of what programming is.
+Y esa conjetura está instalada en nuestras nociones actuales de lo que es programar.
 
 489
 00:28:35,718 --> 00:28:38,088
-C was designed for telepipes.
+C fue diseñado para telecomunicaciones.
 
 490
 00:28:38,088 --> 00:28:41,157
-That's Ken Tompson and Dennis Richie up there.
+Esos son Ken Tompson y Dennis Ritchie ahí.
 
 491
 00:28:41,157 --> 00:28:43,151
-Richie made C.
+Ritchie creó C.
 
 492
 00:28:43,151 --> 00:28:45,734
-And there are no video displays in this picture.
+Y no hay monitores en esta imagen.
 
 493
 00:28:45,734 --> 00:28:50,100
-Ritchie is basically typing on a fancy typewriter that types back to him.
+Ritchie básicamente está escribiendo en una sofisticada máquina de escribir que le escribe a él.
 
 494
 00:28:50,100 --> 00:28:55,972
-Any time you use a console or a terminal window, you're emulating a teletype.
+Cada vez que usan una consola o una ventana de terminal, están emulando un teletipo.
 
 495
 00:28:55,972 --> 00:28:58,374
-And even today, people still think of a REPL
+E incluso hoy, la gente todavía piensa en el ciclo: Leer-Evaluar-Mostrar
 
 496
 00:28:58,374 --> 00:29:02,478
-or an interactive top-level as being interactive programming.
+o en un alto nivel interactivo como programación interactiva.
 
 497
 00:29:02,478 --> 00:29:07,917
-Because that's the best thing you could do on a teletype.
+porque eso es lo mejor que se podía hacer en un teletipo.
 
 498
 00:29:07,917 --> 00:29:11,119
-So I have one more demo I want to show because I want to emphasize that
+Entonces, tengo una demo más para mostrar porque quiero enfatizar que
 
 499
 00:29:11,119 --> 00:29:14,957
-this principle, immediate connection, is not even about engineering,
+este principio, conexión inmediata, no es ni siquiera sobre la ingeniería,
 
 500
 00:29:14,957 --> 00:29:17,025
-it's about any type of creation.
+es sobre cualquier tipo de creación.
 
 501
 00:29:17,025 --> 00:29:20,163
-So I want to move to a different field entirely.
+Me gustaría ir a otro campo completamente diferente.
 
 502
 00:29:20,163 --> 00:29:23,235
-So let's think about animation.
+Entonces pensemos en la animación.
 
 503
 00:29:23,235 --> 00:29:26,650
-So I've got this painting here, of a tree and leaf on it
+Tengo este dibujo de un árbol con una hoja
 
 504
 00:29:26,650 --> 00:29:33,318
-and I want to make a little video with the leaf kinda drifting down the tree.
+y quiero hacer un pequeño video con la hoja desprendiéndose del árbol.
 
 505
 00:29:33,318 --> 00:29:37,650
-And the normal way of doing this, in a conventional animation package like Flash,
+y lo normal para hacer esto, en un paquete convencional de animación como Flash,
 
 506
 00:29:37,650 --> 00:29:40,150
-is through keyframes.
+es a través de fotogramas clave.
 
 507
 00:29:40,150 --> 00:29:43,786
-So you basically say where you want the leaf to be at different points in time,
+básicamente dices dónde quieres que esté la hoja en diferentes puntos en el tiempo,
 
 508
 00:29:43,786 --> 00:29:46,922
-and you hit Play and see what it looks like.
+y le das Play y ves cómo queda.
 
 509
 00:29:46,922 --> 00:29:53,901
-So, I'm gonna say: at frame 20, I'm gonna create a keyframe
+Entonces, voy a decir: en el fotograma 20, voy a crear un fotograma clave
 
 510
 00:29:53,901 --> 00:29:56,567
-and the leaf should be there.
+y la hoja debería estar ahí.
 
 511
 00:29:56,567 --> 00:30:01,036
-At frame 40, create a keyframe and the leaf should be there,
+En el fotograma 40, creo un fotograma clave y la hoja debería estar ahí,
 
 512
 00:30:01,036 --> 00:30:04,006
-and I'm just totally guessing here. I can not see the motion.
+y estoy totalmente adivinando aquí. No puedo ver el movimiento.
 
 513
 00:30:04,006 --> 00:30:05,741
-I can not feel the timing,
+No puedo sentir el tiempo,
 
 514
 00:30:05,741 --> 00:30:13,568
-I'm just throwing things in time and space.
+Simplemente estoy tirando cosas en el tiempo y el espacio.
 
 515
 00:30:13,568 --> 00:30:15,585
-So I've got this leaf at different points in time,
+Entonces, tengo esta hoja en diferentes puntos de tiempo,
 
 516
 00:30:15,585 --> 00:30:20,090
-I'm going to add a tween, which tells Flash to connect the dots.
+Voy a agregar un tween, que le dice a Flash que conecte los puntos.
 
 517
 00:30:20,090 --> 00:30:24,592
-And then I'm gonna hit Play and see what it looks like.
+Y luego voy a dar Play para ver cómo queda.
 
 518
 00:30:24,592 --> 00:30:33,783
-And it looks ridiculous, it looks like billiard balls bouncing back and forth.
+Y se ve ridículo, parecen bolas de billar rebotando de atrás para adelante.
 
 519
 00:30:33,783 --> 00:30:38,607
-And the thing is I kind of know what I want, right ? It's a leaf.
+La cosa es que yo sé lo que quiero, ¿no? Es una hoja.
 
 520
 00:30:38,607 --> 00:30:41,317
-I want leaf drifting down from a tree.
+Quiero una hoja desprendiéndose de un árbol.
 
 521
 00:30:41,317 --> 00:30:46,616
-And I can even perform that with my hand: leaf drifting down from a tree.
+Y hasta puedo hacerlo con la mano: una hoja desprendiéndose de un árbol.
 
 522
 00:30:46,616 --> 00:30:49,352
-But Flash doesn't know how to listen to my hand.
+Pero Flash no sabe cómo escuchar a mi mano.
 
 523
 00:30:49,352 --> 00:30:52,988
-But maybe there's a new medium
+Pero quizás exista un nuevo medio
 
 524
 00:30:52,988 --> 00:30:56,759
-that does know something about listening to my hand.
+Que sabe algo sobre escuchar a mi mano.
 
 525
 00:30:56,759 --> 00:30:59,628
-So what I'm gonna show you here is a little app I made
+Lo que les voy a mostrar aquí es una pequeña aplicación que hice
 
 526
 00:30:59,628 --> 00:31:02,531
-for performing animation.
+para realizar animación.
 
 527
 00:31:02,531 --> 00:31:05,167
-And we're not really set up for doing a live demo off the iPad
+Y en realidad, no estamos preparados para hacer una demostración en vivo del iPad
 
 528
 00:31:05,167 --> 00:31:11,574
-so I'm just gonna show you a video of me making a video.
+entonces les mostraré un video de mí, haciendo un video.
 
 529
 00:31:11,574 --> 00:31:13,319
-The way this scene is going to play out is
+Esta escena se va a desarrollar de la siguiente manera
 
 530
 00:31:13,319 --> 00:31:15,077
-the leaf is gonna kind of drift down from the tree,
+la hoja va a desprenderse del árbol,
 
 531
 00:31:15,077 --> 00:31:18,080
-and the scene is gonna pan over and the rabbit is gonna do something.
+y la escena va a hacer una panorámica y el conejo va a hacer algo.
 
 532
 00:31:18,080 --> 00:31:21,784
-And two things:
+Y dos cosas:
 
 533
 00:31:21,784 --> 00:31:24,088
-one, this is going to move pretty quickly,
+una, esto se va a mover bastante rápido,
 
 534
 00:31:24,088 --> 00:31:29,492
-and second, I'll be using both hands at almost all times.
+y dos, estaré usando mis dos manos casi todo el tiempo.
 
 535
 00:31:29,492 --> 00:31:32,528
-So I've got these different layers, the background, the mid-ground and the foreground.
+Entonces, tengo estas diferentes capas, el segundo plano, el plano medio y el primer plano.
 
 536
 00:31:32,528 --> 00:31:35,165
-I'm choosing which layer to move using my left thumb.
+Elijo qué capa mover con mi pulgar izquierdo.
 
 537
 00:31:35,165 --> 00:31:39,202
-I'm gonna move my leaf to its position.
+Voy a mover mi hoja a esta posición.
 
 538
 00:31:39,202 --> 00:31:43,072
-I'm gonna move my bunny off stage and start time rolling.
+voy a sacar el conejito de la escena y hacer correr el tiempo.
 
 539
 00:31:43,072 --> 00:31:49,912
-Now I'm gonna perform the leaf drifting down from the tree.
+Ahora voy a hacer la hoja desprendiéndose del árbol.
 
 540
 00:31:49,912 --> 00:31:52,979
-Run it back, check out how that looked.
+Lo ejecuto otra vez, y reviso cómo se ve..
 
 541
 00:31:52,979 --> 00:31:57,419
-The motion looks pretty good but the leaf kinda needs to rock back and forth.
+El movimiento se ve bastante bien pero la hoja necesita mecerse hacia atrás y adelante.
 
 542
 00:31:57,419 --> 00:31:59,187
-So i'm gonna pull out a rotation controller,
+Entonces, voy a sacar un controlador de rotación,
 
 543
 00:31:59,187 --> 00:32:02,191
-run it back, find where the leaf is about to break off,
+ejecutarlo otra vez, encontrar donde la hoja está a punto de desprenderse,
 
 544
 00:32:02,191 --> 00:32:05,426
-and record rotation
+y grabar la rotación
 
 545
 00:32:05,426 --> 00:32:10,100
-And I add a little flip there, because it felt right in the moment, wasn't even planned
+y le agrego un pequeño giro aquí, porque me pareció en ese momento, ni siquiera estaba planeado
 
 546
 00:32:10,100 --> 00:32:13,235
-Stop, because I want to pan over, so I want to drag whole bunch of layers at once
+Detengo, porque quiero hacer una panorámica, porque quiero arrastrar un montón de capas al mismo tiempo
 
 547
 00:32:13,235 --> 00:32:16,271
-I grab all layers to build a list, i turn down the sensitivity of the background layers
+Traigo todas las capas para formar una lista, bajo la sensibilidad de las capas de los planos de fondo
 
 548
 00:32:16,271 --> 00:32:18,812
-So the leaf would move slower, for a kind of parallax effect
+para que la hoja se mueva mas despacio, con un efecto estilo paralaje
 
 549
 00:32:18,812 --> 00:32:21,353
-I only want to move horizontally, so I pull out a horizontal dragger
+Sólo quiero un movimiento horizontal, entonces saco un deslizador horizontal
 
 550
 00:32:21,353 --> 00:32:23,779
-And check out how it looks...
+y me fijo cómo se ve...
 
 551
 00:32:23,779 --> 00:32:27,583
-I don't quite like the parallax, so I adjust a sensitivity a little bit.
+No me gusta mucho el paralaje, entonces modifico un poco la sensibilidad
 
 552
 00:32:27,583 --> 00:32:31,686
-Try out again. I like that better
+Pruebo otra vez. Así me gusta mas.
 
 553
 00:32:31,686 --> 00:32:36,258
-So I get ready to go. I run it back to the beginning
+Me preparo para probarlo. Lo llevo hasta el principio
 
 554
 00:32:36,258 --> 00:32:41,130
-so I can kind of get back into the rhythm of the piece.
+para poder volver al ritmo de la escena.
 
 555
 00:32:41,130 --> 00:32:45,401
-Leaf hits, I wait a bit and I start panning
+La hoja cae, espero un poco y empiezo a hacer un paneo
 
 556
 00:32:45,401 --> 00:32:48,269
-And I don't know how many frames I waited. I don't know how long it was
+Y no sé cuántos cuadros esperé. No sé cuánto tardó
 
 557
 00:32:48,269 --> 00:32:51,105
-I went when it felt right.
+Lo hice cuando me pareció.
 
 558
 00:32:51,105 --> 00:32:55,278
-So I panned over this winter scene and kind of slowed down to a stop.
+Entonces hice un paneo de esta escena de invierno y la detuve de a poco.
 
 559
 00:32:55,278 --> 00:32:58,145
-And then I run it back, because I want to do something with my bunny.
+Y luego la vuelvo a ejecutar, porque quiero hacer algo con mi conejo.
 
 560
 00:32:58,145 --> 00:33:01,478
-Throw away these tools because I'm done with them.
+Descarto estas herramientas porque he terminado con ellas.
 
 561
 00:33:01,478 --> 00:33:07,155
-And wait until I think my bunny should move
+Y espero hasta que me parece que mi conejo debe moverse
 
 562
 00:33:07,155 --> 00:33:08,979
-and he hops away.
+y se va saltando.
 
 563
 00:33:08,979 --> 00:33:12,702
-And I have got a few different poses for my bunny. So I pull those out.
+Y tengo algunas poses diferentes para mi conejo. Entonces las despliego.
 
 564
 00:33:12,702 --> 00:33:18,167
-And then I find the point when the bunny is about to take off the ground.
+Y luego encuentro el punto donde el conejo está a punto de despegarse del suelo.
 
 565
 00:33:18,167 --> 00:33:20,971
-Which is right there.
+Que es justo aquí.
 
 566
 00:33:20,971 --> 00:33:25,075
-I switch his pose and I kind of toggle between the poses as he hops away.
+Cambio su pose y alterno las poses mientras se va saltando.
 
 567
 00:33:25,075 --> 00:33:28,411
-And then I run it back because I wanna check out how it looked
+Y luego lo ejecuto otra vez porque quiero ver cómo quedó
 
 568
 00:33:28,411 --> 00:33:31,015
-and I'm just gonna bring that up full screen for you.
+Y lo voy a poner en pantalla completa para ustedes.
 
 569
 00:33:31,015 --> 00:33:50,332
-This is the piece.
+Esta es la pieza.
 
 570
 00:33:50,332 --> 00:33:54,603
-So I made that in 2 minutes, performing with my hands like a musical instrument.
+Hice esto en 2 minutos, usando mis manos como si fuese un instrumento musical.
 
 571
 00:33:54,603 --> 00:33:58,407
-Very immediate connection between me and what I was trying to make.
+Conexión inmediata entre lo que estaba tratando de crear y yo.
 
 572
 00:33:58,407 --> 00:34:08,252
-[applause]
+[aplausos]
 
 573
 00:34:08,252 --> 00:34:10,518
-One of the inspirations for this tool
+Una de las inspiraciones para esta herramienta
 
 574
 00:34:10,518 --> 00:34:14,122
-was an animation I tried to make several years ago.
+fue una animación que traté de hacer hace años.
 
 575
 00:34:14,122 --> 00:34:18,560
-Not that one but it also began with a leaf drifting down from a tree.
+No como esa, pero también comenzaba con una hoja desprendiéndose de un árbol.
 
 576
 00:34:18,560 --> 00:34:22,298
-And I spent all day in Flash trying to keyframe that leaf.
+Y me pasé todo el día en Flash tratando de crear fotogramas clave para es hoja.
 
 577
 00:34:22,298 --> 00:34:25,812
-Couldn't do it.
+No pude hacerlo.
 
 578
 00:34:25,812 --> 00:34:27,727
-And so that was the end of that.
+Y fue el fin de esa cuestión.
 
 579
 00:34:27,727 --> 00:34:30,479
-I still have my storyboards.
+Todavía tengo mis storyboards.
 
 580
 00:34:30,479 --> 00:34:32,908
-Sometimes I play the music I wrote for the piece.
+A veces toco la música que escribí para ese segmento.
 
 581
 00:34:32,908 --> 00:34:37,477
-But the piece itself is locked in my head.
+Pero ese segmento está encerrado en mi cabeza.
 
 582
 00:34:37,477 --> 00:34:40,948
-And so I always think about
+Y entonces siempre pienso en
 
 583
 00:34:40,948 --> 00:34:44,729
-the millions of pieces that are locked in millions of heads.
+los millones de segmentos que están encerrados en millones de cabezas.
 
 584
 00:34:44,729 --> 00:34:47,625
-And not just animation, and not just art, but
+Y no solo animación, y no solo arte, pero
 
 585
 00:34:47,625 --> 00:34:50,158
-all kinds of ideas.
+toda clase de ideas.
 
 586
 00:34:50,158 --> 00:34:53,836
-All kinds of ideas, including critically important ideas,
+Toda clase de ideas, incluyendo ideas críticamente importantes,
 
 587
 00:34:53,836 --> 00:34:56,765
-world changing inventions, life saving scientific discoveries.
+invenciones que pueden cambiar el mundo, descubrimientos científicos que pueden salvar vidas.
 
 588
 00:34:56,765 --> 00:35:01,671
-These are all ideas that must be grown.
+Estas son todas ideas que deben cultivarse.
 
 589
 00:35:01,671 --> 00:35:04,062
-And without an environment in which they can grow,
+Y sin el entorno donde puedan crecer,
 
 590
 00:35:04,062 --> 00:35:06,842
-or their creator can nurture them with this immediate connection,
+o sin el creador que las pueda nutrir con esta conexión inmediata,
 
 591
 00:35:06,842 --> 00:35:11,014
-many of these ideas will not emerge.
+muchas de estas ideas no van a emerger.
 
 592
 00:35:11,014 --> 00:35:14,018
-Or they'll emerge stunted.
+O van a salir atrofiadas.
 
 593
 00:35:14,018 --> 00:35:18,321
-So I have this principle that creators need an immediate connection, and
+Entonces tengo este principio en el que los creadores necesitan una conexión inmediata y
 
 594
 00:35:18,321 --> 00:35:23,827
-all of these demos that I just showed you simply came from me looking around,
+todas estas demos que les acabo de mostrar, vinieron a mí simplemente por andar mirando,
 
 595
 00:35:23,827 --> 00:35:27,228
-noticing places where this principle was violated,
+prestando atención en lugares donde este principio no se respetaba,
 
 596
 00:35:27,228 --> 00:35:29,229
-and then trying to fix that.
+y luego tratando de arreglarlo.
 
 597
 00:35:29,229 --> 00:35:31,144
-It's really all I did.
+Es en realidad todo lo que hice.
 
 598
 00:35:31,144 --> 00:35:34,069
-I just followed this guiding principle
+Solo seguí este principio guía
 
 599
 00:35:34,069 --> 00:35:41,244
-and it guided me to what I had to do.
+y me guió a lo que tenía que hacer.
 
 600
 00:35:41,244 --> 00:35:46,348
-But I haven't said much about the most important part of the story, which is Why.
+Pero no he dicho mucho sobre la parte mas importante de la historia, que es el porqué.
 
 601
 00:35:46,348 --> 00:35:52,419
-Why I have this principle. Why I do this.
+Por qué tengo este pricipio, por qué hago esto.
 
 602
 00:35:52,419 --> 00:35:58,928
-When I see a violation of this principle, I don't think of that as an opportunity.
+Cuando veo una violación de este principio, no lo veo pienso como una oportunidad.
 
 603
 00:35:58,928 --> 00:36:03,832
-When I see creators constrained by their tools, their ideas compromised,
+Cuando veo creadores limitados por sus herramientas, con sus ideas en riesgo,
 
 604
 00:36:03,832 --> 00:36:07,070
-I don't say: Oh good, an opportunity to make a product.
+No digo: Ah bien, una oportunidad para hacer un producto.
 
 605
 00:36:07,070 --> 00:36:10,038
-An opportunity to start a business.
+Una oportunidad de empezar un negocio.
 
 606
 00:36:10,038 --> 00:36:14,878
-Or an opportunity to do research or contribute to a field.
+O una oportunidad the hacer investigación o contribuir a un cierto campo.
 
 607
 00:36:14,878 --> 00:36:17,146
-I'm not excited by finding a problem to solve.
+No me atrae encontrar un problema para resolver.
 
 608
 00:36:17,146 --> 00:36:20,883
-I'm not in this for the joy of making things.
+No estoy en esto por la dicha de hacer cosas.
 
 609
 00:36:20,883 --> 00:36:23,100
-Ideas are very precious to me.
+Las ideas son muy preciadas para mí.
 
 610
 00:36:23,100 --> 00:36:27,690
-And when I see ideas dying, it hurts.
+Y cuando veo morir ideas, me duele.
 
 611
 00:36:27,690 --> 00:36:31,598
-I see a tragedy.
+Veo una tragedia.
 
 612
 00:36:31,598 --> 00:36:34,845
-To me it feels like a moral wrong, it feels like an injustice.
+Lo siento moralmente mal, lo siento como una injusticia.
 
 613
 00:36:34,845 --> 00:36:37,166
-And if I think there's anything I can do about it,
+Y si creo que hay algo que puedo hacer al respecto,
 
 614
 00:36:37,166 --> 00:36:40,536
-I feel it's my responsibility to do so.
+siento que es mi responsabilidad hacerlo.
 
 615
 00:36:40,536 --> 00:36:44,874
-Not opportunity, but responsibility.
+No oportunidad, sino responsabilidad.
 
 616
 00:36:44,874 --> 00:36:48,262
-Now this is just my thing. I'm not asking you to believe in this the way I believe I do.
+Ahora, esto es cosa mía nomás. No les estoy pidiendo que crean en esto de la forma que yo lo hago.
 
 617
 00:36:48,262 --> 00:36:51,880
-My point here is that these words that I'm using:
+Mi punto es que estas palabras que estoy usando:
 
 618
 00:36:51,880 --> 00:36:57,489
-Injustice, Responsibility, Moral wrong,
+Injusticia, Responsibilidad, Moralmente mal,
 
 619
 00:36:57,489 --> 00:37:02,124
-these aren't the words we normally hear in a technical field.
+no son las palabras que normalmente escuchamos en un campo técnico.
 
 620
 00:37:02,124 --> 00:37:05,430
-We do hear these words in association with social causes.
+Las escuchamos asociadas a causas sociales.
 
 621
 00:37:05,430 --> 00:37:06,762
-So things like
+Entonces cosas como
 
 622
 00:37:06,762 --> 00:37:10,632
-censorship, gender discrimination, environmental destruction.
+censura, discriminación de género, destrucción del medio ambiente.
 
 623
 00:37:10,632 --> 00:37:15,538
-We all recognize these things as moral wrongs.
+Todos reconocemos esas cosas como moralmente malas.
 
 624
 00:37:15,538 --> 00:37:19,876
-Most of us wouldn't witness a civil rights violation and think "Oh good, an opportunity."
+La mayoría de nosotros no pensaría "Ah bien, una oportunidad", al ser testigo de una violación de los derechos civiles
 
 625
 00:37:19,876 --> 00:37:21,946
-I hope not.
+Espero que no.
 
 626
 00:37:21,946 --> 00:37:25,596
-Instead, we've been very fortunate to have people throughout history
+En cambio, hemos tenido la fortuna de haber tenido gente a lo largo de la historia
 
 627
 00:37:25,596 --> 00:37:28,617
-who recognized these moral wrongs
+que reconoció estos males morales
 
 628
 00:37:28,617 --> 00:37:32,154
-and saw it as their responsibility to address them.
+y vio como su responsabilidad encargarse de ellos.
 
 629
 00:37:32,154 --> 00:37:34,223
-And so there's this activist lifestyle where
+Y entonces existe este estilo de vida activista
 
 630
 00:37:34,223 --> 00:37:36,763
-a person dedicates themselves
+donde un persona se dedica de lleno
 
 631
 00:37:36,763 --> 00:37:40,895
-to fighting for a cause that they believe in.
+a pelear por una causa en la que cree
 
 632
 00:37:40,895 --> 00:37:45,069
-And the purpose of this talk is to tell you that
+Y el propósito de esta charla es decirles que
 
 633
 00:37:45,069 --> 00:37:48,972
-this activist lifestyle is not just for social activism.
+ese estilo de vida activista no es sólo para el acitivismo social.
 
 634
 00:37:48,972 --> 00:37:53,014
-As a technologist, you can recognize a wrong in the world.
+Como tecnologista, puedes reconocer los males del mundo.
 
 635
 00:37:53,014 --> 00:37:55,878
-You can have a vision of what a better world could be.
+Puedes tener una visión de lo que sería un mundo mejor.
 
 636
 00:37:55,878 --> 00:38:00,181
-And you can dedicate yourself to fighting for a principle.
+Y puedes dedicarte a pelear por un principio.
 
 637
 00:38:00,181 --> 00:38:02,097
-Socially activists typically fight by organizing
+Los activistas sociales típicamente pelean organizando
 
 638
 00:38:02,097 --> 00:38:07,690
-but you can fight by inventing.
+pero ustedes pueden pelear inventando.
 
 639
 00:38:07,690 --> 00:38:12,462
-So now I'd like to tell you about a few other people who have lived this way,
+Me gustaría ahora contarlos sobre algunas personas que también han vivido de esta manera,
 
 640
 00:38:12,462 --> 00:38:15,930
-starting with Larry Tesler.
+empezando con Larry Tesler.
 
 641
 00:38:15,930 --> 00:38:19,013
