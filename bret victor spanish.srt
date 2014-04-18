@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:07,311 --> 00:00:11,916
 A diferencia de la conferencia pasada, no tengo premios para dar.
 
@@ -1097,7 +1097,7 @@ Y comienzas a explorar y tienes que aprender a moverte así dado vuelta.
 275
 00:15:56,896 --> 00:16:01,108
 Y entonces si tienes algo como esto,
-no vas a poder saltarlo... 
+no vas a poder saltarlo...
 
 276
 00:16:01,108 --> 00:16:03,701
@@ -3197,407 +3197,407 @@ against an authority or mainstream that did not recognize their wrong as being w
 
 800
 00:47:26,615 --> 00:47:30,335
-And today, the world is still very far from any of their ideals
+Y hoy, el mundo todavía está muy lejos de cualquiera de sus ideales
 
 801
 00:47:30,335 --> 00:47:32,504
-and so they still see a world in crisis
+entonces, todavía ven un mundo en crisis
 
 802
 00:47:32,504 --> 00:47:41,096
-and they keep fighting. They're always fighting.
+y siguen luchando. Siempre están luchando.
 
 803
 00:47:41,096 --> 00:47:45,135
-Now I'm not saying you have to live this way.
+No digo que tienes que vivir así.
 
 804
 00:47:45,135 --> 00:47:48,002
-I'm not saying that you should live this way.
+No digo que deberías vivir así.
 
 805
 00:47:48,002 --> 00:47:50,506
-What I'm saying is that you can.
+Lo que digo es que se puede.
 
 806
 00:47:50,506 --> 00:47:53,174
-That this lifestyle is an option that is available to you.
+Que este estilo de vida es una opción disponible para ti.
 
 807
 00:47:53,174 --> 00:47:55,414
-And it's not one you're gonna hear about much.
+Y no es alguna de la que se hable mucho.
 
 808
 00:47:55,414 --> 00:47:57,248
-Your career counselor is not going to come back to you and say:
+Tu consejero vocacional no va a volver y decir:
 
 809
 00:47:57,248 --> 00:47:59,681
-"You should start a personal crusade."
+"Deberías comenzar una cruzada personal."
 
 810
 00:47:59,681 --> 00:48:04,186
-In a social field, they might, but not in technology.
+En un campo social, quizás, pero no en la tecnología.
 
 811
 00:48:04,186 --> 00:48:09,757
-Instead the world will try to make you define yourself by a skill.
+En cambio, el mundo tratará de hacer que te definas a través de una habilidad.
 
 812
 00:48:09,757 --> 00:48:12,227
-That's why you have a major in college.
+Es por eso que tienes una asignatura principal en la universidad.
 
 813
 00:48:12,227 --> 00:48:13,498
-That's why you have a job title.
+Es por eso que tienes un puesto de trabajo.
 
 814
 00:48:13,498 --> 00:48:16,265
-You are a software engineer.
+Eres un ingeniero de software.
 
 815
 00:48:16,265 --> 00:48:18,663
-And you'll probably specialize to be a database engineer
+Y probablemente te especialices para ser un ingeniero en base de datos
 
 816
 00:48:18,663 --> 00:48:20,580
-or a front-end engineer,
+o un diseñador gráfico,
 
 817
 00:48:20,580 --> 00:48:23,238
-and you'll be given front-ends and asked to engineer them.
+Y te darán inferfaces y te pedirán que las diseñes.
 
 818
 00:48:23,238 --> 00:48:26,175
-And that could be worthwhile and valuable,
+Y eso puede que valga la pena y sea valioso,
 
 819
 00:48:26,175 --> 00:48:32,347
-and if you want to spend your life pursuing excellence and practicing a skill,
+y si quieres pasar la vida persiguiendo la excelencia y practicando una habilidad,
 
 820
 00:48:32,347 --> 00:48:35,016
-you can do that. That is the path of a craftsman.
+puedes hacerlo. Ese es el camino de un artesano.
 
 821
 00:48:35,016 --> 00:48:37,299
-That is the most common path.
+Es el camino mas común.
 
 822
 00:48:37,299 --> 00:48:40,498
-The only other path you really hear about much is the path of the problem solver.
+El único otro camino del que se habla mucho es el de quien resuelve problemas.
 
 823
 00:48:40,498 --> 00:48:45,093
-So I see entrepreneurship and academic research as kind of two sides of that coin.
+Entonces veo a las iniciativas empresariales y la investigación académica como los dos lados de esa moneda.
 
 824
 00:48:45,093 --> 00:48:46,896
-There is the field.
+Tenemos el campo.
 
 825
 00:48:46,896 --> 00:48:50,566
-There's the set of problems in that field, or needs in the market.
+Tenemos un conjunto de problemas en ese campo, o necesidades en el mercado.
 
 826
 00:48:50,566 --> 00:48:53,936
-You go in, you choose one, you work it, you make your contribution there.
+Entras, eliges uno, trabajas en ello, haces tu contribución ahí.
 
 827
 00:48:53,936 --> 00:48:58,807
-Maybe later on, you choose another problem, you work it, you make your contribution there.
+Quizás más adelante, eliges otro problema, trabajas en él, y haces tu contribución ahí.
 
 828
 00:48:58,807 --> 00:49:02,710
-Again, that could be worthwhile and valuable and if that's what you want to do,
+Una vez más, podría valer la pena y ser valioso, y si es eso lo que quieres hacer,
 
 829
 00:49:02,710 --> 00:49:04,946
-then you can take that path.
+entonces puedes tomar ese camino.
 
 830
 00:49:04,946 --> 00:49:08,997
-But I don't see Larry Tesler on either of those paths.
+Pero no lo veo a Larry Tesler en ninguno de esos dos caminos.
 
 831
 00:49:08,997 --> 00:49:12,620
-I wouldn't say he was contributing to the field of user experience design
+Yo no diría que estaba contribuyendo al diseño de experiencas de usuario
 
 832
 00:49:12,620 --> 00:49:14,888
-because there was no such thing.
+porque no hubo nada de eso.
 
 833
 00:49:14,888 --> 00:49:16,891
-He didn't choose some open problem to solve,
+No eligió problemas abiertos para solucionar,
 
 834
 00:49:16,891 --> 00:49:19,664
-he came up with some problem that only existed in his own head,
+Salió con un problema que existía sólo en su cabeza,
 
 835
 00:49:19,664 --> 00:49:21,829
-and no one else even recognized.
+y que nadie más reconocía, siquiera.
 
 836
 00:49:21,829 --> 00:49:24,766
-And certainly he did not define himself by his craft,
+Y seguramente él no se definía a sí mismo por su oficio,
 
 837
 00:49:24,766 --> 00:49:27,770
-he defined himself by his cause.
+se definía por su causa.
 
 838
 00:49:27,770 --> 00:49:31,371
-By the principle he fought to uphold.
+Por el principio que luchaba por defender.
 
 839
 00:49:31,371 --> 00:49:33,508
-And I'm sure if you look at Wikipedia it will say that
+Y estoy seguro que si miras en Wikipedia dirá que
 
 840
 00:49:33,508 --> 00:49:37,812
-he's a computer scientist or a user experience something,
+él es un experto en informática o algo en experiencias de usuario,
 
 841
 00:49:37,812 --> 00:49:41,746
-but to me that's like saying Elizabeth Cady Stanton was a community organizer.
+pero para mí eso es como decir que Elizabeth Cady Stanton era una organizadora comunitaria.
 
 842
 00:49:41,746 --> 00:49:45,454
-No, Elizabeth Cady Stanton established the principle
+No, Elizabeth Cady Stanton estableció el principio
 
 843
 00:49:45,454 --> 00:49:48,288
-of women's suffrage. That's who she was.
+del voto femenino. Eso es lo que ella fue.
 
 844
 00:49:48,288 --> 00:49:50,558
-That was the identity she chose
+Esa fue la identidad que ella eligió
 
 845
 00:49:50,558 --> 00:49:54,529
-and Larry Tesler established the principle of modelessness.
+y Larry Tesler estableció el principio de amodalidad.
 
 846
 00:49:54,529 --> 00:50:02,470
-He had a vision, and he brought the world to that vision.
+Tuvo una visión, y le trajo al mundo esa visión.
 
 847
 00:50:02,470 --> 00:50:05,248
-So, you can choose this life.
+Entonces, puedes elegir esta vida.
 
 848
 00:50:05,248 --> 00:50:07,374
-Or maybe it will end up choosing you.
+O quizás termine eligiéndote ella.
 
 849
 00:50:07,374 --> 00:50:09,477
-It might not happen right away.
+Puede no pasar de inmediato.
 
 850
 00:50:09,477 --> 00:50:12,247
-It can take time to find a principle, because
+Puede tomar tiempo encontrar un principio, porque
 
 851
 00:50:12,247 --> 00:50:14,783
-finding a principle is essentially a form of self-discovery,
+encontrar un principio, es escencialmente una forma de auto-descubrimiento,
 
 852
 00:50:14,783 --> 00:50:18,187
-that you're trying to figure out what your life is supposed to be about.
+en la que tratas de resolver de qué se trata tu vida.
 
 853
 00:50:18,187 --> 00:50:21,722
-What you want to stand for as a person.
+Lo que quieres defender como persona.
 
 854
 00:50:21,722 --> 00:50:24,626
-Took me like a decade.
+A mí me tomó cerca de una década.
 
 855
 00:50:24,626 --> 00:50:28,631
-Ten years before any real understanding of my principles solidified.
+Diez años antes de realmente entender algo sobre mis principios consolidados.
 
 856
 00:50:28,631 --> 00:50:30,132
-That was my twenties.
+Eso fue cuando tenía veinte.
 
 857
 00:50:30,132 --> 00:50:32,977
-When I was young I felt I had to live this way
+Cuando era joven sentía que tenía que vivir de esta manera
 
 858
 00:50:32,977 --> 00:50:36,271
-but I would get little glimmers of what mattered to me
+pero tenía unos pequeños destellos de lo que me interesaba
 
 859
 00:50:36,271 --> 00:50:38,940
-but no big picture. It was really unclear.
+ninguna idea general. Era realmente muy confuso.
 
 860
 00:50:38,940 --> 00:50:42,043
-This was very distressing for me.
+Era muy estresante para mí.
 
 861
 00:50:42,043 --> 00:50:45,848
-What I had to do was just do a lot of things.
+Lo que tenía que hacer era un montón de cosas.
 
 862
 00:50:45,848 --> 00:50:48,649
-Make many things, make many types of things.
+Hacer muchas cosas, muchas clases de cosas.
 
 863
 00:50:48,649 --> 00:50:52,453
-Study many things, experience many many things.
+Estudiar muchas cosas, experimentar muchas muchas cosas.
 
 864
 00:50:52,453 --> 00:50:56,356
-And use all these experiences as ways of analyzing myself.
+Y usar todas estas experiencias como formas para analizarme a mí mismo.
 
 865
 00:50:56,356 --> 00:50:58,460
-Taking all these experiences and saying:
+Tomar todas estas experiencias y decir:
 
 866
 00:50:58,460 --> 00:51:00,361
-"Does this resonate with me?"
+"¿Esto concuerda conmigo?"
 
 867
 00:51:00,361 --> 00:51:02,996
-Does this repel me? Do I not care?
+¿Me causa rechazo? ¿No me importa?
 
 868
 00:51:02,996 --> 00:51:07,747
-Building of this corpus of experiences that I felt very strongly about for some reason
+Construir de este cuerpo de experiencias que me tocaban muy de cerca, por alguna razón
 
 869
 00:51:07,747 --> 00:51:10,072
-and trying to make sense of it. Trying to figure out Why?
+y tratar de encontrarles el sentido. Tratar de entender el porqué.
 
 870
 00:51:10,072 --> 00:51:15,611
-What is this secret ingredient that I'm reacting to so strongly ?
+¿Cuál es ese ingrediente secreto al que reacciono así?
 
 871
 00:51:15,611 --> 00:51:17,445
-Now I think everyone's different.
+Ahora pienso que todos somos diferentes.
 
 872
 00:51:17,445 --> 00:51:20,181
-And all the guys I talked about they have their own origin stories
+Y todos los hombres con los que hablé tienen sus propias historias de sus orígenes
 
 873
 00:51:20,181 --> 00:51:22,464
-which you can read about.
+que se pueden leer.
 
 874
 00:51:22,464 --> 00:51:24,252
-I will just say that
+Solamente diré
 
 875
 00:51:24,252 --> 00:51:26,954
-confining yourself to practicing a single skill
+que limitarse a practicar una sola habilidad
 
 876
 00:51:26,954 --> 00:51:30,591
-can make it difficult to get that broad range of experiences, which
+puede hacer difícil abrir el panorama a ese rango de experiencias, que
 
 877
 00:51:30,591 --> 00:51:36,830
-seem to be so valuable for this sort of work.
+parecen ser tan valiosas para este tipo de trabajo.
 
 878
 00:51:36,830 --> 00:51:39,499
-And finally,
+Y finalmente,
 
 879
 00:51:39,499 --> 00:51:42,904
-if you choose to follow a principle,
+si eliges seguir un principio,
 
 880
 00:51:42,904 --> 00:51:45,841
-a principle can't be just any old thing you believe in.
+un principio no puede ser sólo alguna de las cosas viejas en las que crees.
 
 881
 00:51:45,841 --> 00:51:49,143
-You'll hear a lot of people say they want to make software easier to use.
+Escucharás a mucha gente decir que quieren hacer el software más fácil de usar.
 
 882
 00:51:49,143 --> 00:51:51,214
-Or they want to delight their users.
+O que quieren encantar a sus usuarios.
 
 883
 00:51:51,214 --> 00:51:53,081
-Or they want to make things simple.
+O que quieren hacer simples las cosas.
 
 884
 00:51:53,081 --> 00:51:55,952
-That's a really big one right now. Everyone wants to make things simple.
+Esa es una bastante importante ahora. Todo el mundo quiere hacer simples las cosas.
 
 885
 00:51:55,952 --> 00:51:58,452
-And those are nice thoughts
+Y esas son buenas ideas
 
 886
 00:51:58,452 --> 00:52:01,022
-and maybe kind of give you a direction to go in
+y quizás te dé una dirección para tomar
 
 887
 00:52:01,022 --> 00:52:05,075
-but they're too vague to be directly actionable.
+pero son demasiado difusas para ser directamente factibles.
 
 888
 00:52:05,075 --> 00:52:06,909
-Larry Tesler likes simplicity.
+A Larry Tesler le gusta la simplicidad.
 
 889
 00:52:06,909 --> 00:52:09,765
-But his principle was this specific nugget of insight:
+Pero su principio era este dato de reflexión:
 
 890
 00:52:09,765 --> 00:52:11,767
-No person should be trapped in a mode.
+Nadie debería estar atrapado en un modo.
 
 891
 00:52:11,767 --> 00:52:14,168
-And that is a powerful principle
+Y ese es un principio poderoso
 
 892
 00:52:14,168 --> 00:52:17,372
-because it gave him a new way of seeing the world.
+porque le dió una nueva forma de ver el mundo.
 
 893
 00:52:17,372 --> 00:52:20,541
-It divided the world in right and wrong in a fairly objective way.
+Dividió al mundo en lo bueno y lo malo de una manera bastante objetiva.
 
 894
 00:52:20,541 --> 00:52:25,246
-So, he could look at someone selecting text and ask Is this person in a mode?
+Entonces, podía ver a alguien seleccionando texto y preguntar: ¿Esta persona es un modo?
 
 895
 00:52:25,246 --> 00:52:27,157
-Yes or no?
+¿Sí o no?
 
 896
 00:52:27,157 --> 00:52:30,618
-If Yes, he had to do something about that.
+Si Sí, tenía que hacer algo al respecto.
 
 897
 00:52:30,618 --> 00:52:34,957
-And likewise, I believe that creators need powerful tools.
+Y del mismo modo, pienso que los creadores necesitan herramientas poderosas.
 
 898
 00:52:34,957 --> 00:52:38,359
-It's a nice thought, but it doesn't really get me anywhere.
+Es una buena idea, pero en realidad no me lleva a ningún lado.
 
 899
 00:52:38,359 --> 00:52:41,963
-My principle is that creators need this immediate connection.
+Mi principio es que los creadores necesitan esta conexión inmediata.
 
 900
 00:52:41,963 --> 00:52:45,099
-So I can watch you changing a line of code, and I can ask:
+Para poder ver cuando cambien una línea de código, y poder preguntar:
 
 901
 00:52:45,099 --> 00:52:49,240
