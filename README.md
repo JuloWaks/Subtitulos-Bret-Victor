@@ -12,11 +12,15 @@ pensamos que es muy inspiradora para todos los programadores.
 Te invitamos a participar de la traducción, si tienes ganas
 de ayudarnos simplemente realiza un fork y comienza.
 
-Ten en cuenta, cada vez que no estés seguro de una
-traducción agregale doble asterisco delante (**) así otra
-persona podrá modificar y ayudarte.
-
-
 Podés ver la primer parte de la traducción aquí:
 
  * http://youtu.be/ZosXDYBKJ88
+
+
+## ¿Cómo contributir?
+
+Tenemos la transcripción de la charla de Bret en inglés, y nos dividimos partes de ese subtítulo para traducir.
+
+Si quieres contribuir, envianos tu nombre de usuario en www.trello.com, así te compartimos este board con las secciones:
+
+![](imagenes/trello.png)
