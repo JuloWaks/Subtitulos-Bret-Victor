@@ -3417,187 +3417,187 @@ A mí me tomó cerca de una década.
 
 855
 00:50:24,626 --> 00:50:28,631
-Ten years before any real understanding of my principles solidified.
+Diez años antes de realmente entender algo sobre mis principios consolidados.
 
 856
 00:50:28,631 --> 00:50:30,132
-That was my twenties.
+Eso fue cuando tenía veinte.
 
 857
 00:50:30,132 --> 00:50:32,977
-When I was young I felt I had to live this way
+Cuando era joven sentía que tenía que vivir de esta manera
 
 858
 00:50:32,977 --> 00:50:36,271
-but I would get little glimmers of what mattered to me
+pero tenía unos pequeños destellos de lo que me interesaba
 
 859
 00:50:36,271 --> 00:50:38,940
-but no big picture. It was really unclear.
+ninguna idea general. Era realmente muy confuso.
 
 860
 00:50:38,940 --> 00:50:42,043
-This was very distressing for me.
+Era muy estresante para mí.
 
 861
 00:50:42,043 --> 00:50:45,848
-What I had to do was just do a lot of things.
+Lo que tenía que hacer era un montón de cosas.
 
 862
 00:50:45,848 --> 00:50:48,649
-Make many things, make many types of things.
+Hacer muchas cosas, muchas clases de cosas.
 
 863
 00:50:48,649 --> 00:50:52,453
-Study many things, experience many many things.
+Estudiar muchas cosas, experimentar muchas muchas cosas.
 
 864
 00:50:52,453 --> 00:50:56,356
-And use all these experiences as ways of analyzing myself.
+Y usar todas estas experiencias como formas para analizarme a mí mismo.
 
 865
 00:50:56,356 --> 00:50:58,460
-Taking all these experiences and saying:
+Tomar todas estas experiencias y decir:
 
 866
 00:50:58,460 --> 00:51:00,361
-"Does this resonate with me?"
+"¿Esto concuerda conmigo?"
 
 867
 00:51:00,361 --> 00:51:02,996
-Does this repel me? Do I not care?
+¿Me causa rechazo? ¿No me importa?
 
 868
 00:51:02,996 --> 00:51:07,747
-Building of this corpus of experiences that I felt very strongly about for some reason
+Construir de este cuerpo de experiencias que me tocaban muy de cerca, por alguna razón
 
 869
 00:51:07,747 --> 00:51:10,072
-and trying to make sense of it. Trying to figure out Why?
+y tratar de encontrarles el sentido. Tratar de entender el porqué.
 
 870
 00:51:10,072 --> 00:51:15,611
-What is this secret ingredient that I'm reacting to so strongly ?
+¿Cuál es ese ingrediente secreto al que reacciono así?
 
 871
 00:51:15,611 --> 00:51:17,445
-Now I think everyone's different.
+Ahora pienso que todos somos diferentes.
 
 872
 00:51:17,445 --> 00:51:20,181
-And all the guys I talked about they have their own origin stories
+Y todos los hombres con los que hablé tienen sus propias historias de sus orígenes
 
 873
 00:51:20,181 --> 00:51:22,464
-which you can read about.
+que se pueden leer.
 
 874
 00:51:22,464 --> 00:51:24,252
-I will just say that
+Solamente diré
 
 875
 00:51:24,252 --> 00:51:26,954
-confining yourself to practicing a single skill
+que limitarse a practicar una sola habilidad
 
 876
 00:51:26,954 --> 00:51:30,591
-can make it difficult to get that broad range of experiences, which
+puede hacer difícil abrir el panorama a ese rango de experiencias, que
 
 877
 00:51:30,591 --> 00:51:36,830
-seem to be so valuable for this sort of work.
+parecen ser tan valiosas para este tipo de trabajo.
 
 878
 00:51:36,830 --> 00:51:39,499
-And finally,
+Y finalmente,
 
 879
 00:51:39,499 --> 00:51:42,904
-if you choose to follow a principle,
+si eliges seguir un principio,
 
 880
 00:51:42,904 --> 00:51:45,841
-a principle can't be just any old thing you believe in.
+un principio no puede ser sólo alguna de las cosas viejas en las que crees.
 
 881
 00:51:45,841 --> 00:51:49,143
-You'll hear a lot of people say they want to make software easier to use.
+Escucharás a mucha gente decir que quieren hacer el software más fácil de usar.
 
 882
 00:51:49,143 --> 00:51:51,214
-Or they want to delight their users.
+O que quieren encantar a sus usuarios.
 
 883
 00:51:51,214 --> 00:51:53,081
-Or they want to make things simple.
+O que quieren hacer simples las cosas.
 
 884
 00:51:53,081 --> 00:51:55,952
-That's a really big one right now. Everyone wants to make things simple.
+Esa es una bastante importante ahora. Todo el mundo quiere hacer simples las cosas.
 
 885
 00:51:55,952 --> 00:51:58,452
-And those are nice thoughts
+Y esas son buenas ideas
 
 886
 00:51:58,452 --> 00:52:01,022
-and maybe kind of give you a direction to go in
+y quizás te dé una dirección para tomar
 
 887
 00:52:01,022 --> 00:52:05,075
-but they're too vague to be directly actionable.
+pero son demasiado difusas para ser directamente factibles.
 
 888
 00:52:05,075 --> 00:52:06,909
-Larry Tesler likes simplicity.
+A Larry Tesler le gusta la simplicidad.
 
 889
 00:52:06,909 --> 00:52:09,765
-But his principle was this specific nugget of insight:
+Pero su principio era este dato de reflexión:
 
 890
 00:52:09,765 --> 00:52:11,767
-No person should be trapped in a mode.
+Nadie debería estar atrapado en un modo.
 
 891
 00:52:11,767 --> 00:52:14,168
-And that is a powerful principle
+Y ese es un principio poderoso
 
 892
 00:52:14,168 --> 00:52:17,372
-because it gave him a new way of seeing the world.
+porque le dió una nueva forma de ver el mundo.
 
 893
 00:52:17,372 --> 00:52:20,541
-It divided the world in right and wrong in a fairly objective way.
+Dividió al mundo en lo bueno y lo malo de una manera bastante objetiva.
 
 894
 00:52:20,541 --> 00:52:25,246
-So, he could look at someone selecting text and ask Is this person in a mode?
+Entonces, podía ver a alguien seleccionando texto y preguntar: ¿Esta persona es un modo?
 
 895
 00:52:25,246 --> 00:52:27,157
-Yes or no?
+¿Sí o no?
 
 896
 00:52:27,157 --> 00:52:30,618
-If Yes, he had to do something about that.
+Si Sí, tenía que hacer algo al respecto.
 
 897
 00:52:30,618 --> 00:52:34,957
-And likewise, I believe that creators need powerful tools.
+Y del mismo modo, pienso que los creadores necesitan herramientas poderosas.
 
 898
 00:52:34,957 --> 00:52:38,359
-It's a nice thought, but it doesn't really get me anywhere.
+Es una buena idea, pero en realidad no me lleva a ningún lado.
 
 899
 00:52:38,359 --> 00:52:41,963
-My principle is that creators need this immediate connection.
+Mi principio es que los creadores necesitan esta conexión inmediata.
 
 900
 00:52:41,963 --> 00:52:45,099
-So I can watch you changing a line of code, and I can ask:
+Para poder ver cuando cambien una línea de código, y poder preguntar:
 
 901
 00:52:45,099 --> 00:52:49,240
