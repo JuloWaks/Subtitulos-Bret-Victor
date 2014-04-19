@@ -2797,403 +2797,403 @@ Nowadays of course Larry has a website, at nomodes.com
 
 700
 00:41:41,871 --> 00:41:46,408
-and he's on twitter: @nomodes
+y está en twitter: @nomodes
 
 701
 00:41:46,408 --> 00:41:49,879
-And so like I said, Larry has done a lot of amazing work in his career
+Y como dije, Larry ha hecho muchas cosas increíbles en su carrera
 
 702
 00:41:49,879 --> 00:41:57,386
-but his self identity is clearly associated with this cause.
+pero su sentido de identidad está claramente asociada a esta causa.
 
 703
 00:41:57,386 --> 00:41:58,591
-And so I'd like to ask
+Entonces, me gustaría preguntar
 
 704
 00:41:58,591 --> 00:42:02,190
-What exactly did Larry do?
+¿Qué hizo Larry exactamente?
 
 705
 00:42:02,190 --> 00:42:06,862
-Like how could we best describe what Larry did?
+¿Cómo podríamos describir mejor lo que Larry hizo?
 
 706
 00:42:06,862 --> 00:42:09,765
-A typical biography might say:
+Una biografía típica diría:
 
 707
 00:42:09,765 --> 00:42:13,182
-Larry Tesler invented Cut Copy Paste.
+Larry Tesler inventó Cortar Copiar Pegar.
 
 708
 00:42:13,182 --> 00:42:16,706
-Which is true, but I think it's really misleading, because
+Que es cierto, pero creo que es bastante engañoso, porque
 
 709
 00:42:16,706 --> 00:42:19,840
-this invention was very different than
+esta invención fue diferente al de
 
 710
 00:42:19,840 --> 00:42:23,508
-say, Thomas Edison inventing the phonograph.
+digamos, Thomas Edison cuando inventó el fonógrafo.
 
 711
 00:42:23,508 --> 00:42:26,516
-Edison basically just stumbled over the technology for audio recording
+Edison básicamente sólo se tropezó con la tecnología para grabar audio
 
 712
 00:42:26,516 --> 00:42:28,917
-and he built it out as a novelly.
+y lo construyó como una novedad.
 
 713
 00:42:28,917 --> 00:42:33,187
-And he came up with like a this list of possible applications for his technology, but
+Y elaboró una especie de lista para las posibles aplicaciones para su tecnología, pero
 
 714
 00:42:33,187 --> 00:42:35,891
-he didn't have any cultural intent.
+no tenía ningun propósito cultural.
 
 715
 00:42:35,891 --> 00:42:38,425
-Whereas what Larry did was entirely a reaction
+En cambio, lo que hizo Larry fue completamente una reacción
 
 716
 00:42:38,425 --> 00:42:41,926
-to a particular cultural context.
+a un contexto cultural en particular.
 
 717
 00:42:41,926 --> 00:42:44,099
-So another thing that you might hear is that
+Entonces otra cosa que pueden escuchar es
 
 718
 00:42:44,099 --> 00:42:48,603
-Larry Tesler solved the problem of modeless text manipulation.
+Larry Tesler resolvió el problema de la manipulación de texto sin modelo.
 
 719
 00:42:48,603 --> 00:42:51,541
-Solved the problem. And obviously that's true,
+Lo resolvió. Y eso es obviamente cierto,
 
 720
 00:42:51,541 --> 00:42:55,310
-he worked on the problem for a long time, eventually solved it.
+Trabajó en el problema por un largo tiempo, y eventualmente lo resolvió.
 
 721
 00:42:55,310 --> 00:42:58,176
-But I think that's misleading too,
+Pero pienso que eso también es engañoso,
 
 722
 00:42:58,176 --> 00:43:03,617
-because this problem that he solved only existed in his own head.
+porque ese problema que resolvió, sólo existía en su cabeza.
 
 723
 00:43:03,617 --> 00:43:07,622
-Nobody else saw this as a problem.
+Nadie más veía esto como un problema.
 
 724
 00:43:07,622 --> 00:43:11,127
-For everybody else modes were just how computers worked.
+Para todos los demás, los modos eran simplemente como trabajaban las computadoras.
 
 725
 00:43:11,127 --> 00:43:13,496
-There wasn't anything wrong with them any more than
+No había nada de malo con ellos, al igual que
 
 726
 00:43:13,496 --> 00:43:15,399
-we think there's something wrong with having two arms.
+cuando pensamos que hay algo malo con tener dos brazos.
 
 727
 00:43:15,399 --> 00:43:18,340
-It just kind of was a fact of life.
+Como que sólo era un hecho de la vida.
 
 728
 00:43:18,340 --> 00:43:20,508
-So the first thing that Larry did
+Entonces lo primero que hizo Larry
 
 729
 00:43:20,508 --> 00:43:26,925
-was that he recognized a wrong that had been unacknowledged in the culture.
+fue identificar un mal que no había sido reconocido en la cultura.
 
 730
 00:43:26,925 --> 00:43:31,647
-And the thing is, that's how many great social changes began as well.
+y la cuestión es, así es como los grandes cambios sociales comenzaron también.
 
 731
 00:43:31,647 --> 00:43:35,887
-So a 150 years ago, Elizabeth Cady Stanton had to stand up and say:
+Entonces, hace unos 150 años, Elizabeth Cady Stanton tuvo que levantarse y decir:
 
 732
 00:43:35,887 --> 00:43:37,887
-"Women should vote."
+"Las mujeres deberían votar."
 
 733
 00:43:37,887 --> 00:43:40,919
-And everybody else said like "That's crazy, what are you talking about ?"
+Y todos los demás dijeron "Eso es una locura, ¿de qué estás hablando?"
 
 734
 00:43:40,919 --> 00:43:44,359
-Today, we recognize gender discrimination as a wrong.
+Hoy en día, reconocemos la discriminación de género como algo malo.
 
 735
 00:43:44,359 --> 00:43:48,865
-Back then, it was part of society, it was invisible.
+En aquél entonces, era parte de la sociedad, era invisible.
 
 736
 00:43:48,865 --> 00:43:52,198
-She had to recognize it, and she had to fight it.
+Ella tuvo que identificarla, y lucharla.
 
 737
 00:43:52,198 --> 00:43:56,585
-And to me, that's a much closer model to what Larry did
+Y para mí, ese modelo se acerca bastante más lo que hizo Larry
 
 738
 00:43:56,585 --> 00:44:01,419
-than the Thomas Edison model of inventing a bunch of random technology so he could patent it.
+que el modelo de Thomas Edison que inventó un montón de tecnología fortuita para poder patentarla.
 
 739
 00:44:01,419 --> 00:44:03,086
-Now to be clear I'm not making any judgement
+Ahora, aclaro, no estoy juzgando
 
 740
 00:44:03,086 --> 00:44:05,513
-about the relative importance or the impact of these two people,
+la importancia relativa o el impacto de estas dos personas,
 
 741
 00:44:05,513 --> 00:44:09,834
-I'm just talking about their motivations and their approach.
+Sólo estoy hablando de sus motivaciones y sus enfoques.
 
 742
 00:44:09,834 --> 00:44:13,023
-Both of them recognized a cultural wrong,
+Ambos identificaron algo malo culturalmente,
 
 743
 00:44:13,023 --> 00:44:15,757
-they envisioned a world without that wrong
+visualizaron el mundo sin ese mal
 
 744
 00:44:15,757 --> 00:44:19,586
-and they dedicated themselves to fighting for a principle.
+y se dedicaron a luchar por un principio.
 
 745
 00:44:19,586 --> 00:44:23,668
-She fought by organizing, he fought by inventing.
+Ella lo hizo organizando, él lo hizo inventando.
 
 746
 00:44:23,668 --> 00:44:28,036
-And many other seminal figures in computing had similar motivations.
+Y muchas otras figuras influyentes en la informática tuvieron motivaciones similares.
 
 747
 00:44:28,036 --> 00:44:30,374
-So certainly Doug Engelbart.
+Así seguramente tuvo Doug Engelbart.
 
 748
 00:44:30,374 --> 00:44:34,752
-Doug Engelbart basically invented interactive computing.
+Doug Engelbart básicamente inventó la informática interactiva.
 
 749
 00:44:34,752 --> 00:44:38,545
-The concept of putting information on a screen.
+El concepto de mostrar la información en una pantalla.
 
 750
 00:44:38,545 --> 00:44:40,181
-Navigating through it.
+Navegar en ella.
 
 751
 00:44:40,181 --> 00:44:41,920
-Looking at information in different ways.
+Ver la información de diferentes maneras.
 
 752
 00:44:41,920 --> 00:44:45,788
-Pointing at things and manipulating them. He came up with all this at a time when
+Señalar cosas y manipularlas. Ideó todo ésto en un momento en el que
 
 753
 00:44:45,788 --> 00:44:49,524
-real-time interaction with a computer was just almost unheard of.
+la interacción en tiempo real con una computadora, simplemente casi no se había escuchado.
 
 754
 00:44:49,524 --> 00:44:51,459
-Today he is best known as the inventor of the mouse,
+Hoy es más conocido como el inventor del mouse,
 
 755
 00:44:51,459 --> 00:44:55,597
-but what he really invented with is this entirely new way of working with knowledge.
+pero lo que realmente inventó fue esta completamente nueva forma de trabajar con el conocimiento.
 
 756
 00:44:55,597 --> 00:44:58,599
-His explicit goal from the beginning was
+Su meta desde un principio era explícitamente
 
 757
 00:44:58,599 --> 00:45:02,772
-to enable mankind to solve the world's urgent problems.
+darle a la humanidad la facultad de resolver los problemas urgentes de mundo.
 
 758
 00:45:02,772 --> 00:45:04,502
-And his vision,
+Y su visión,
 
 759
 00:45:04,502 --> 00:45:07,042
-he had this this vision of what he called knowledge workers
+tuvo esta visión que llamó trabajadores del conocimiento
 
 760
 00:45:07,042 --> 00:45:12,347
-using complex powerful information tools to harness the collective intelligence.
+usar poderosas y complejas herramientas de información para arovechar la inteligencia colectiva.
 
 761
 00:45:12,347 --> 00:45:16,117
-And he only got into computers because he had a hunch that these new things called computer things
+Y sólo de interesó en las computadoras proque tuvo la corazonada que estas cosas nuevas que se llamaban de computación
 
 762
 00:45:16,117 --> 00:45:18,585
-could help him realize that vision.
+lo podía ayudar a alcanzar esa visión.
 
 763
 00:45:18,585 --> 00:45:20,419
-Everything that he did
+Cada cosa que hizo
 
 764
 00:45:20,419 --> 00:45:26,761
-was almost single-mindedly driven by pursuing this vision.
+estaba decididamente impulsada por la concreción de esa visión.
 
 765
 00:45:26,761 --> 00:45:28,585
-Here's Alan Kay.
+Este es Alan Kay.
 
 766
 00:45:28,585 --> 00:45:32,085
-Alan Kay ran the lab at Xerox PARC where we got the desktop interface,
+Alan Kay dirigía el laboratorio en Xerox PARC donde logramos la interfaz de escritorio,
 
 767
 00:45:32,085 --> 00:45:35,637
-so things like windows and icons, command menus.
+cosas como ventanas e íconos, menús de comandos.
 
 768
 00:45:35,637 --> 00:45:40,375
-He also invented object-oriented programming and lots of other things.
+También inventó la programación orientada a objetos y muchas otras cosas.
 
 769
 00:45:40,375 --> 00:45:42,308
-His goal, and I quote,
+Su meta era, y cito,
 
 770
 00:45:42,308 --> 00:45:44,779
-was to "amplify human reach,
+"amplificar el alcance humano,
 
 771
 00:45:44,779 --> 00:45:47,549
-and bring new ways of thinking to a faltering civilization
+y traer nuevas formas de pensamiento a una civilización dubitativa
 
 772
 00:45:47,549 --> 00:45:49,783
-that desperately needed it."
+que lo necesitaba desesperadamente."
 
 773
 00:45:49,783 --> 00:45:51,994
-Isn't that great?
+¿No es grandioso?
 
 774
 00:45:51,994 --> 00:45:54,751
-His approach was through children. He believed that
+Su estrategia fue a través de los niños. Él creía que
 
 775
 00:45:54,751 --> 00:45:58,920
-if children became fluent in thinking in the medium of the computer,
+si los niños eran fluídos pensando en el medio de la computadora,
 
 776
 00:45:58,920 --> 00:46:03,835
-meaning if programming was a form of basic literacy like reading and writing,
+es decir, si la programación fuese una forma de alfabetización básica como leer y escribir,
 
 777
 00:46:03,835 --> 00:46:06,166
-then they'd become adults with new forms of critical thought,
+entonces, se harían adultos con nuevas formas de pensamiento crítico,
 
 778
 00:46:06,166 --> 00:46:07,769
-and new ways of understanding the world.
+y nuevas formas de entender al mundo.
 
 779
 00:46:07,769 --> 00:46:10,639
-And we'd have this more enlightened society,
+Y tendríamos esta sociedad más iluminada,
 
 780
 00:46:10,639 --> 00:46:16,836
-similar to the difference that literacy brought to society.
+parecida a la diferencia que la alfabetización le trajo a la sociedad.
 
 781
 00:46:16,836 --> 00:46:19,682
-And everything that he did, everything he invented,
+Y todo lo que hizo, todo lo que inventó,
 
 782
 00:46:19,682 --> 00:46:25,006
-came out of pursuing this vision, this goal with children.
+salió de perseguir esta visión, este objetivo con los niños.
 
 783
 00:46:25,006 --> 00:46:29,918
-And following principles that he adopted from Piaget and Montessori,
+Y siguiendo principios que adoptó de Piaget y Montessori,
 
 784
 00:46:29,918 --> 00:46:36,836
-Jerome Bruner, these people who would study how children think
+Jerome Bruner, estas personas que estudiaban cómo pensaban los niños
 
 785
 00:46:36,836 --> 00:46:40,584
-And the figure probably most widely associated with software activism
+Y la figura probablemente más asociada con el activismo en software
 
 786
 00:46:40,584 --> 00:46:43,204
-is Richard Stallman.
+es Richard Stallman.
 
 787
 00:46:43,204 --> 00:46:47,175
-Stallman started the GNU project which today makes up a big chunk of any Linux system.
+Stallman comenzó con el proyecto GNU que hoy en día conforma una gran parte de cualquier sistema Linux.
 
 788
 00:46:47,175 --> 00:46:49,477
-He also started the Free Software Foundation,
+También comenzó la Fundación de Software Libre,
 
 789
 00:46:49,477 --> 00:46:53,348
-wrote GCC, GPL, many, many other things.
+escribió GCC, GPL, muchas, muchas otras cosas.
 
 790
 00:46:53,348 --> 00:46:57,053
-His principle is that software must be free, as in freedom,
+Su principio es que el software debe ser libre, en libertad,
 
 791
 00:46:57,053 --> 00:47:01,390
-and he has very precise meaning associated with that statement.
+y él tiene un sginificado muy preciso relacionado con esta declaración.
 
 792
 00:47:01,390 --> 00:47:02,673
-He's always been very clear that
+Siempre ha sido muy claro con respecto a
 
 793
 00:47:02,673 --> 00:47:05,225
-software freedom is a matter of moral right and wrong.
+que la libertad de software es un asunto moral sobre lo correcto y lo incorrecto.
 
 794
 00:47:05,225 --> 00:47:10,865
-And he has taken a particularly uncompromising approach in his own life to that.
+Y ha tomado un enfoque particularmente inflexible en su propia vida por eso.
 
 795
 00:47:10,865 --> 00:47:13,402
-All of these tremendously influential people
+Todas estas personas tremendamente influyente
 
 796
 00:47:13,402 --> 00:47:16,205
-dedicated their lives
+dedicaron sus vidas
 
 797
 00:47:16,205 --> 00:47:20,910
-to fighting for a particular ideal with a very clear sense of right and wrong.
+a luchar por un ideal particular con un sentido muy claro de lo correcto y lo incorrecto.
 
 798
 00:47:20,910 --> 00:47:22,758
-Often really fighting
+Usualmente realmente luchando
 
 799
 00:47:22,758 --> 00:47:26,615
-against an authority or mainstream that did not recognize their wrong as being wrong.
+contra una autoridad o una mayoría que no reconocía su error como error.
 
 800
 00:47:26,615 --> 00:47:30,335
