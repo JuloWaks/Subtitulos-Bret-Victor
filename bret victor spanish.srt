@@ -2405,7 +2405,7 @@ Por qué tengo este pricipio, por qué hago esto.
 
 602
 00:35:52,419 --> 00:35:58,928
-Cuando veo una violación de este principio, no lo veo pienso como una oportunidad.
+Cuando veo una violación de este principio, no lo veo como una oportunidad.
 
 603
 00:35:58,928 --> 00:36:03,832
@@ -2421,11 +2421,11 @@ Una oportunidad de empezar un negocio.
 
 606
 00:36:10,038 --> 00:36:14,878
-O una oportunidad the hacer investigación o contribuir a un cierto campo.
+O una oportunidad de hacer investigación o contribuir a un cierto campo.
 
 607
 00:36:14,878 --> 00:36:17,146
-No me atrae encontrar un problema para resolver.
+No me entusiasma encontrar un problema para resolver.
 
 608
 00:36:17,146 --> 00:36:20,883
@@ -2437,7 +2437,7 @@ Las ideas son muy preciadas para mí.
 
 610
 00:36:23,100 --> 00:36:27,690
-Y cuando veo morir ideas, me duele.
+Y cuando veo ideas morir, me duele.
 
 611
 00:36:27,690 --> 00:36:31,598
@@ -2485,7 +2485,7 @@ Entonces cosas como
 
 622
 00:37:06,762 --> 00:37:10,632
-censura, discriminación de género, destrucción del medio ambiente.
+la censura, la discriminación de género, la destrucción del medio ambiente.
 
 623
 00:37:10,632 --> 00:37:15,538
@@ -2529,11 +2529,11 @@ Y el propósito de esta charla es decirles que
 
 633
 00:37:45,069 --> 00:37:48,972
-ese estilo de vida activista no es sólo para el acitivismo social.
+ese estilo de vida activista no es sólo para el activismo social.
 
 634
 00:37:48,972 --> 00:37:53,014
-Como tecnologista, puedes reconocer los males del mundo.
+Como tecnologista, puedes reconocer un mal en el mundo.
 
 635
 00:37:53,014 --> 00:37:55,878
@@ -2553,7 +2553,7 @@ pero ustedes pueden pelear inventando.
 
 639
 00:38:07,690 --> 00:38:12,462
-Me gustaría ahora contarlos sobre algunas personas que también han vivido de esta manera,
+Me gustaría ahora contarles sobre algunas personas que han vivido de esta manera,
 
 640
 00:38:12,462 --> 00:38:15,930
@@ -2561,239 +2561,239 @@ empezando con Larry Tesler.
 
 641
 00:38:15,930 --> 00:38:19,013
-Larry has done a lot of wonderful things in his life,
+Larry ha hecho muchas cosas maravillosas en su vida,
 
 642
 00:38:19,013 --> 00:38:23,205
-but the work I'm gonna tell you about he did in the mid '70s at Xerox PARC.
+pero les voy a contar sobre el trabajo que hizo a mediados de los '70 en el Xerox PARC.
 
 643
 00:38:23,205 --> 00:38:27,513
-And at the time, there really wasn't such a thing as personal computers.
+Y en esa época, no existía algo como las computadoras personales.
 
 644
 00:38:27,513 --> 00:38:29,913
-The notion of personal computing was very young and
+La noción de computación personal era muy joven y
 
 645
 00:38:29,913 --> 00:38:33,650
-Larry and colleagues at PARC felt that they had transformative potential,
+Larry y sus colegas en PARC sentían que tenían potencial de transformación,
 
 646
 00:38:33,650 --> 00:38:39,929
-that personal computing could change how people thought and lived.
+que la computación personal podía cambiar la manera de pensar y de vivir de la gente.
 
 647
 00:38:39,929 --> 00:38:43,324
-And I think all of us in this room would agree that they turned out to be right about that.
+Y creo que todos los aquí presentes estaríamos de acuerdo que resultaron estar en lo cierto.
 
 648
 00:38:43,324 --> 00:38:45,263
-But at the time,
+Pero en aquel entonces,
 
 649
 00:38:45,263 --> 00:38:49,165
-software interfaces were designed around modes.
+las interfaces de software estaban diseñadas en modos.
 
 650
 00:38:49,165 --> 00:38:53,870
-So, in a text editor for instance, you couldn't just type
+Entonces, en un editor de texto por ejemplo, no se podía simplemente tipear
 
 651
 00:38:53,870 --> 00:38:56,429
-and have words appear on the screen like on a typewriter.
+y hacer aparecer las palabras en la pantalla como con una máquina de escribir.
 
 652
 00:38:56,429 --> 00:38:57,873
-You would be in command mode.
+Estarías en modo comando.
 
 653
 00:38:57,873 --> 00:39:01,189
-If you wanted to insert text you'd have to press I to go into insert mode
+Si querías insertar texto debías presionar I para estar en modo "insertar"
 
 654
 00:39:01,189 --> 00:39:04,279
-then Escape back out to command mode or maybe you'd hit A to go into append mode.
+luego Escape para volver a modo comando o quizás presionar A para entrar al modo Añadir.
 
 655
 00:39:04,279 --> 00:39:06,714
-Or if you wanted to move text around you'd hit M go to the Move mode
+O si querías mover el texto presionabas M para entrar al modo Mover
 
 656
 00:39:06,714 --> 00:39:09,053
-and then you'd have to select and move things around
+y luego debías seleccionar y mover
 
 657
 00:39:09,053 --> 00:39:16,157
-And Larry would watch people using the computer,
+Y Larry observaría a la gente usar la computadora,
 
 658
 00:39:16,157 --> 00:39:20,895
-they actually pioneered the concept of software user studies, another thing that he did,
+realmente serían pioneros del concepto sobre estudios del usuario de software, otra cosa que hicieron,
 
 659
 00:39:20,895 --> 00:39:24,431
-but he would watch people using the software and he found that many people
+pero observaría a la gente usando el software y encontró que mucha gente
 
 660
 00:39:24,431 --> 00:39:27,535
-even after training and weeks of use,
+incluso luego del entrenamiento y de semanas de uso,
 
 661
 00:39:27,535 --> 00:39:31,012
-many people would not become comfortable with the computer.
+mucha gente no se sentía cómoda con la computadora.
 
 662
 00:39:31,012 --> 00:39:35,210
-And he believed that it was these modes that were to blame.
+y él creía que estos módulos eran los culpables.
 
 663
 00:39:35,210 --> 00:39:37,509
-That the complexity of modes
+Que la complejidad de los modos
 
 664
 00:39:37,509 --> 00:39:41,009
-was a kind of barrier that many people couldn't cross.
+era una especie de barrera que muchos no podían cruzar.
 
 665
 00:39:41,009 --> 00:39:46,105
-And so this kind of represented a threat
+entonces esto representaba algo como una amenaza
 
 666
 00:39:46,105 --> 00:39:49,590
-to this dream of what personal computing could be.
+para este sueño que podía ser la computación personal.
 
 667
 00:39:49,590 --> 00:39:52,995
-So Larry made it his personal mission to eliminate modes from software.
+Entonces para Larry, eliminar los modos del software se transformó en su misión personal.
 
 668
 00:39:52,995 --> 00:39:54,696
-And he formed a principle:
+Y formó un principio:
 
 669
 00:39:54,696 --> 00:39:58,300
-"No person should be trapped in a mode"
+"Nadie debería quedar atrapada en un modo"
 
 670
 00:39:58,300 --> 00:39:59,902
-His slogan that he would go around saying was
+El slogan que haría circular era
 
 671
 00:39:59,902 --> 00:40:04,406
-"Don't mode me in" and he had it printed on his t-shirt.
+"No me encasilles en un modo" y se lo hizo imprimir en una remera.
 
 672
 00:40:04,406 --> 00:40:07,309
-And this principle informed everything that he did.
+Y este principio informaba todo lo que él hacía.
 
 673
 00:40:07,309 --> 00:40:09,478
-He thought about it with all the work that he did.
+Pensaba en eso en todo el trabajo que hacía
 
 674
 00:40:09,478 --> 00:40:13,426
-And eventually he came up with a text editor called Gypsy,
+Y eventualmente ideó un editor de texto que se llamaba Gypsy,
 
 675
 00:40:13,426 --> 00:40:17,052
-which essentially introduced text editing as we know today.
+que fudamentalmente introdujo la edición de textos como la conocemos hoy.
 
 676
 00:40:17,052 --> 00:40:19,090
-There's an insertion point.
+Allí hay un punto de inserción.
 
 677
 00:40:19,090 --> 00:40:22,891
-And when you typed, words appeared on the screen.
+Y cuando tipeabas, aparecían las palabras en la pantalla.
 
 678
 00:40:22,891 --> 00:40:26,424
-To select text, he invented modeless selection with click and drag.
+Para seleccionar texto, inventó la selección amodal con hacer click y arrastrar.
 
 679
 00:40:26,424 --> 00:40:30,865
-So you just click and drag over the text you want to select like using a highlighter,
+Entonces sólo haces click y arrastras sobre el texto que deseas seleccionar, como usando un resaltador,
 
 680
 00:40:30,865 --> 00:40:33,168
-one of the first uses of drag.
+uno de los primeros usos de arrastrar.
 
 681
 00:40:33,168 --> 00:40:36,138
-To move text around, he invented these commands that he called
+Para mover texto, inventó comandos a los que llamó
 
 682
 00:40:36,138 --> 00:40:38,238
-Cut, Copy, Paste
+Cortar, Copiar, Pegar
 
 683
 00:40:38,238 --> 00:40:42,045
-So you select and Cut, later on you Paste in, whenever you're ready
+Encones seleccionas y Cortas, después Pegas, cuando estás listo
 
 684
 00:40:42,045 --> 00:40:45,112
-You're never trapped in a mode, you don't have the switching between modes
+Nunca quedas atrapado en un modo, no tienes ese cambio entre modos
 
 685
 00:40:45,112 --> 00:40:49,920
-When you hit the 'W' key on a keyboard, you get 'W' on the screen, always.
+Cuando aprietas la 'W' en el teclado, obtienes una 'W' en la pantalla, siempre.
 
 686
 00:40:49,920 --> 00:40:53,258
-And he would watch people using his software
+Y observaría a la gente usando su software
 
 687
 00:40:53,258 --> 00:40:55,691
-and he found that someone who had never seen a computer before,
+y encontró que alguien que nunca antes había visto una computadora,
 
 688
 00:40:55,691 --> 00:40:57,727
-which was most people back then, 
+que era la mayoría en ese entonces,
 
 689
 00:40:57,727 --> 00:41:00,829
-could be up and running in like half an hour.
+podía estar listo y funcionando en alrededor de media hora.
 
 690
 00:41:00,829 --> 00:41:02,931
-So this was clearly a transformative change
+Entonces esto era claramente un cambio transformativo
 
 691
 00:41:02,931 --> 00:41:05,843
-in enabling people to connect with computers.
+que permitía a la gente conectarse con las computadoras.
 
 692
 00:41:05,843 --> 00:41:09,303
-And his ideas about modelessness
+Y sus ideas sobre amodalidad
 
 693
 00:41:09,303 --> 00:41:11,925
-spread to the rest of the desktop interface
+se esparcieron hacia el resto de la interfaz de escritorio
 
 694
 00:41:11,925 --> 00:41:13,840
-which was then being invented at Xeroc PARC at the same time.
+que se estaba inventando en ese momento en Xeroc PARC al mismo tiempo.
 
 695
 00:41:13,840 --> 00:41:20,816
-And today they're so ingrained in the computing experience that today we kind of take them for granted.
+Y hoy están tan arraigadas en la experiencia de usuario, que lo damos por sentado.
 
 696
 00:41:20,816 --> 00:41:26,321
-Now I said that Larry made the elimination of modes his personal mission.
+Ahora, dije que Larry tomó la eliminación de modos y la hizo su misión personal.
 
 697
 00:41:26,321 --> 00:41:30,126
-That's actually his words, and if you think he's exaggerating,
+Esas fueron sus palabras en realidad, y si creen que exagera,
 
 698
 00:41:30,126 --> 00:41:37,364
-here's Larry's license plate for the last 30 years. [chuckles]
+esta es la placa de Larry de los últimos 30 años. [risas]
 
 699
 00:41:37,364 --> 00:41:41,871
-Nowadays of course Larry has a website, at nomodes.com
+Hoy en día por supuesto Larry tiene un sitio web, en nomodes.com
 
 700
 00:41:41,871 --> 00:41:46,408
