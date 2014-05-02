@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:07,311 --> 00:00:11,916
 A diferencia de la conferencia pasada, no tengo premios para dar.
 
@@ -76,7 +76,7 @@ Y también pienso que las grandes ideas, en forma de arte, historias, invencione
 
 20
 00:01:29,224 --> 00:01:32,799
-esas toman vida propia,
+toman vida propia,
 
 21
 00:01:32,799 --> 00:01:35,302
@@ -1048,7 +1048,7 @@ ahora mi protagonista no puede ir a la izquierda, solo puede moverse a la derech
 
 263
 00:15:15,952 --> 00:15:17,321
-** Which sounds kinda silly, but
+que parece algo absurdo, pero...
 
 264
 00:15:17,321 --> 00:15:19,229
