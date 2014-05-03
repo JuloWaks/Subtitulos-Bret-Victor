@@ -780,7 +780,7 @@ aumento la velocidad,
 
 196
 00:11:21,951 --> 00:11:27,591
-que... um, no se.. podría ser rápido, o lento
+que... um, no se... podría ser rápido, o lento
 
 197
 00:11:27,591 --> 00:11:33,463
@@ -1036,7 +1036,7 @@ Y probablemente podría crear un juego entero alrededor de esta mecánica: manip
 
 260
 00:14:59,770 --> 00:15:05,375
-**In fact, I bet I could fiddle with any part of this code and come up with an idea for a game.
+De hecho, apuesto a que podría jugar con cualquier parte de este código y lugrar una idea para un juego.
 
 261
 00:15:05,375 --> 00:15:11,182
@@ -1161,7 +1161,7 @@ de donde piensas que el valor podría estar;
 
 291
 00:17:03,556 --> 00:17:05,894
-en este moment podría estar en cualquier lugar.
+en este momento podría estar en cualquier lugar.
 
 292
 00:17:05,894 --> 00:17:08,472
@@ -1549,7 +1549,7 @@ Necesitan esta conexión inmediata con lo que están creando.
 
 388
 00:22:54,478 --> 00:22:58,315
-Y he tratado de demostrar este principio a traves de tres ejemplos de código,
+Y he tratado de demostrar este principio a través de tres ejemplos de código,
 
 389
 00:22:58,315 --> 00:23:00,816
@@ -1665,7 +1665,7 @@ Estas son LEDs, las luces pequeñas, supuestamente están ahí por una razón
 
 417
 00:24:39,216 --> 00:24:42,884
-Le puedo dar Play y verlo simular en tiempo real
+Le puedo dar "play" y verlo simular en tiempo real
 
 418
 00:24:42,884 --> 00:24:51,604
@@ -1709,11 +1709,11 @@ y voy a agregar el voltaje en cada nodo.
 
 428
 00:25:20,687 --> 00:25:24,495
-y ahora se puede ver cada voltaje a traves del circuito.
+y ahora se puede ver cada voltaje a través del circuito.
 
 429
 00:25:24,495 --> 00:25:29,768
-y hasta puedo darle Play y verlo simular en tiempo real.
+y hasta puedo darle "play" y verlo simular en tiempo real.
 
 430
 00:25:29,768 --> 00:25:32,902
@@ -1765,7 +1765,7 @@ Entonces, tengo esta resistencia de 70k
 
 442
 00:26:06,902 --> 00:26:08,770
-quiero cambiar su valor, simplemente lo clickeo y lo arrastro,
+quiero cambiar su valor, simplemente hago click y lo arrastro,
 
 443
 00:26:08,770 --> 00:26:12,575
@@ -1773,7 +1773,7 @@ y ahora veo las formas de las ondas cambiando inmediatamente.
 
 444
 00:26:12,575 --> 00:26:14,945
-y notarán que cuando clickeo y arrastro,
+y notarán que cuando hago click y arrastro,
 
 445
 00:26:14,945 --> 00:26:19,616
@@ -1845,7 +1845,7 @@ Y puedes ver qué componente es,
 
 462
 00:27:07,231 --> 00:27:09,967
-porque tiene una pequeña insignia en la esquina, un pequeño ícono,
+porque tiene una pequeña insignia en la esquina, un pequeño icono,
 
 463
 00:27:09,967 --> 00:27:14,270
@@ -1877,7 +1877,7 @@ pero en lugar de estar hecho de simbolitos garabatosos,
 
 470
 00:27:34,657 --> 00:27:36,826
-está hecho de infomación.
+está hecho de información.
 
 471
 00:27:36,826 --> 00:27:38,761
@@ -1925,7 +1925,7 @@ una lista de definiciones textuales que le entregas a un compilador.
 
 482
 00:28:10,234 --> 00:28:14,263
-que derivan directamente de ortran y ALGOL a fines de los '50.
+que derivan directamente de Fortran y ALGOL a fines de los '50.
 
 483
 00:28:14,263 --> 00:28:17,600
@@ -2029,7 +2029,7 @@ básicamente dices dónde quieres que esté la hoja en diferentes puntos en el t
 
 508
 00:29:43,786 --> 00:29:46,922
-y le das Play y ves cómo queda.
+y le das "play" y ves cómo queda.
 
 509
 00:29:46,922 --> 00:29:53,901
@@ -2065,7 +2065,7 @@ Voy a agregar un tween, que le dice a Flash que conecte los puntos.
 
 517
 00:30:20,090 --> 00:30:24,592
-Y luego voy a dar Play para ver cómo queda.
+Y luego voy a dar "play" para ver cómo queda.
 
 518
 00:30:24,592 --> 00:30:33,783
@@ -2401,7 +2401,7 @@ Pero no he dicho mucho sobre la parte mas importante de la historia, que es el p
 
 601
 00:35:46,348 --> 00:35:52,419
-Por qué tengo este pricipio, por qué hago esto.
+Por qué tengo este principio, por qué hago esto.
 
 602
 00:35:52,419 --> 00:35:58,928
@@ -2461,7 +2461,7 @@ No oportunidad, sino responsabilidad.
 
 616
 00:36:44,874 --> 00:36:48,262
-Ahora, esto es cosa mía nomás. No les estoy pidiendo que crean en esto de la forma que yo lo hago.
+Ahora, esto es cosa mía nomas. No les estoy pidiendo que crean en esto de la forma que yo lo hago.
 
 617
 00:36:48,262 --> 00:36:51,880
@@ -2469,7 +2469,7 @@ Mi punto es que estas palabras que estoy usando:
 
 618
 00:36:51,880 --> 00:36:57,489
-Injusticia, Responsibilidad, Moralmente mal,
+Injusticia, Responsabilidad, Moralmente mal,
 
 619
 00:36:57,489 --> 00:37:02,124
@@ -2533,7 +2533,7 @@ ese estilo de vida activista no es sólo para el activismo social.
 
 634
 00:37:48,972 --> 00:37:53,014
-Como tecnologista, puedes reconocer un mal en el mundo.
+Como técnico, puedes reconocer un mal en el mundo.
 
 635
 00:37:53,014 --> 00:37:55,878
@@ -2697,7 +2697,7 @@ Y eventualmente ideó un editor de texto que se llamaba Gypsy,
 
 675
 00:40:13,426 --> 00:40:17,052
-que fudamentalmente introdujo la edición de textos como la conocemos hoy.
+que fundamentalmente introdujo la edición de textos como la conocemos hoy.
 
 676
 00:40:17,052 --> 00:40:19,090
@@ -2737,7 +2737,7 @@ Nunca quedas atrapado en un modo, no tienes ese cambio entre modos
 
 685
 00:40:45,112 --> 00:40:49,920
-Cuando aprietas la 'W' en el teclado, obtienes una 'W' en la pantalla, siempre.
+Cuando aprietas la W en el teclado, obtienes una W en la pantalla, siempre.
 
 686
 00:40:49,920 --> 00:40:53,258
@@ -2853,7 +2853,7 @@ Y elaboró una especie de lista para las posibles aplicaciones para su tecnolog�
 
 714
 00:42:33,187 --> 00:42:35,891
-no tenía ningun propósito cultural.
+no tenía ningún propósito cultural.
 
 715
 00:42:35,891 --> 00:42:38,425
@@ -2941,7 +2941,7 @@ En aquél entonces, era parte de la sociedad, era invisible.
 
 736
 00:43:48,865 --> 00:43:52,198
-Ella tuvo que identificarla, y lucharla.
+Ella tuvo que identificarla, y combatirla.
 
 737
 00:43:52,198 --> 00:43:56,585
@@ -3037,11 +3037,11 @@ tuvo esta visión que llamó trabajadores del conocimiento
 
 760
 00:45:07,042 --> 00:45:12,347
-usar poderosas y complejas herramientas de información para arovechar la inteligencia colectiva.
+usar poderosas y complejas herramientas de información para aprovechar la inteligencia colectiva.
 
 761
 00:45:12,347 --> 00:45:16,117
-Y sólo de interesó en las computadoras proque tuvo la corazonada que estas cosas nuevas que se llamaban de computación
+Y sólo de interesó en las computadoras porque tuvo la corazonada que estas cosas nuevas que se llamaban de computación
 
 762
 00:45:16,117 --> 00:45:18,585
@@ -3065,7 +3065,7 @@ Alan Kay dirigía el laboratorio en Xerox PARC donde logramos la interfaz de esc
 
 767
 00:45:32,085 --> 00:45:35,637
-cosas como ventanas e íconos, menús de comandos.
+cosas como ventanas e iconos, menús de comandos.
 
 768
 00:45:35,637 --> 00:45:40,375
@@ -3097,7 +3097,7 @@ Su estrategia fue a través de los niños. Él creía que
 
 775
 00:45:54,751 --> 00:45:58,920
-si los niños eran fluídos pensando en el medio de la computadora,
+si los niños eran fluidos pensando en el medio de la computadora,
 
 776
 00:45:58,920 --> 00:46:03,835
@@ -3161,7 +3161,7 @@ Su principio es que el software debe ser libre, en libertad,
 
 791
 00:46:57,053 --> 00:47:01,390
-y él tiene un sginificado muy preciso relacionado con esta declaración.
+y él tiene un significado muy preciso relacionado con esta declaración.
 
 792
 00:47:01,390 --> 00:47:02,673
@@ -3265,7 +3265,7 @@ o un diseñador gráfico,
 
 817
 00:48:20,580 --> 00:48:23,238
-Y te darán inferfaces y te pedirán que las diseñes.
+Y te darán interfases y te pedirán que las diseñes.
 
 818
 00:48:23,238 --> 00:48:26,175
@@ -3321,7 +3321,7 @@ Pero no lo veo a Larry Tesler en ninguno de esos dos caminos.
 
 831
 00:49:08,997 --> 00:49:12,620
-Yo no diría que estaba contribuyendo al diseño de experiencas de usuario
+Yo no diría que estaba contribuyendo al diseño de experiencias de usuario
 
 832
 00:49:12,620 --> 00:49:14,888
@@ -3401,7 +3401,7 @@ Puede tomar tiempo encontrar un principio, porque
 
 851
 00:50:12,247 --> 00:50:14,783
-encontrar un principio, es escencialmente una forma de auto-descubrimiento,
+encontrar un principio, es esencialmente una forma de auto-descubrimiento,
 
 852
 00:50:14,783 --> 00:50:18,187
@@ -3565,7 +3565,7 @@ Y ese es un principio poderoso
 
 892
 00:52:14,168 --> 00:52:17,372
-porque le dió una nueva forma de ver el mundo.
+porque le dio una nueva forma de ver el mundo.
 
 893
 00:52:17,372 --> 00:52:20,541
@@ -3657,7 +3657,7 @@ Puedes elegir ser un sonámbulo toda tu vida
 
 915
 00:53:33,681 --> 00:53:36,552
-y aceptar el camino que ha sido trazado para tí.
+y aceptar el camino que ha sido trazado para ti.
 
 916
 00:53:36,552 --> 00:53:40,055
