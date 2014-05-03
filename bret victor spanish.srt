@@ -2629,11 +2629,11 @@ Y Larry observaría a la gente usar la computadora,
 
 658
 00:39:16,157 --> 00:39:20,895
-realmente serían pioneros del concepto sobre estudios del usuario de software, otra cosa que hicieron,
+realmente serían pioneros del concepto sobre estudios del usuario de software, otra cosa que hicieron,
 
 659
 00:39:20,895 --> 00:39:24,431
-pero observaría a la gente usando el software y encontró que mucha gente
+pero observaría a la gente usando el software y encontró que mucha gente
 
 660
 00:39:24,431 --> 00:39:27,535
@@ -2729,7 +2729,7 @@ Cortar, Copiar, Pegar
 
 683
 00:40:38,238 --> 00:40:42,045
-Encones seleccionas y Cortas, después Pegas, cuando estás listo
+En donde seleccionas y Cortas, después Pegas, cuando estás listo
 
 684
 00:40:42,045 --> 00:40:45,112
